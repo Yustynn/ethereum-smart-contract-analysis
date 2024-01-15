@@ -1,0 +1,360 @@
+﻿* From ChatGPT, cleaned up.
+* * Tether (USDT)
+   * Brief Description: Tether is a stablecoin that aims to maintain a 1:1 value ratio with the US Dollar.
+   * Classification: Stablecoin
+   * User Roles:
+      * Users: Hold and transact with USDT for stablecoin benefits.
+      * Issuers (Tether Limited): Responsible for issuing USDT and maintaining its peg to the US Dollar.
+      * Exchanges: Facilitate the trading of USDT against other cryptocurrencies and fiat currencies.
+   * Primary Blockchain: Ethereum, Tron, Bitcoin (via Omni Layer), Algorand, Solana, and others.
+* USD Coin (USDC)
+   * Brief Description: USDC is a stablecoin that is pegged to the US Dollar and is designed for global transactions.
+   * Classification: Stablecoin
+   * User Roles:
+      * Users: Use USDC for stable, digital transactions.
+      * Issuers (Consortium members): Regulated financial institutions that issue and redeem USDC.
+      * Developers: Integrate USDC into apps and services.
+   * Primary Blockchain: Ethereum and other blockchains like Algorand, Solana, and Stellar.
+* Polygon (MATIC)
+   * Brief Description: Polygon is a protocol and framework for building and connecting Ethereum-compatible blockchain networks.
+   * Classification: Layer 2 scaling solution
+   * User Roles:
+      * Developers: Build scalable dApps using Polygon's infrastructure.
+      * Validators: Participate in network consensus and secure the network.
+      * Users: Engage with dApps on Polygon's network for faster and cheaper transactions.
+   * Primary Blockchain: Ethereum
+* Chainlink (LINK)
+   * Brief Description: Chainlink is a decentralized oracle network that provides real-world data to smart contracts on the blockchain.
+   * Classification: Oracle network
+   * User Roles:
+      * Node Operators: Run Chainlink nodes to provide external data to smart contracts.
+      * Smart Contract Developers: Use Chainlink to access off-chain data and computation.
+      * Data Providers: Supply data to Chainlink network.
+   * Primary Blockchain: Ethereum, but also integrated with multiple other blockchains.
+* Toncoin (TON)
+   * Brief Description: Toncoin is a high-speed, scalable blockchain designed for decentralized applications and services.
+   * Classification: Blockchain platform
+   * User Roles:
+      * Developers: Build dApps and services on the TON blockchain.
+      * Validators: Support network operations and consensus.
+      * Users: Participate in the TON ecosystem and use its services.
+   * Primary Blockchain: TON's own blockchain
+* Shiba Inu (SHIB)
+   * Brief Description: Shiba Inu is a meme-based cryptocurrency that has evolved to include decentralized finance (DeFi) features.
+   * Classification: Meme coin, DeFi platform
+   * User Roles:
+      * Holders: Invest in and transact with SHIB tokens.
+      * Liquidity Providers: Contribute to liquidity pools on ShibaSwap, its decentralized exchange.
+      * Developers: Build on the Shiba Inu ecosystem, enhancing its capabilities.
+   * Primary Blockchain: Ethereum
+* Dai (DAI)
+   * Brief Description: Dai is a decentralized, collateral-backed stablecoin maintained by MakerDAO.
+   * Classification: Stablecoin
+   * User Roles:
+      * Vault Owners: Lock collateral assets to generate DAI.
+      * DAI Holders: Use DAI for stable, decentralized transactions.
+      * MKR Holders: Govern the Maker Protocol, voting on proposals and risk parameters.
+      * Keepers: Participate in system auctions to maintain system solvency.
+      * Oracles: Provide external market data to the Maker Protocol.
+      * Developers: Integrate DAI into applications and services.
+      * Risk Teams: Analyze and propose risk parameters for the protocol.
+   * Primary Blockchain: Ethereum
+* Uniswap (UNI)
+   * Brief Description: Uniswap is a decentralized exchange protocol enabling automated liquidity provision on Ethereum.
+   * Classification: Decentralized Exchange (DEX)
+   * User Roles:
+      * Traders: Swap tokens on the Uniswap platform.
+      * Liquidity Providers: Supply assets to liquidity pools to earn trading fees.
+      * Governance Token Holders (UNI holders): Vote on proposals that govern the protocol.
+      * Developers: Build on the Uniswap protocol and integrate it into other applications.
+   * Primary Blockchain: Ethereum
+* UNUS SED LEO (LEO)
+   * Brief Description: UNUS SED LEO is a utility token primarily used within the iFinex ecosystem, which includes the Bitfinex exchange. It was created to optimize the platform's operations and provide benefits to its users. LEO holders can benefit from reduced trading fees on Bitfinex and other advantages within the ecosystem.
+   * Classification: Decentralized Exchange (DEX)
+   * User Roles:
+      * Traders: Utilize LEO tokens to receive discounts on trading fees on Bitfinex and potentially other benefits on platforms under iFinex.
+      * Holders: Hold LEO tokens for potential future benefits or price appreciation.
+      * Bitfinex Users: Engage in trading and other financial activities on the Bitfinex platform, potentially leveraging LEO tokens for enhanced benefits.
+   * Primary Blockchain: LEO tokens are issued on both Ethereum and EOS blockchains, providing flexibility and options for users in terms of transaction speeds and costs.
+* OKB
+   * Brief Description: OKB is the utility token of the OKEx exchange, offering various benefits to its users and facilitating the OKEx ecosystem.
+   * Classification: Utility token, Exchange token
+   * User Roles:
+      * Traders: Use OKB for trading fee discounts and participation in exchange activities.
+      * Participants in Token Sales: Access to special token sales and events on OKEx.
+      * Stakeholders: Stake OKB to earn rewards or participate in governance decisions.
+   * Primary Blockchain: Ethereum
+* Lido DAO (LDO)
+* Brief Description: Lido is a decentralized staking solution, allowing users to stake their Ethereum and other supported assets and receive staking rewards without locking their tokens.
+* Classification: Staking solution, DAO
+* User Roles:
+   * Stakers: Stake their assets through Lido to earn rewards while retaining liquidity.
+   * Governance Participants (LDO holders): Participate in decision-making processes affecting the Lido protocol.
+   * Node Operators: Run validator nodes to support the network and earn staking rewards.
+* Primary Blockchain: Ethereum
+* Immutable (IMX)
+   * Brief Description: Immutable is a layer-2 scaling solution for NFTs on Ethereum, focused on providing high-speed, low-cost transactions.
+   * Classification: Layer 2 scaling solution, NFT platform
+   * User Roles:
+      * Developers: Build NFT applications and games on Immutable X.
+      * Users and Traders: Buy, sell, and trade NFTs with low fees and carbon-neutral transactions.
+      * Validators: Support the security and efficiency of the platform.
+   * Primary Blockchain: Ethereum
+* Mantle
+   * Brief Description: Mantle is a blockchain platform focused on providing solutions for scalability, security, and decentralization.
+   * Classification: Blockchain platform
+   * User Roles:
+      * Developers: Create decentralized applications on the Mantle network.
+      * Validators: Participate in network consensus and maintain network security.
+      * Users: Engage with the platform and use its decentralized applications.
+   * Primary Blockchain: Specific blockchain information might not be available without current internet access.
+* Cronos
+   * Brief Description: Cronos is the native blockchain of Crypto.com, designed to empower creators, crypto projects, and users with an open, scalable, and user-friendly infrastructure.
+   * Classification: Layer 1 Blockchain / EVM-compatible chain.
+   * User Roles:
+      * Developers: Create dApps and smart contracts on the network.
+      * Validators: Participate in network consensus and security.
+      * Users: Engage with dApps, staking, and transactions.
+      * Delegators: Stake their tokens with validators for network security.
+   * Primary Blockchain: Cronos is its own blockchain, compatible with Ethereum Virtual Machine (EVM).
+* TrueUSD (TUSD)
+   * Brief Description: TrueUSD is a USD-pegged stablecoin known for its transparency and regular audits.
+   * Classification: Stablecoin.
+   * User Roles:
+      * Users/Holders: Use TUSD for transactions, trading, and savings.
+      * Issuers/Auditors: Responsible for issuing TUSD and ensuring its 1:1 USD peg through regular audits.
+      * Developers: Build applications and services utilizing TUSD.
+   * Primary Blockchain: Initially launched on Ethereum.
+* First Digital USD (FDU)
+   * Brief Description: First Digital USD is a lesser-known digital asset, and detailed information might be limited without internet access.
+   * Classification: Likely a digital currency or stablecoin.
+   * User Roles: Likely similar to other digital currencies or stablecoins, involving users, holders, and potentially developers.
+   * Primary Blockchain: Not readily available without further research.
+* Maker (MKR)
+* Brief Description: Maker is a key component of the MakerDAO and Maker Protocol, which manage the Dai stablecoin. MKR is a governance token that allows holders to vote on changes to the protocol, including adjustments to stability fees, collateral types, and other system parameters.
+* Classification: Governance Token / Decentralized Finance (DeFi).
+* User Roles:
+   * MKR Holders: Participate in governance decisions affecting the Maker Protocol.
+   * Vault Owners: Users who lock up collateral (like ETH) in Maker Vaults to generate Dai, a stablecoin pegged to the US Dollar.
+   * Dai Holders: Users who hold or use Dai for its stablecoin properties.
+   * Developers: Build on the Maker Protocol, integrating Dai and other features into dApps and services.
+   * Keepers: Participants who help maintain the Maker system by engaging in activities like liquidity provision and auction participation.
+      * Oracles: Provide external data to the system, particularly price feeds for collateral assets.
+      * Risk Teams: Groups or individuals who propose changes to risk parameters and contribute to the system's overall security and stability.
+   * Primary Blockchain: Ethereum.
+* The Graph (GRT)
+   * Brief Description: The Graph is a decentralized protocol for indexing and querying blockchain data, aimed at facilitating data accessibility from various blockchains.
+   * Classification: Data Indexing Protocol.
+   * User Roles:
+      * Indexers: Node operators who index data and serve queries.
+      * Curators: Signal quality subgraphs by staking GRT.
+      * Delegators: Delegate GRT to indexers to secure the network.
+      * Consumers: Developers or DApps querying data from The Graph.
+   * Primary Blockchain: Ethereum.
+* Aave
+   * Brief Description: Aave is a decentralized finance protocol allowing users to lend and borrow cryptocurrencies.
+   * Classification: DeFi Lending Platform.
+   * User Roles:
+      * Lenders: Provide liquidity to the market by depositing assets.
+      * Borrowers: Take out loans by providing collateral.
+      * Liquidators: Participate in liquidating undercollateralized loans.
+      * AAVE Token Holders: Participate in governance decisions.
+   * Primary Blockchain: Ethereum.
+* Render
+   * Brief Description: Render is a distributed GPU rendering network built on blockchain technology, enabling users to connect and lend their GPU power for rendering services.
+   * Classification: Distributed Network/Rendering Service.
+   * User Roles:
+      * Node Operators: Provide GPU power for rendering.
+      * Artists/Creators: Utilize the network for rendering services.
+      * Token Holders: Can participate in governance or staking.
+   * Primary Blockchain: Ethereum.
+* Quant (QNT)
+   * Brief Description: Quant aims to connect blockchains and networks globally without reducing the efficiency and interoperability of the network.
+   * Classification: Blockchain Interoperability.
+   * User Roles:
+      * Users: Leverage Quant for cross-chain interoperability.
+      * Developers: Build MApps (Multichain Applications) on the network.
+      * Token Holders: Engage in network governance.
+   * Primary Blockchain: Not tied to a single blockchain; focuses on interoperability.
+* Flow
+   * Brief Description: Flow is a fast, decentralized, and developer-friendly blockchain, designed as the foundation for a new generation of games, apps, and digital assets.
+   * Classification: Layer 1 Blockchain.
+   * User Roles:
+      * Developers: Build and deploy decentralized applications.
+      * Validators: Participate in consensus and network security.
+      * Users: Interact with DApps and digital assets on the network.
+   * Primary Blockchain: Flow has its own blockchain.
+* Synthetix
+   * Brief Description: Synthetix is a decentralized platform that allows for the creation of synthetic assets, enabling users to gain exposure to a variety of assets within the crypto ecosystem.
+   * Classification: DeFi / Synthetic Asset Platform.
+   * User Roles:
+      * SNX Holders: Stake SNX tokens to mint synthetic assets.
+      * Traders: Trade various synthetic assets on the platform.
+      * Developers: Build applications and interfaces utilizing the Synthetix protocol.
+      * Oracles: Provide external data for accurate pricing of synthetic assets.
+   * Primary Blockchain: Ethereum.
+* Fantom
+   * Brief Description: Fantom is a high-performance, scalable, and secure smart-contract platform, designed to overcome the limitations of previous generation blockchains.
+   * Classification: Layer 1 Blockchain / Smart Contract Platform.
+   * User Roles:
+      * Developers: Build decentralized applications on the Fantom network.
+      * Validators: Secure the network through staking and validation.
+      * Users: Interact with applications and participate in network activities.
+   * Primary Blockchain: Fantom operates on its own blockchain, using the Opera mainnet.
+* The Sandbox
+   * Brief Description: The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences using SAND, the platform's utility token.
+   * Classification: Virtual World / Gaming Platform.
+   * User Roles:
+      * Creators: Design and develop interactive content.
+      * Players: Engage in experiences and games within the virtual world.
+      * LAND Owners: Own and develop virtual real estate.
+      * SAND Token Holders: Participate in governance and ecosystem transactions.
+   * Primary Blockchain: Ethereum.
+* Axie Infinity
+   * Brief Description: Axie Infinity is a blockchain-based trading and battling game partially owned and operated by its players. Inspired by popular games like Pokémon, players can collect, breed, raise, battle, and trade token-based creatures known as Axies.
+   * Classification: Blockchain Game / NFT Platform.
+   * User Roles:
+      * Players: Collect, breed, and battle Axies.
+      * Breeders: Specialize in breeding Axies for specific traits.
+      * Traders: Buy, sell, or trade Axies and in-game items.
+      * Land Owners: Own and manage digital land within the game.
+   * Primary Blockchain: Initially built on Ethereum, but operates on its own Ronin sidechain to reduce fees and increase transaction speed.
+* KuCoin Token (KCS)
+   * Brief Description: KuCoin Token is the native token of the KuCoin cryptocurrency exchange, used for receiving trading fee discounts and participating in token sales.
+   * Classification: Exchange Token.
+   * User Roles:
+      * Traders: Utilize KCS for reduced fees and other benefits on KuCoin.
+      * Holders: Participate in governance and earn rewards.
+   * Primary Blockchain: Ethereum.
+* Beam
+   * Brief Description: Beam is a privacy-focused cryptocurrency that uses the Mimblewimble protocol to enhance confidentiality and scalability.
+   * Classification: Privacy Coin.
+   * User Roles:
+      * Users: Engage in private transactions.
+      * Miners: Secure the network and validate transactions.
+   * Primary Blockchain: Beam has its own blockchain.
+* Decentraland (MANA)
+   * Brief Description: Decentraland is a virtual reality platform powered by the Ethereum blockchain that allows users to create, experience, and monetize content and applications.
+   * Classification: Virtual Reality / Gaming Platform.
+   * User Roles:
+      * Creators: Design and develop virtual experiences.
+      * Players: Explore and interact within the virtual world.
+      * LAND Owners: Own and develop virtual land parcels.
+   * Primary Blockchain: Ethereum.
+* Osmosis
+   * Brief Description: Osmosis is a decentralized exchange protocol that enables the creation of liquidity pools with custom rules and bonding curves.
+   * Classification: Decentralized Exchange (DEX) / DeFi.
+   * User Roles:
+      * Liquidity Providers: Contribute to liquidity pools.
+      * Traders: Engage in swapping and trading of assets.
+      * OSMO Stakers: Participate in governance and secure the network.
+   * Primary Blockchain: Osmosis operates on its own blockchain.
+* Bitget Token
+   * Brief Description: Bitget Token is the native token of the Bitget cryptocurrency exchange, similar in purpose to other exchange tokens.
+   * Classification: Exchange Token.
+   * User Roles: Information might be limited without further research.
+   * Primary Blockchain: Not readily available without further research.
+* Kava
+   * Brief Description: Kava is a decentralized finance platform offering collateralized loans and stablecoins to users of major cryptocurrencies.
+   * Classification: DeFi Platform.
+   * User Roles:
+      * Users: Take out collateralized loans and earn interest.
+      * Validators: Secure the network through staking.
+   * Primary Blockchain: Kava operates on its own blockchain.
+* Oasis Network (ROSE)
+* Brief Description: Oasis Network is a privacy-focused blockchain platform designed for open finance and a responsible data economy. It aims to provide high scalability, secure architecture, and enables private, tokenized data that users can control and earn rewards from.
+* Classification: Blockchain Platform / Privacy and Scalability.
+* User Roles:
+   * Developers: Build privacy-focused dApps and smart contracts on the network.
+   * Node Operators / Validators: Participate in network consensus and security, maintaining the blockchain.
+   * Users: Engage with dApps, staking, and transactions, particularly with a focus on privacy-preserving applications.
+   * Data Providers: Contribute data to the network and can monetize it while maintaining privacy.
+* Primary Blockchain: Oasis Network operates on its own blockchain, using its native token, ROSE, for transactions and staking.
+* Ethereum Name Service (ENS)
+   * Brief Description: Ethereum Name Service offers a decentralized way to address resources both on and off the blockchain using simple, human-readable names.
+   * Classification: Naming Service.
+   * User Roles:
+      * Domain Owners: Register and manage ENS domains.
+      * Users: Use ENS names to transact with easier-to-remember addresses.
+      * Developers: Integrate ENS into applications for user-friendly addresses.
+   * Primary Blockchain: Ethereum.
+* WOO
+   * Brief Description: WOO is associated with WOO Network, a deep liquidity network connecting traders, exchanges, institutions, and DeFi platforms.
+   * Classification: Liquidity/Trading Network Token.
+   * User Roles:
+      * Traders: Utilize the network for trading with deep liquidity.
+      * Holders: May participate in governance or other network-specific activities.
+   * Primary Blockchain: Information might be limited without further research.
+* USDD
+   * Brief Description: USDD is a stablecoin that aims to maintain a peg to the US Dollar.
+   * Classification: Stablecoin.
+   * User Roles:
+      * Users: Utilize USDD for stablecoin benefits in transactions and savings.
+      * Issuers: Responsible for maintaining the peg to the US Dollar.
+   * Primary Blockchain: Not readily available without further research.
+* Gala
+   * Brief Description: Gala Games focuses on creating blockchain-based games, with GALA as its utility token for in-game transactions and rewards.
+   * Classification: Gaming / Entertainment.
+   * User Roles:
+      * Players: Engage in blockchain-based games.
+      * Node Operators: Support the network and earn rewards.
+   * Primary Blockchain: Initially on Ethereum, with plans for its own blockchain.
+* PancakeSwap (CAKE)
+   * Brief Description: PancakeSwap is a leading decentralized exchange on Binance Smart Chain, known for its automated market-making mechanism.
+   * Classification: Decentralized Exchange (DEX).
+   * User Roles:
+      * Liquidity Providers: Contribute to liquidity pools.
+      * Traders: Engage in token swapping and trading.
+      * CAKE Holders: Participate in governance and staking.
+   * Primary Blockchain: Binance Smart Chain.
+* Chiliz (CHZ)
+   * Brief Description: Chiliz is a digital currency for sports and entertainment platforms, powering the Socios.com fan engagement platform.
+   * Classification: Fan Engagement / Entertainment Token.
+   * User Roles:
+      * Fans: Participate in fan engagement and decision-making for sports teams.
+      * Traders: Trade CHZ and fan tokens on exchanges.
+   * Primary Blockchain: Ethereum.
+* Blur
+   * Brief Description: Information about "Blur" as a blockchain project might be limited without internet access.
+   * Classification: Unknown.
+   * User Roles: Not readily available without further research.
+   * Primary Blockchain: Not readily available without further research.
+* Terra Classic (LUNC)
+   * Brief Description: Terra Classic (formerly known as Terra) is a blockchain platform that originally focused on stablecoins and DeFi applications. It gained notoriety due to the collapse of its algorithmic stablecoin, UST.
+   * Classification: Blockchain Platform / DeFi.
+   * User Roles:
+      * Users: Engage in DeFi applications and transactions.
+      * Developers: Build and maintain applications on the Terra Classic blockchain.
+      * Validators: Participate in network consensus and security.
+   * Primary Blockchain: Terra Classic has its own blockchain.
+* Rocket Pool (RPL)        
+   * Brief Description: Rocket Pool is a decentralized Ethereum staking pool, allowing users to earn staking rewards without needing to operate a full Ethereum validator node.
+   * Classification: Staking Service.
+   * User Roles:
+      * Node Operators: Run Ethereum validator nodes and stake ETH.
+      * Stakers: Stake ETH in the pool to earn rewards.
+      * RPL Holders: Participate in governance and secure the network.
+   * Primary Blockchain: Ethereum.
+* Frax Share (FXS)
+   * Brief Description: Frax Share is part of the Frax Finance ecosystem, which is known for creating the first fractional-algorithmic stablecoin, Frax (FRAX).
+   * Classification: DeFi / Stablecoin.
+   * User Roles:
+      * FXS Holders: Participate in governance and receive fees generated by the Frax protocol.
+      * Users: Engage with the Frax stablecoin and related DeFi applications.
+   * Primary Blockchain: Ethereum.
+* Curve DAO Token (CRV)
+   * Brief Description: Curve is a decentralized exchange for stablecoins, focusing on providing efficient and low-slippage swaps.
+   * Classification: Decentralized Exchange (DEX) / DeFi.
+   * User Roles:
+      * Liquidity Providers: Supply liquidity to Curve's stablecoin pools.
+      * Traders: Swap stablecoins at efficient rates.
+      * CRV Holders: Participate in governance and earn trading fees.
+   * Primary Blockchain: Ethereum.
+* Fetch.ai (FET)
+   * Brief Description: Fetch.ai is a blockchain platform that aims to bring together machine learning, artificial intelligence, and decentralized ledger technology to create an economic internet.
+   * Classification: AI / Blockchain Platform.
+   * User Roles:
+      * Developers: Build and deploy AI and ML applications on the network.
+      * Users: Utilize AI services and applications on the platform.
+      * Node Operators: Support the network infrastructure.
+   * Primary Blockchain: Initially on Ethereum, with plans for its own blockchain.

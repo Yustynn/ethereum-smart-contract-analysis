@@ -1,0 +1,101 @@
+rnk,name,sym,market_cap,circ_supply,url
+1,Bitcoin,BTC,833010599336,19597243,https://coinmarketcap.com/currencies/bitcoin/
+2,Ethereum,ETH,305192444090,120181204,https://coinmarketcap.com/currencies/ethereum/
+3,Tether USDt,USDT,95005952751,95010835102,https://coinmarketcap.com/currencies/tether/
+4,BNB,BNB,44785315755,151689959,https://coinmarketcap.com/currencies/bnb/
+5,Solana,SOL,39212649557,432425572,https://coinmarketcap.com/currencies/solana/
+6,XRP,XRP,30993118746,54266821529,https://coinmarketcap.com/currencies/xrp/
+7,USDC,USDC,25434682365,25429525768,https://coinmarketcap.com/currencies/usd-coin/
+8,Cardano,ADA,19226847825,35386163470,https://coinmarketcap.com/currencies/cardano/
+9,Avalanche,AVAX,12925893169,366635133,https://coinmarketcap.com/currencies/avalanche/
+10,Dogecoin,DOGE,11390363921,142629896384,https://coinmarketcap.com/currencies/dogecoin/
+11,Polkadot,DOT,9633692951,1271942716,https://coinmarketcap.com/currencies/polkadot-new/
+12,TRON,TRX,9404605158,88245283933,https://coinmarketcap.com/currencies/tron/
+13,Polygon,MATIC,8212785105,9562676979,https://coinmarketcap.com/currencies/polygon/
+14,Chainlink,LINK,7969080828,568099970,https://coinmarketcap.com/currencies/chainlink/
+15,Toncoin,TON,7297832861,3456589744,https://coinmarketcap.com/currencies/toncoin/
+16,Internet Computer,ICP,5716367553,455142897,https://coinmarketcap.com/currencies/internet-computer/
+17,Shiba Inu,SHIB,5661302302,589290628957783,https://coinmarketcap.com/currencies/shiba-inu/
+18,Dai,DAI,5344735551,5347888596,https://coinmarketcap.com/currencies/multi-collateral-dai/
+19,Litecoin,LTC,5339871490,74087057,https://coinmarketcap.com/currencies/litecoin/
+20,Bitcoin Cash,BCH,5045446320,19612506,https://coinmarketcap.com/currencies/bitcoin-cash/
+21,Ethereum Classic,ETC,4246663915,145010607,https://coinmarketcap.com/currencies/ethereum-classic/
+22,Uniswap,UNI,3924563798,598187016,https://coinmarketcap.com/currencies/uniswap/
+23,Cosmos,ATOM,3784259904,382577948,https://coinmarketcap.com/currencies/cosmos/
+24,UNUS SED LEO,LEO,3754518781,927935252,https://coinmarketcap.com/currencies/unus-sed-leo/
+25,Optimism,OP,3690881116,957378568,https://coinmarketcap.com/currencies/optimism-ethereum/
+26,NEAR Protocol,NEAR,3407647992,1004666471,https://coinmarketcap.com/currencies/near-protocol/
+27,Stellar,XLM,3362962413,28334026919,https://coinmarketcap.com/currencies/stellar/
+28,OKB,OKB,3194135536,60000000,https://coinmarketcap.com/currencies/okb/
+29,Lido DAO,LDO,3007268036,890181826,https://coinmarketcap.com/currencies/lido-dao/
+30,Injective,INJ,2993009513,83755556,https://coinmarketcap.com/currencies/injective/
+31,Aptos,APT,2940749389,334444629,https://coinmarketcap.com/currencies/aptos/
+32,Filecoin,FIL,2915206450,496509430,https://coinmarketcap.com/currencies/filecoin/
+33,Immutable,IMX,2779708563,1321989537,https://coinmarketcap.com/currencies/immutable-x/
+34,Monero,XMR,2762810846,18383636,https://coinmarketcap.com/currencies/monero/
+35,Arbitrum,ARB,2730917292,1275000000,https://coinmarketcap.com/currencies/arbitrum/
+36,Hedera,HBAR,2649562966,33649003052,https://coinmarketcap.com/currencies/hedera/
+37,Kaspa,KAS,2528790735,22290783677,https://coinmarketcap.com/currencies/kaspa/
+38,Celestia,TIA,2466813596,157043528,https://coinmarketcap.com/currencies/celestia/
+39,Stacks,STX,2395412973,1431687667,https://coinmarketcap.com/currencies/stacks/
+40,Mantle,MNT,2321756587,3132441863,https://coinmarketcap.com/currencies/mantle/
+41,VeChain,VET,2225267366,72714516834,https://coinmarketcap.com/currencies/vechain/
+42,Cronos,CRO,2214522204,25263013692,https://coinmarketcap.com/currencies/cronos/
+43,TrueUSD,TUSD,2040165490,2050388396,https://coinmarketcap.com/currencies/trueusd/
+44,First Digital USD,FDUSD,2015379680,2018986628,https://coinmarketcap.com/currencies/first-digital-usd/
+45,Maker,MKR,1885162199,920112,https://coinmarketcap.com/currencies/maker/
+46,Bitcoin SV,BSV,1645208793,19605344,https://coinmarketcap.com/currencies/bitcoin-sv/
+47,The Graph,GRT,1604575428,9364250762,https://coinmarketcap.com/currencies/the-graph/
+48,Sei,SEI,1531168764,2300000000,https://coinmarketcap.com/currencies/sei/
+49,THORChain,RUNE,1521519580,338342294,https://coinmarketcap.com/currencies/thorchain/
+50,Aave,AAVE,1511330608,14705655,https://coinmarketcap.com/currencies/aave/
+51,Algorand,ALGO,1485491947,8043034900,https://coinmarketcap.com/currencies/algorand/
+52,ORDI,ORDI,1436160803,21000000,https://coinmarketcap.com/currencies/ordi/
+53,Render,RNDR,1402595062,371908453,https://coinmarketcap.com/currencies/render/
+54,MultiversX,EGLD,1401043443,26443605,https://coinmarketcap.com/currencies/multiversx-egld/
+55,Quant,QNT,1399757303,12072738,https://coinmarketcap.com/currencies/quant/
+56,Sui,SUI,1282833916,1100947215,https://coinmarketcap.com/currencies/sui/
+57,SATS,1000SATS,1241520128,2100000000000,https://coinmarketcap.com/currencies/sats/
+58,Mina,MINA,1208438616,1033227757,https://coinmarketcap.com/currencies/mina/
+59,Flow,FLOW,1195002281,1482285260,https://coinmarketcap.com/currencies/flow/
+60,Helium,HNT,1164954278,159946120,https://coinmarketcap.com/currencies/helium/
+61,Synthetix,SNX,1117996497,304258070,https://coinmarketcap.com/currencies/synthetix/
+62,Fantom,FTM,1077212377,2803634836,https://coinmarketcap.com/currencies/fantom/
+63,The Sandbox,SAND,1054867721,2118731926,https://coinmarketcap.com/currencies/the-sandbox/
+64,Axie Infinity,AXS,1036523492,132040367,https://coinmarketcap.com/currencies/axie-infinity/
+65,Theta Network,THETA,1033970555,1000000000,https://coinmarketcap.com/currencies/theta-network/
+66,BitTorrent (New),BTT,1030710769,968246428571000,https://coinmarketcap.com/currencies/bittorrent-new/
+67,FTX Token,FTT,994942889,328895104,https://coinmarketcap.com/currencies/ftx-token/
+68,Tezos,XTZ,977777528,967017014,https://coinmarketcap.com/currencies/tezos/
+69,KuCoin Token,KCS,954247274,96641044,https://coinmarketcap.com/currencies/kucoin-token/
+70,WEMIX,WEMIX,923175825,352248515,https://coinmarketcap.com/currencies/wemix/
+71,Beam,BEAM,882724855,50276724552,https://coinmarketcap.com/currencies/onbeam/
+72,Decentraland,MANA,866977577,1893095371,https://coinmarketcap.com/currencies/decentraland/
+73,Neo,NEO,854405149,70538831,https://coinmarketcap.com/currencies/neo/
+74,Osmosis,OSMO,850921259,492590761,https://coinmarketcap.com/currencies/osmosis/
+75,EOS,EOS,845089927,1114094437,https://coinmarketcap.com/currencies/eos/
+76,Bonk,BONK,845658545,63333513043628,https://coinmarketcap.com/currencies/bonk1/
+77,Bitget Token,BGB,832557356,1400000000,https://coinmarketcap.com/currencies/bitget-token-new/
+78,Kava,KAVA,820127820,1082861785,https://coinmarketcap.com/currencies/kava/
+79,Astar,ASTR,788917755,5490541625,https://coinmarketcap.com/currencies/astar/
+80,Oasis Network,ROSE,759792072,6713599876,https://coinmarketcap.com/currencies/oasis-network/
+81,IOTA,IOTA,747294058,3095541289,https://coinmarketcap.com/currencies/iota/
+82,Ethereum Name Service,ENS,732221270,30687502,https://coinmarketcap.com/currencies/ethereum-name-service/
+83,WOO,WOO,729784917,1810342008,https://coinmarketcap.com/currencies/wootrade/
+84,USDD,USDD,717005212,725332034,https://coinmarketcap.com/currencies/usdd/
+85,Gala,GALA,709097582,27547022777,https://coinmarketcap.com/currencies/gala/
+86,PancakeSwap,CAKE,706675758,245475228,https://coinmarketcap.com/currencies/pancakeswap/
+87,Chiliz,CHZ,703972675,8888292417,https://coinmarketcap.com/currencies/chiliz/
+88,Blur,BLUR,694885506,1228792456,https://coinmarketcap.com/currencies/blur-token/
+89,Terra Classic,LUNC,689482873,5802659719478,https://coinmarketcap.com/currencies/terra-luna/
+90,XDC Network,XDC,690682676,13890800109,https://coinmarketcap.com/currencies/xdc-network/
+91,Rocket Pool,RPL,684476246,19991437,https://coinmarketcap.com/currencies/rocket-pool/
+92,eCash,XEC,671823983,19605679673092,https://coinmarketcap.com/currencies/ecash/
+93,Frax Share,FXS,664014729,76225462,https://coinmarketcap.com/currencies/frax-share/
+94,Conflux,CFX,660241099,3647990198,https://coinmarketcap.com/currencies/conflux-network/
+95,Klaytn,KLAY,645015496,3481474196,https://coinmarketcap.com/currencies/klaytn/
+96,Akash Network,AKT,623530596,225043216,https://coinmarketcap.com/currencies/akash-network/
+97,Arweave,AR,602557104,65454185,https://coinmarketcap.com/currencies/arweave/
+98,Curve DAO Token,CRV,585565694,1072143989,https://coinmarketcap.com/currencies/curve-dao-token/
+99,Fetch.ai,FET,557488514,828981666,https://coinmarketcap.com/currencies/fetch/
+100,Flare,FLR,556918487,32437516196,https://coinmarketcap.com/currencies/flare/
