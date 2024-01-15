@@ -1,5 +1,6 @@
 from dataclasses import dataclass
-from abc import ABC, abstractmethod, abstractproperty
+from abc import ABC, abstractmethod
+import csv
 from typing import Any, List, Tuple
 import logging
 
@@ -93,7 +94,6 @@ class RolesExtractor(Extractor):
       line = lines[0]
       lines = lines[1:]
 
-      self.logger.debug(line)
       name, description = [s.strip() for s in line.replace(STAR,'').split(':', 1)]
 
       roles.append(Role(name, description))
@@ -127,4 +127,26 @@ while lines:
 
   entries.append(Entry(*infos))
 
-print(entries)
+# to csv
+OUTPUT_PATH = '../data/project-qual-info.csv'
+HEADERS = [
+  'Name',
+  'Category',
+  'Num Roles',
+  'Primary Blockchain',
+  'Roles',
+  'Description',
+]
+
+with open(OUTPUT_PATH, 'w') as f:
+  writer = csv.writer(f)
+  writer.writerow(HEADERS)
+  for entry in entries:
+    writer.writerow([
+      entry.name,
+      entry.category,
+      len(entry.roles),
+      entry.primary_blockchain,
+      ', '.join([r.name for r in entry.roles]),
+      entry.description
+    ])
