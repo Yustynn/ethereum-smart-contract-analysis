@@ -19,7 +19,7 @@ class Role:
 class Entry:
   name: str
   description: str
-  category: str
+  categories: List[str]
   roles: List[Role]
   primary_blockchain: str
 
@@ -43,7 +43,8 @@ class Extractor(ABC):
 
     # validate
     line = lines[0].strip()
-    assert line.startswith(self.start_format), f'[{type(self).__name__}] Line should start with ({self.start_format}). Line: ({line})'
+    assert line.startswith(self.start_format), \
+      f'[{type(self).__name__}] Line should start with ({self.start_format}). Line: ({line})'
 
     return self._extract(lines)
 
@@ -65,13 +66,17 @@ class DescriptionExtractor(Extractor):
     return description, lines[1:]
     
 
-class CategoryExtractor(Extractor):
+class CategoriesExtractor(Extractor):
   start_format = f'{STAR} Classification: '
 
   def _extract(self, lines: List[str]) -> Tuple[Any, List[str]]:
-    category = lines[0].strip().replace(self.start_format, '')
+    line = lines[0].strip().replace(self.start_format, '')
+    if line.endswith('.'):
+      line = line[:-1]
 
-    return category, lines[1:]
+    categories = line.split(' / ')
+
+    return categories, lines[1:]
 
 
 class PrimaryBlockchainExtractor(Extractor):
@@ -79,6 +84,8 @@ class PrimaryBlockchainExtractor(Extractor):
 
   def _extract(self, lines: List[str]) -> Tuple[Any, List[str]]:
     primary_blockchain = lines[0].strip().replace(self.start_format, '')
+    if primary_blockchain.endswith('.'):
+      primary_blockchain = primary_blockchain[:-1]
 
     return primary_blockchain, lines[1:]
     
@@ -104,7 +111,7 @@ class RolesExtractor(Extractor):
 EXTRACTOR_ORDERING = [
   NameExtractor,
   DescriptionExtractor,
-  CategoryExtractor,
+  CategoriesExtractor,
   RolesExtractor,
   PrimaryBlockchainExtractor
 ]
@@ -130,12 +137,14 @@ while lines:
 # to csv
 OUTPUT_PATH = '../data/project-qual-info.csv'
 HEADERS = [
-  'Name',
-  'Category',
-  'Num Roles',
-  'Primary Blockchain',
-  'Roles',
-  'Description',
+  'name',
+  'categories',
+  'significant_ethereum_usage',
+  'num_roles',
+  'roles',
+  'num_categories',
+  'description',
+  'primary_blockchain',
 ]
 
 with open(OUTPUT_PATH, 'w') as f:
@@ -144,9 +153,11 @@ with open(OUTPUT_PATH, 'w') as f:
   for entry in entries:
     writer.writerow([
       entry.name,
-      entry.category,
+      ', '.join(entry.categories),
+      'Ethereum' in entry.primary_blockchain,
       len(entry.roles),
-      entry.primary_blockchain,
       ', '.join([r.name for r in entry.roles]),
-      entry.description
+      len(entry.categories),
+      entry.description,
+      entry.primary_blockchain,
     ])
