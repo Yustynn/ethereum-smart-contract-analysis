@@ -34,4 +34,4 @@ results: List[Result] = []
 # print(results[0])
 
 
-p = Project(project_configs[0]).get_candidates()
+p = Project(project_configs[0]).get_path_candidates()
