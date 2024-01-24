@@ -5,7 +5,7 @@ from typing import List
 
 from Project import Project
 from processors.CyclomaticComplexityProcessor import CyclomaticComplexityProcessor, CyclomaticComplexityResult
-from processors.MetadataProcessor import MetadataProcessor, MetadataResults
+from processors.MetadataProcessor import MetadataProcessor, MetadataResult
 
 logging.basicConfig(level=logging.INFO)
 lg = logging.getLogger('Main')
@@ -14,26 +14,25 @@ lg = logging.getLogger('Main')
 class Result:
    project_name: str
    cc: CyclomaticComplexityResult
-   metadata: MetadataResults
+   metadata: MetadataResult
 
 
 results: List[Result] = []
 
-# for name, cfg in config.items():
-# for cfg in project_configs:
-#     cc = CyclomaticComplexityProcessor.run_config(cfg)
-#     metadata = MetadataProcessor.run_config(cfg)
-#     print(metadata)
-
-#     results.append(Result(
-#       project_name = cfg.name,
-#       cc = cc,
-#       metadata = metadata
-#     ))
-
-# print(results[0])
-
 
 p = Project(project_configs[0])
+cc = CyclomaticComplexityResult.neutral()
+md = MetadataResult.neutral()
 for path in p:
-   print(path)
+   cc += CyclomaticComplexityProcessor.run(path)
+   md += MetadataProcessor.run(path)
+
+result = Result(
+   project_name=p.name,
+   cc=cc,
+   metadata=md
+)
+
+print(result)
+print('\n\n\n')
+print(p.slither_failures)

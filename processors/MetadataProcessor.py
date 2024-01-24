@@ -9,7 +9,7 @@ from typing import List
 from utils import set_appropriate_solc_version
 from .Processor import Processor
 @dataclass
-class MetadataResults:
+class MetadataResult:
   num_files: int
   num_contracts: int
   num_functions: int
@@ -32,7 +32,19 @@ class MetadataResults:
       loc_raw_by_file=loc_raw_by_file,
     )
 
-  
+  @classmethod
+  def neutral(cls):
+    return cls(
+      num_files=0,
+      num_contracts=0,
+      num_functions=0,
+      loc_total=0,
+      loc_mean_file=0,
+      loc_median_file=0,
+      loc_raw_by_file=[],
+    )
+
+
 def remove_comments(lines: List[str]) -> List[str]:
     """Remove single and multi-line comments
 
@@ -70,13 +82,10 @@ def count_lines(s: Slither) -> int:
 
 class MetadataProcessor(Processor):
   @staticmethod
-  def run(path: str) -> MetadataResults:
-    set_appropriate_solc_version(path)
-
-    s = Slither(path)
+  def run(s: Slither) -> MetadataResult:
     loc = count_lines(s)
 
-    return MetadataResults(
+    return MetadataResult(
       num_files=1,
       num_contracts=len(s.contracts),
       num_functions=sum( len(c.functions) for c in s.contracts ),
