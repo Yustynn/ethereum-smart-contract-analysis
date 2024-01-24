@@ -1,11 +1,12 @@
 import re
-from typing import Optional, List
+from typing import List
 
 import subprocess
 import logging
 
 logging.basicConfig(level=logging.INFO)
 l = logging.getLogger('solc_select_wrapper')
+
 
 PATTERN_VERSION = r"\d+\.\d+\.\d+"
 
