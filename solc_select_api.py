@@ -3,9 +3,11 @@ from typing import List
 
 import subprocess
 import logging
+import sys
 
-logging.basicConfig(level=logging.INFO)
-l = logging.getLogger('solc_select_wrapper')
+lg = logging.getLogger('solc_select_api')
+lg.setLevel(logging.INFO)
+lg.addHandler( logging.StreamHandler(sys.stdout) )
 
 
 PATTERN_VERSION = r"\d+\.\d+\.\d+"
@@ -34,7 +36,6 @@ def current_version() -> str:
   raw = sh('solc-select versions')
   lines = raw.split('\n')
 
-  versions = []
   for l in lines:
     if '(current' in l:
       return re.findall(PATTERN_VERSION, l)[0]
@@ -50,15 +51,15 @@ def use_version(version: str) -> None:
   assert len(re.findall(PATTERN_VERSION, version)) == 1, f"Malformed version input: {version}"
 
   if not version in installed_versions():
-    l.info(f'v{version} not installed. Installing now...')
+    lg.info(f'v{version} not installed. Installing now...')
     install_version(version)
 
   sh(f'solc-select use {version}')
-  l.info(f'solc version set to {current_version()}')
+  lg.info(f'solc version set to {current_version()}')
 
 def use_latest() -> None:
   sh('solc-select use latest')
-  l.info(f'solc version set to {current_version()}')
+  lg.info(f'solc version set to {current_version()}')
 
 
 use_latest()
