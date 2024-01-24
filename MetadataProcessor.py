@@ -2,7 +2,7 @@ from slither import Slither
 from Processor import Processor
 
 from dataclasses import dataclass
-from utils import set_solc_version
+from utils import set_appropriate_solc_version
 
 @dataclass
 class MetadataResults:
@@ -22,7 +22,7 @@ class MetadataResults:
 class MetadataProcessor(Processor):
   @staticmethod
   def run(path: str) -> MetadataResults:
-    set_solc_version(path)
+    set_appropriate_solc_version(path)
     s = Slither(path)
 
     num_functions = 0

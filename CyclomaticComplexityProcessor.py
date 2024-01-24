@@ -6,7 +6,7 @@ from dataclasses import dataclass
 from statistics import mean, median
 from typing import List, Optional
 
-from utils import set_solc_version
+from utils import set_appropriate_solc_version
 
 @dataclass
 class CyclomaticComplexityResult:
@@ -36,7 +36,7 @@ class CyclomaticComplexityProcessor(Processor):
   def run(path: str) -> Optional[CyclomaticComplexityResult]:
     """Given code path, return cyclomatic complexity statistics."""
 
-    set_solc_version(path)
+    set_appropriate_solc_version(path)
 
     # gather all functions
     functions = []

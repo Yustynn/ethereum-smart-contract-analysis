@@ -1,11 +1,17 @@
 import solc_select_api
 from typing import Optional
 
-def parse_version(path: str, cls) -> Optional[str]:
-  import re
-  PATTERN_VERSION = r"\d+\.\d+\.\d+"
+import logging
+import sys
+import re
 
-  lg = cls.mk_logger()
+lg = logging.getLogger('utils')
+lg.setLevel(logging.INFO)
+lg.addHandler( logging.StreamHandler(sys.stdout) )
+
+
+def parse_version(path: str) -> Optional[str]:
+  PATTERN_VERSION = r"\d+\.\d+\.\d+"
 
   with open(path) as f:
     lines = f.readlines()
@@ -22,7 +28,7 @@ def parse_version(path: str, cls) -> Optional[str]:
   
   lg.info(f'{path}: No version pragma found')
 
-def set_solc_version(path: str) -> None:
+def set_appropriate_solc_version(path: str) -> None:
     # set solc version
     version = parse_version(path)
     if version is None:
