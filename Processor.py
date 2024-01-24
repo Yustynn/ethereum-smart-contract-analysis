@@ -24,6 +24,7 @@ class Processor:
     handler = logging.FileHandler('err.log')
     le.addHandler(handler)
 
+    print('OI')
 
     agg = None
     for path in cfg_to_paths(cfg):
