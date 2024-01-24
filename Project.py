@@ -28,6 +28,8 @@ class Project:
     self.exclude_dirs = config.exclude_dirs
     self.base_dir = os.path.join(REPO_DIR, self.name)
 
+    self.slither_failures = []
+
     os.makedirs(self.base_dir, exist_ok=True)
     self.ensure_repos_exist()
 
@@ -74,3 +76,16 @@ class Project:
 
     return overall_candidates
 
+  def __iter__(self):
+    self.slither_failures = []
+    for path in self.get_path_candidates():
+      set_appropriate_solc_version(path)
+      try:
+        yield Slither(path)
+      except Exception as e:
+        lg.info(f'[FAIL] {path}')
+        self.slither_failures.append((path, e))
+
+  
+
+  
