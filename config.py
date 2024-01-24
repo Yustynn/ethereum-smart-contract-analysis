@@ -31,30 +31,19 @@ project_configs = [
       'https://github.com/makerdao/vote-proxy/',
     ]
   ),
-]
 
-# config = {
-#     '0x': {
-#         'dir': './0x/protocol/contracts',
-#     },
-#     'aave': {
-#         'dir': './aave-v3-core/contracts',
-#     },
-#     'compound': {
-#         'dir': 'compound/compound-protocol/contracts',
-#     },
-#     'dai': {
-#         'dir': './dai/by-module',
-#     },
-#     'synthetix': {
-#         'dir': './synthetix/synthetix/contracts',
-#         'exclude_paths': [
-#             './legacy',
-#             './test-helpers',
-#         ]
-#     },
-#     'uniswap': {
-#         'dir': 'uniswap/v3-core/contracts',
-#         'exclude_paths': ['./test'],
-#     },
-# }
+  ProjectConfig(
+    name='aave',
+    repo_urls=['https://github.com/aave/aave-v3-core']
+  ),
+
+  ProjectConfig(
+    name='tether',
+    repo_urls=['https://github.com/tethercoin/USDT']
+  ),
+
+  ProjectConfig(
+    name='polygon',
+    repo_urls=['https://github.com/maticnetwork/contracts']
+  )
+]
