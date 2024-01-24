@@ -3,13 +3,12 @@
 """
 
 from abc import abstractstaticmethod
-from typing import Any, Optional
+from typing import Any, List, Optional
 from glob import glob
-import os
 import logging
 import sys
 
-from config import ROOT_DIR
+from utils import cfg_to_paths
 
 class Processor:
   @abstractstaticmethod
@@ -19,20 +18,8 @@ class Processor:
 
   @classmethod
   def run_config(cls, cfg) -> Any:
-    # Retrieve file paths and run
-
-    folder = os.path.join(ROOT_DIR, cfg['dir'])
-    exclude_paths = cfg['exclude_paths'] if 'exclude_paths' in cfg else []
-
-    paths = glob(os.path.join(folder, '*.sol')) + glob(os.path.join(folder, '**/*.sol'), recursive=True)
-    paths = [
-        p for p in paths
-        if not any(p.startswith(os.path.join(folder, ep)) for ep in exclude_paths) # illegal path
-        and not p.endswith('.t.sol') # exclude tests
-    ]
-    
     agg = None
-    for path in paths:
+    for path in cfg_to_paths(cfg):
       try:
         res = cls.run(path)
         assert hasattr(res, '__add__') and callable(getattr(res, '__add__')), f"__add__ not defined on result for {cls}"

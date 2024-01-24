@@ -29,6 +29,3 @@ class MetadataProcessor(Processor):
       num_contracts=len(s.contracts),
       num_functions=sum( len(c.functions) for c in s.contracts ),
     )
-
-      
-     
