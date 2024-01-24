@@ -1,8 +1,10 @@
 import logging
 import pandas as pd
 from dataclasses import dataclass
-from config import DATASET_CSV_OUTPUT_PATH, DATASET_PICKLE_OUTPUT_PATH, project_configs
+from config import DATASET_CSV_OUTPUT_PATH, DATASET_DILL_OUTPUT_PATH, project_configs
 from typing import Dict, List, Union
+
+import dill
 
 from Project import Project
 from processors.CyclomaticComplexityProcessor import CyclomaticComplexityProcessor, CyclomaticComplexityResult
@@ -57,3 +59,5 @@ for cfg in project_configs:
 
 df = pd.DataFrame.from_records(r.to_record() for r in results)
 df.to_csv(DATASET_CSV_OUTPUT_PATH, index=False)
+with open(DATASET_DILL_OUTPUT_PATH, 'wb') as f:
+  dill.dump(results, f)
