@@ -3,6 +3,7 @@ from typing import List
 
 ROOT_DIR = 'projects'
 REPO_DIR = 'project-repos'
+DATASET_CSV_OUTPUT_PATH = './output/results.csv'
 
 @dataclass
 class ProjectConfig:

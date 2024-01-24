@@ -4,3 +4,5 @@ venv
 __pycache__
 err.log
 project-repos
+output
+yplay.py # my personal playground file
