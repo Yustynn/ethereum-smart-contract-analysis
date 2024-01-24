@@ -16,7 +16,6 @@ class MetadataResults:
       num_files=self.num_files + other.num_files,
       num_contracts=self.num_contracts + other.num_contracts,
       num_functions=self.num_functions + other.num_functions,
-      num_modifiers=self.num_functions + other.num_functions,
     )
 
 class MetadataProcessor(Processor):
@@ -25,17 +24,10 @@ class MetadataProcessor(Processor):
     set_appropriate_solc_version(path)
     s = Slither(path)
 
-    num_functions = 0
-    num_modifiers = 0
-    for c in s.contracts:
-      num_functions += len(c.functions)
-      num_modifiers += len(c.modifiers)
-
     return MetadataResults(
       num_files=1,
       num_contracts=len(s.contracts),
-      num_functions=num_functions,
-      num_modifiers=num_modifiers
+      num_functions=sum( len(c.functions) for c in s.contracts ),
     )
 
       
