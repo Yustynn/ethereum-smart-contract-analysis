@@ -4,7 +4,7 @@ from Processor import Processor
 
 from dataclasses import dataclass
 from statistics import mean, median
-from typing import Optional
+from typing import List, Optional
 import solc_select_api
 
 import logging
@@ -17,6 +17,21 @@ class CyclomaticComplexityResult:
   mean: float
   median: float
   num_functions: int
+  raw: List[int]
+
+  @staticmethod
+  def from_ccs(ccs: List[int]) -> 'CyclomaticComplexityResult':
+      return CyclomaticComplexityResult(
+        total = sum(ccs),
+        mean = mean(ccs),
+        median = median(ccs),
+        num_functions = len(ccs),
+        raw = ccs
+      )
+
+  def __add__(self, other):
+    return self.__class__.from_ccs(self.raw + other.raw)
+    
 
 def parse_version(path: str) -> Optional[str]:
   import re
@@ -60,8 +75,15 @@ class CyclomaticComplexityProcessor(Processor):
 
     # return statistics
     return CyclomaticComplexityResult(
-      total = sum(ccs) + len(ccs),
+      total = sum(ccs),
       mean = mean(ccs),
       median = median(ccs),
       num_functions = len(ccs),
+      raw = ccs
     )
+
+
+ccs1 = [1,2,3]
+ccs2 = [5,2,3,5]
+
+print( CyclomaticComplexityResult.from_ccs(ccs1) + CyclomaticComplexityResult.from_ccs(ccs2))
