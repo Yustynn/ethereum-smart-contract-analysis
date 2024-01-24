@@ -3,8 +3,8 @@
 """
 
 from abc import abstractstaticmethod
-from typing import Any, List, Optional
-from glob import glob
+from typing import Any, Optional
+from datetime import datetime
 import logging
 import sys
 
@@ -18,6 +18,13 @@ class Processor:
 
   @classmethod
   def run_config(cls, cfg) -> Any:
+    # setup error logger
+    le = logging.getLogger(cls.__name__)
+    le.setLevel(logging.INFO)
+    handler = logging.FileHandler('err.log')
+    le.addHandler(handler)
+
+
     agg = None
     for path in cfg_to_paths(cfg):
       try:
@@ -32,8 +39,7 @@ class Processor:
         else:
           agg += res
       except Exception as e:
-        print(f'Failure on {path}')
-        print(e)
+        le.info(f'{datetime.now()} [FAIL - {cls.__name__}: {path}] {e}')
 
     return agg
 

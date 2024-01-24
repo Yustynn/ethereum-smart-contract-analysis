@@ -10,6 +10,7 @@ class MetadataResults:
   num_contracts: int
   num_functions: int
 
+
   def __add__(self, other):
     return self.__class__(
       num_files=self.num_files + other.num_files,
