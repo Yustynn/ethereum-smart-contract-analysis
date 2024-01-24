@@ -21,7 +21,6 @@ class Processor:
   def run_config(cls, cfg) -> Any:
     # Retrieve file paths and run
 
-
     folder = os.path.join(ROOT_DIR, cfg['dir'])
     exclude_paths = cfg['exclude_paths'] if 'exclude_paths' in cfg else []
 

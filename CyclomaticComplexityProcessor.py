@@ -1,14 +1,12 @@
-
-
 from slither import Slither
 from slither.utils.code_complexity import compute_cyclomatic_complexity
 from Processor import Processor
 
-
 from dataclasses import dataclass
 from statistics import mean, median
 from typing import List, Optional
-import solc_select_api
+
+from utils import set_solc_version
 
 @dataclass
 class CyclomaticComplexityResult:
@@ -32,39 +30,13 @@ class CyclomaticComplexityResult:
     return self.__class__.from_ccs(self.raw + other.raw)
 
 
-def parse_version(path: str) -> Optional[str]:
-  import re
-  PATTERN_VERSION = r"\d+\.\d+\.\d+"
-
-  lg = CyclomaticComplexityProcessor.mk_logger()
-
-  with open(path) as f:
-    lines = f.readlines()
-
-  for l in lines:
-    if not 'pragma' in l:
-      continue
-    matches = re.findall(PATTERN_VERSION, l)
-
-    if len(matches) > 0:
-      version = matches[0]
-      lg.info(f'Version {version} found in line: {l}')
-      return version
-  
-  lg.info(f'{path}: No version pragma found')
-
 
 class CyclomaticComplexityProcessor(Processor):
   @staticmethod
   def run(path: str) -> Optional[CyclomaticComplexityResult]:
     """Given code path, return cyclomatic complexity statistics."""
 
-    # set solc version
-    version = parse_version(path)
-    if version is None:
-      solc_select_api.use_latest()
-    else:
-      solc_select_api.use_version(version)
+    set_solc_version(path)
 
     # gather all functions
     functions = []

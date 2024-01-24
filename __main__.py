@@ -13,7 +13,7 @@ lg = logging.getLogger('Main')
 class Result:
    project_name: str
    loc: LOCResult
-  #  cc: CyclomaticComplexityResult
+   cc: CyclomaticComplexityResult
 
 
 name = 'aave'
@@ -24,13 +24,13 @@ results: List[Result] = []
 # for name, cfg in config.items():
 for name, cfg in [[name, cfg]]:
     loc = LOCProcessor.run_config(cfg)
-    # cc = CyclomaticComplexityProcessor.run_config(cfg)
+    cc = CyclomaticComplexityProcessor.run_config(cfg)
 
     results.append(Result(
       project_name = name,
       loc = loc,
-      # cc = cc,
+      cc = cc,
     ))
 
-print(results)    
+print(results[0])
 
