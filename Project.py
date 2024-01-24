@@ -1,14 +1,15 @@
-import sys
-import os
-import logging
 from glob import glob
+from slither import Slither
 from typing import List
+import logging
+import os
+import sys
 
 sys.path.append('..')
 
 from git import Repo
-
 from config import ProjectConfig, REPO_DIR
+from utils import set_appropriate_solc_version
 
 
 lg = logging.getLogger('Project')
@@ -53,19 +54,23 @@ class Project:
 
       repo = Repo(path)
       submodule_paths = {os.path.join(path, s.path) for s in repo.submodules}
+      exclude_paths = {os.path.join(self.base_dir, ed) for ed in self.exclude_dirs}
 
       candidates = glob(os.path.join(path, '*.sol'))
       candidates += glob(os.path.join(path, '**/*.sol'), recursive=True)
       candidates = [
         c for c in candidates
-        if not any(c.startswith(ip) for ip in submodule_paths)
+          
+        if
+          # exclude submodules
+          not any(c.startswith(ip) for ip in submodule_paths)
+          # exclude exclude_dirs
+          and not any(c.startswith(ip) for ip in exclude_paths)
+          # exclude tests
+          and not c.endswith('.t.sol')
       ]
 
       overall_candidates += candidates
 
     return overall_candidates
 
-
-  
-
-  
