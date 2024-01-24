@@ -2,9 +2,6 @@
 
 from slither import Slither
 from slither.utils.code_complexity import compute_cyclomatic_complexity
-import logging
-
-
 from Processor import Processor
 
 
@@ -12,9 +9,6 @@ from dataclasses import dataclass
 from statistics import mean, median
 from typing import List, Optional
 import solc_select_api
-
-# I cannot for the life of me get this damn logger working.
-# Something about importing slither suppresses it.
 
 @dataclass
 class CyclomaticComplexityResult:
