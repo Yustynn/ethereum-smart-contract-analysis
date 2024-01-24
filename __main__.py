@@ -1,8 +1,9 @@
 import logging
 from dataclasses import dataclass
-from config import config
+from config import project_configs
 from typing import List
 
+from Project import Project
 from processors.CyclomaticComplexityProcessor import CyclomaticComplexityProcessor, CyclomaticComplexityResult
 from processors.MetadataProcessor import MetadataProcessor, MetadataResults
 
@@ -16,22 +17,21 @@ class Result:
    metadata: MetadataResults
 
 
-name = 'aave'
-cfg = config[name]
-
 results: List[Result] = []
 
 # for name, cfg in config.items():
-for name, cfg in [[name, cfg]]:
-    cc = CyclomaticComplexityProcessor.run_config(cfg)
-    metadata = MetadataProcessor.run_config(cfg)
-    print(metadata)
+# for cfg in project_configs:
+#     cc = CyclomaticComplexityProcessor.run_config(cfg)
+#     metadata = MetadataProcessor.run_config(cfg)
+#     print(metadata)
 
-    results.append(Result(
-      project_name = name,
-      cc = cc,
-      metadata = metadata
-    ))
+#     results.append(Result(
+#       project_name = cfg.name,
+#       cc = cc,
+#       metadata = metadata
+#     ))
 
-print(results[0])
+# print(results[0])
 
+
+p = Project(project_configs[0]).get_candidates()
