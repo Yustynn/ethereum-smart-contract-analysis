@@ -1,8 +1,12 @@
 from glob import glob
 import os
+import logging
 
 from CyclomaticComplexityProcessor import CyclomaticComplexityProcessor
 from LOCProcessor import LOCProcessor
+
+logging.basicConfig(level=logging.INFO)
+# lg = logging.getLogger('Main')
 
 ROOT_DIR = 'projects'
 
@@ -32,7 +36,7 @@ config = {
     },
 }
 
-name = 'dai'
+name = 'aave'
 cfg = config[name]
 
 # for name, cfg in config.items():
@@ -55,7 +59,7 @@ for name, cfg in [[name, cfg]]:
       loc = LOCProcessor.run(path)
       cc = CyclomaticComplexityProcessor.run(path)
       print(f'{loc} lines of non-comment code.')
-      print('cc')
+      print(f'cc: {cc}')
       print()
 
     
