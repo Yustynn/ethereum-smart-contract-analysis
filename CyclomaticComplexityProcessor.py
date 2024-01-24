@@ -1,15 +1,20 @@
+
+
 from slither import Slither
 from slither.utils.code_complexity import compute_cyclomatic_complexity
+import logging
+
+
 from Processor import Processor
+
 
 from dataclasses import dataclass
 from statistics import mean, median
 from typing import List, Optional
 import solc_select_api
 
-import logging
-logging.basicConfig(level=logging.INFO)
-lg = logging.getLogger('CyclomaticComplexityProcessor')
+# I cannot for the life of me get this damn logger working.
+# Something about importing slither suppresses it.
 
 @dataclass
 class CyclomaticComplexityResult:
@@ -31,11 +36,13 @@ class CyclomaticComplexityResult:
 
   def __add__(self, other):
     return self.__class__.from_ccs(self.raw + other.raw)
-    
+
 
 def parse_version(path: str) -> Optional[str]:
   import re
   PATTERN_VERSION = r"\d+\.\d+\.\d+"
+
+  lg = CyclomaticComplexityProcessor.mk_logger()
 
   with open(path) as f:
     lines = f.readlines()
@@ -50,12 +57,12 @@ def parse_version(path: str) -> Optional[str]:
       lg.info(f'Version {version} found in line: {l}')
       return version
   
-  lg.info('No version pragma found')
+  lg.info(f'{path}: No version pragma found')
 
 
 class CyclomaticComplexityProcessor(Processor):
   @staticmethod
-  def run(path: str) -> CyclomaticComplexityResult:
+  def run(path: str) -> Optional[CyclomaticComplexityResult]:
     """Given code path, return cyclomatic complexity statistics."""
 
     # set solc version
@@ -70,6 +77,8 @@ class CyclomaticComplexityProcessor(Processor):
     for c in Slither(path).contracts:
       functions += c.functions
 
+    if len(functions) == 0:
+      return
     # retrieve cc for each function
     ccs = [compute_cyclomatic_complexity(f) for f in functions]
 
@@ -82,8 +91,3 @@ class CyclomaticComplexityProcessor(Processor):
       raw = ccs
     )
 
-
-ccs1 = [1,2,3]
-ccs2 = [5,2,3,5]
-
-print( CyclomaticComplexityResult.from_ccs(ccs1) + CyclomaticComplexityResult.from_ccs(ccs2))

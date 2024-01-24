@@ -1,5 +1,29 @@
 from typing import List
 from Processor import Processor
+from dataclasses import dataclass
+
+import statistics
+
+
+@dataclass
+class LOCResult:
+    total: int
+    mean_file: float
+    median_file: float
+    raw_by_file: List[int]
+
+    @staticmethod
+    def from_raw_by_file(raw_by_file: List[int]) -> 'LOCResult':
+        return LOCResult(
+            total=sum(raw_by_file),
+            mean_file=statistics.mean(raw_by_file),
+            median_file=statistics.median(raw_by_file),
+            raw_by_file=raw_by_file,
+        )
+    
+    def __add__(self, other) -> 'LOCResult':
+        return self.__class__.from_raw_by_file(self.raw_by_file + other.raw_by_file)
+
 
 def remove_comments(lines: List[str]) -> List[str]:
     """Remove single and multi-line comments
@@ -31,13 +55,17 @@ def remove_comments(lines: List[str]) -> List[str]:
 
     return result
 
+def count_lines(path) -> int:
+    with open(path) as f:
+        lines = f.readlines()
+    return len(remove_comments(lines))
+
+
 
 class LOCProcessor(Processor):
     @staticmethod
-    def run(path: str) -> int:
-        """Count lines for a single path"""
+    def run(path: str) -> LOCResult:
+        """Count noncomment lines for a directory"""
 
-        with open(path) as f:
-            lines = f.readlines()
-        return len(remove_comments(lines))
+        return LOCResult.from_raw_by_file([count_lines(path)])
 
