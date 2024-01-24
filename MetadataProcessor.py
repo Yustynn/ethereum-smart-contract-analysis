@@ -9,7 +9,6 @@ class MetadataResults:
   num_files: int
   num_contracts: int
   num_functions: int
-  num_modifiers: int
 
   def __add__(self, other):
     return self.__class__(
