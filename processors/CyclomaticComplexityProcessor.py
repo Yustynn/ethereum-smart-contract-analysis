@@ -1,6 +1,6 @@
 from slither import Slither
 from slither.utils.code_complexity import compute_cyclomatic_complexity
-from Processor import Processor
+from .Processor import Processor
 
 from dataclasses import dataclass
 from statistics import mean, median

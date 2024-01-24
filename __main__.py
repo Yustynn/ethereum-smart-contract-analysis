@@ -3,8 +3,8 @@ from dataclasses import dataclass
 from config import config
 from typing import List
 
-from CyclomaticComplexityProcessor import CyclomaticComplexityProcessor, CyclomaticComplexityResult
-from MetadataProcessor import MetadataProcessor, MetadataResults
+from processors.CyclomaticComplexityProcessor import CyclomaticComplexityProcessor, CyclomaticComplexityResult
+from processors.MetadataProcessor import MetadataProcessor, MetadataResults
 
 logging.basicConfig(level=logging.INFO)
 lg = logging.getLogger('Main')
