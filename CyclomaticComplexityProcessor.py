@@ -48,7 +48,7 @@ def parse_version(path: str) -> Optional[str]:
     lines = f.readlines()
 
   for l in lines:
-    if not 'pragma' in lines:
+    if not 'pragma' in l:
       continue
     matches = re.findall(PATTERN_VERSION, l)
 
@@ -90,4 +90,3 @@ class CyclomaticComplexityProcessor(Processor):
       num_functions = len(ccs),
       raw = ccs
     )
-
