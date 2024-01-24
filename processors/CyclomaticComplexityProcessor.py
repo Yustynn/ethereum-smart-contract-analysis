@@ -40,7 +40,7 @@ class CyclomaticComplexityResult:
 
 class CyclomaticComplexityProcessor(Processor):
   @staticmethod
-  def run(s: Slither) -> Optional[CyclomaticComplexityResult]:
+  def run(s: Slither) -> CyclomaticComplexityResult:
     """Given code path, return cyclomatic complexity statistics."""
 
     # gather all functions
@@ -49,7 +49,7 @@ class CyclomaticComplexityProcessor(Processor):
       functions += c.functions
 
     if len(functions) == 0:
-      return
+      return CyclomaticComplexityResult.neutral()
     # retrieve cc for each function
     ccs = [compute_cyclomatic_complexity(f) for f in functions]
 
