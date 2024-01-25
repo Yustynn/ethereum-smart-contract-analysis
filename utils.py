@@ -11,7 +11,6 @@ from config import ROOT_DIR
 
 lg = logging.getLogger('utils')
 lg.setLevel(logging.INFO)
-lg.addHandler( logging.StreamHandler(sys.stdout) )
 
 
 def parse_version(path: str) -> Optional[str]:

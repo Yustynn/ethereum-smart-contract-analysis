@@ -18,6 +18,5 @@ class Processor:
   def mk_logger(cls, level: int = logging.INFO) -> logging.Logger:
     lg = logging.getLogger(cls.__name__)
     lg.setLevel(logging.INFO)
-    lg.addHandler( logging.StreamHandler(sys.stdout) )
 
     return lg

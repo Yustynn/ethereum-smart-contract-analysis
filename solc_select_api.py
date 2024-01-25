@@ -7,7 +7,6 @@ import sys
 
 lg = logging.getLogger('solc_select_api')
 lg.setLevel(logging.INFO)
-# lg.addHandler( logging.StreamHandler(sys.stdout) )
 
 
 PATTERN_VERSION = r"\d+\.\d+\.\d+"

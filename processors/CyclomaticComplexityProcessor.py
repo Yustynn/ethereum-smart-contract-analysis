@@ -16,13 +16,13 @@ class CyclomaticComplexityResult:
 
   @staticmethod
   def from_ccs(ccs: List[int]) -> 'CyclomaticComplexityResult':
-      return CyclomaticComplexityResult(
-        total = sum(ccs),
-        mean = mean(ccs),
-        median = median(ccs),
-        num_functions = len(ccs),
-        raw = ccs,
-      )
+    return CyclomaticComplexityResult(
+      total = sum(ccs),
+      mean = mean(ccs),
+      median = median(ccs),
+      num_functions = len(ccs),
+      raw = ccs,
+    )
 
   def __add__(self, other):
     return self.__class__.from_ccs(self.raw + other.raw)

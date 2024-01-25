@@ -14,7 +14,6 @@ from utils import set_appropriate_solc_version
 
 lg = logging.getLogger('Project')
 lg.setLevel(logging.DEBUG)
-lg.addHandler( logging.StreamHandler() )
 
 class Project:
   def __init__(self, config: ProjectConfig):
