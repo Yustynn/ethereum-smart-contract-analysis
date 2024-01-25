@@ -27,6 +27,8 @@ class Result:
       'project_name': self.project_name,
       'num_files': self.metadata.num_files,
       'num_contracts': self.metadata.num_contracts,
+      'num_libraries': self.metadata.num_libraries,
+      'num_interfaces': self.metadata.num_interfaces,
       'num_functions': self.metadata.num_functions,
       'num_failures': len(self.failures),
 

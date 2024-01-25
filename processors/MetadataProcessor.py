@@ -11,6 +11,8 @@ from .Processor import Processor
 class MetadataResult:
   num_files: int
   num_contracts: int
+  num_libraries: int
+  num_interfaces: int
   num_functions: int
   loc_total: int
   loc_mean_file: float
@@ -24,7 +26,10 @@ class MetadataResult:
     return self.__class__(
       num_files=self.num_files + other.num_files,
       num_contracts=self.num_contracts + other.num_contracts,
+      num_libraries=self.num_libraries + other.num_libraries,
+      num_interfaces=self.num_interfaces + other.num_interfaces,
       num_functions=self.num_functions + other.num_functions,
+
       loc_total=self.loc_total + other.loc_total,
       loc_mean_file=statistics.mean(loc_raw_by_file),
       loc_median_file=statistics.median(loc_raw_by_file),
@@ -36,6 +41,8 @@ class MetadataResult:
     return cls(
       num_files=0,
       num_contracts=0,
+      num_libraries=0,
+      num_interfaces=0,
       num_functions=0,
       loc_total=0,
       loc_mean_file=0,
@@ -84,10 +91,25 @@ class MetadataProcessor(Processor):
   def run(s: Slither) -> MetadataResult:
     loc = count_lines(s)
 
+    num_contracts = 0
+    num_libraries = 0
+    num_interfaces = 0
+    for c in s.contracts:
+      if c.is_library:
+        num_libraries += 1
+      elif c.is_interface:
+        num_interfaces += 1
+      else:
+         num_contracts += 1
+        
+
     return MetadataResult(
       num_files=1,
-      num_contracts=len(s.contracts),
+      num_contracts=num_contracts,
+      num_libraries=num_libraries,
+      num_interfaces=num_interfaces,
       num_functions=sum( len(c.functions) for c in s.contracts ),
+
       loc_total = loc,
       loc_mean_file = loc,
       loc_median_file = loc,

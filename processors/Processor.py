@@ -1,12 +1,11 @@
 """Processor base class
-• Assumption that the output of run has __add__ defined
+• Assumption that the output of run is a monoid instance
 """
 
 from abc import abstractstaticmethod
 from typing import Any, Optional
 from slither import Slither
 import logging
-import sys
 
 class Processor:
   @abstractstaticmethod

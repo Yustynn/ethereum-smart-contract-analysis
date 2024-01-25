@@ -76,7 +76,7 @@ class Project:
 
     return overall_candidates
 
-  def __iter__(self):
+  def __iter__(self) -> Slither:
     self.slither_failures = []
     for path in self.get_path_candidates():
       set_appropriate_solc_version(path)
