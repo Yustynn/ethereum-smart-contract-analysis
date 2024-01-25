@@ -1,13 +1,14 @@
 from slither import Slither
 from slither.utils.code_complexity import compute_cyclomatic_complexity
-from .Processor import Processor
 
+from .Processor import Processor
+from Monoid import Monoid
 from dataclasses import dataclass
 from statistics import mean, median
-from typing import List, Optional
+from typing import List
 
 @dataclass
-class CyclomaticComplexityResult:
+class CyclomaticComplexityResult(Monoid):
   total: int
   mean: float
   median: float

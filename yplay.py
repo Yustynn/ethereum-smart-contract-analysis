@@ -1,7 +1,4 @@
-import dill
-from config import DATASET_DILL_OUTPUT_PATH
+from Monoid import Monoid
 
-with open(DATASET_DILL_OUTPUT_PATH, 'rb') as f:
-  results = dill.load(f)
-
-print(results)
+class YMonoid(Monoid):
+  pass

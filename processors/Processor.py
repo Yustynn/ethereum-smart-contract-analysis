@@ -5,11 +5,12 @@
 from abc import abstractstaticmethod
 from typing import Any, Optional
 from slither import Slither
+from Monoid import Monoid
 import logging
 
 class Processor:
   @abstractstaticmethod
-  def run(slither: Slither) -> Optional[Any]:
+  def run(slither: Slither) -> Monoid:
     # return value's class should define __add__
     pass
 

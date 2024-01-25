@@ -7,8 +7,10 @@ from slither import Slither
 from typing import List
 
 from .Processor import Processor
+from Monoid import Monoid
+
 @dataclass
-class MetadataResult:
+class MetadataResult(Monoid):
   num_files: int
   num_contracts: int
   num_libraries: int

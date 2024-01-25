@@ -48,6 +48,11 @@ project_configs = [
   ),
 
   ProjectConfig(
+    name='Chainlink',
+    repo_urls=['https://github.com/smartcontractkit/chainlink']
+  ),
+
+  ProjectConfig(
     name='USDC',
     repo_urls=['https://github.com/circlefin/stablecoin-evm']
   ),
