@@ -27,7 +27,7 @@ def parse_version(path: str) -> Optional[str]:
 
     if len(matches) > 0:
       version = matches[0]
-      lg.info(f'Version {version} found in line: {l}')
+      lg.debug(f'Version {version} found in line: {l}')
       return version
   
   lg.info(f'{path}: No version pragma found')

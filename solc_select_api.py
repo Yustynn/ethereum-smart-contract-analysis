@@ -7,7 +7,7 @@ import sys
 
 lg = logging.getLogger('solc_select_api')
 lg.setLevel(logging.INFO)
-lg.addHandler( logging.StreamHandler(sys.stdout) )
+# lg.addHandler( logging.StreamHandler(sys.stdout) )
 
 
 PATTERN_VERSION = r"\d+\.\d+\.\d+"
@@ -54,12 +54,11 @@ def use_version(version: str) -> None:
     lg.info(f'v{version} not installed. Installing now...')
     install_version(version)
 
-  sh(f'solc-select use {version}')
-  lg.info(f'solc version set to {current_version()}')
+  if current_version() != version:
+    sh(f'solc-select use {version}')
+    lg.info(f'solc version set to {current_version()}')
 
 def use_latest() -> None:
-  sh('solc-select use latest')
-  lg.info(f'solc version set to {current_version()}')
-
-
-use_latest()
+  if current_version != installed_versions()[0]:
+    sh('solc-select use latest')
+    lg.info(f'solc version set to {current_version()}')
