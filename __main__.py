@@ -16,12 +16,12 @@ lg = logging.getLogger('Main')
 @dataclass
 class Result:
   project_name: str
-  cc: CyclomaticComplexityResult
+  cyclomatic_complexity: CyclomaticComplexityResult
   metadata: MetadataResult
   failures: Dict[str, str]
   
   def to_record(self) -> Dict[str, Union[float, int, str]]:
-    assert self.cc.num_functions == self.metadata.num_functions, "Metadata and CC show different num functions"
+    assert self.cyclomatic_complexity.num_functions == self.metadata.num_functions, "Metadata and CC show different num functions"
 
     return {
       'project_name': self.project_name,
@@ -32,9 +32,9 @@ class Result:
       'num_functions': self.metadata.num_functions,
       'num_failures': len(self.failures),
 
-      'cc_total': self.cc.total,
-      'cc_mean': self.cc.mean,
-      'cc_median': self.cc.median,
+      'cc_total': self.cyclomatic_complexity.total,
+      'cc_mean': self.cyclomatic_complexity.mean,
+      'cc_median': self.cyclomatic_complexity.median,
 
       'loc_total': self.metadata.loc_total,
       'loc_mean_file': self.metadata.loc_mean_file,
@@ -44,19 +44,19 @@ class Result:
 results: List[Result] = []
 
 for cfg in project_configs:
-  p = Project(cfg)
-  cc = CyclomaticComplexityResult.neutral()
-  md = MetadataResult.neutral()
+  project = Project(cfg)
+  cyclomatic_complexity = CyclomaticComplexityResult.neutral()
+  metadata = MetadataResult.neutral()
 
-  for path in p:
-    cc += CyclomaticComplexityProcessor.run(path)
-    md += MetadataProcessor.run(path)
+  for slither in project:
+    cyclomatic_complexity += CyclomaticComplexityProcessor.run(slither)
+    metadata += MetadataProcessor.run(slither)
 
   results.append(Result(
-    project_name=p.name,
-    cc=cc,
-    metadata=md,
-    failures=p.slither_failures
+    project_name=project.name,
+    cyclomatic_complexity=cyclomatic_complexity,
+    metadata=metadata,
+    failures=project.slither_failures
   ))
 
 df = pd.DataFrame.from_records(r.to_record() for r in results)
