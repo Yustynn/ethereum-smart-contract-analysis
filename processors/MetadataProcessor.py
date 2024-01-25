@@ -6,7 +6,6 @@ from dataclasses import dataclass
 from slither import Slither
 from typing import List
 
-from utils import set_appropriate_solc_version
 from .Processor import Processor
 @dataclass
 class MetadataResult:
