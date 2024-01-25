@@ -14,7 +14,7 @@ class ProjectConfig:
 
 project_configs = [
   ProjectConfig(
-    name='dai',
+    name='DAI',
     repo_urls=[
       'https://github.com/makerdao/dss-cdp-manager/',
       'https://github.com/makerdao/dss-flash/',
@@ -33,17 +33,57 @@ project_configs = [
   ),
 
   ProjectConfig(
-    name='aave',
+    name='AAVE',
     repo_urls=['https://github.com/aave/aave-v3-core']
   ),
 
   ProjectConfig(
-    name='tether',
+    name='USD Tether',
     repo_urls=['https://github.com/tethercoin/USDT']
   ),
 
   ProjectConfig(
-    name='polygon',
+    name='Polygon',
     repo_urls=['https://github.com/maticnetwork/contracts']
-  )
+  ),
+
+  ProjectConfig(
+    name='USDC',
+    repo_urls=['https://github.com/circlefin/stablecoin-evm']
+  ),
+
+  ProjectConfig(
+    name='Shiba Inu',
+    repo_urls=['https://github.com/shibaswaparmy/contracts']
+  ),
+
+  ProjectConfig(
+    name='Toncoin',
+    repo_urls=['https://github.com/ton-blockchain/bridge-solidity']
+  ),
+
+  ProjectConfig(
+    name='Uniswap',
+    repo_urls=['https://github.com/Uniswap/v3-core']
+  ),
+
+  ProjectConfig(
+    name='Lido DAO',
+    repo_urls=['https://github.com/lidofinance/lido-dao']
+  ),
+
+  ProjectConfig(
+    name='Immutable',
+    repo_urls=['https://github.com/immutable/contracts']
+  ),
+
+  ProjectConfig(
+    name='Mantle',
+    repo_urls=['https://github.com/mantlenetworkio/mantle']
+  ),
+
+  ProjectConfig(
+    name='Cronos',
+    repo_urls=['https://github.com/crypto-org-chain/cronos']
+  ),
 ]
