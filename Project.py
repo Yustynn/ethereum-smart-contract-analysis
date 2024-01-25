@@ -70,6 +70,8 @@ class Project:
           and not any(c.startswith(ip) for ip in exclude_paths)
           # exclude tests
           and not c.endswith('.t.sol')
+          # only include files
+          and os.path.isfile(c)
       ]
 
       overall_candidates += candidates
