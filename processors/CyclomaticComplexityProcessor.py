@@ -14,8 +14,11 @@ class CyclomaticComplexityResult:
   num_functions: int
   raw: List[int]
 
-  @staticmethod
-  def from_ccs(ccs: List[int]) -> 'CyclomaticComplexityResult':
+  @classmethod
+  def from_ccs(cls, ccs: List[int]) -> 'CyclomaticComplexityResult':
+    if len(ccs) == 0:
+      return cls.neutral()
+
     return CyclomaticComplexityResult(
       total = sum(ccs),
       mean = mean(ccs),
