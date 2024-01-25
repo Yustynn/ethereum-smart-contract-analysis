@@ -60,9 +60,8 @@ class Project:
 
       candidates = glob(os.path.join(path, '*.sol'))
       candidates += glob(os.path.join(path, '**/*.sol'), recursive=True)
-      candidates = [
+      candidates = {
         c for c in candidates
-          
         if
           # exclude submodules
           not any(c.startswith(ip) for ip in submodule_paths)
@@ -72,9 +71,9 @@ class Project:
           and not c.endswith('.t.sol')
           # only include files
           and os.path.isfile(c)
-      ]
+      }
 
-      overall_candidates += candidates
+      overall_candidates += list(candidates)
 
     return overall_candidates
 
