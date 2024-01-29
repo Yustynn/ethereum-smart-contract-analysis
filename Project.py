@@ -81,7 +81,9 @@ class Project:
   def __iter__(self) -> Slither:
     self.slither_failures = []
     with logging_redirect_tqdm():
-      for path in tqdm(self.get_path_candidates(), desc=self.name):
+      progress_bar = tqdm(self.get_path_candidates(), desc=self.name)
+      for path in progress_bar:
+        progress_bar.set_description(f'Path: {path}')
         set_appropriate_solc_version(path)
         try:
           yield Slither(path)

@@ -3,6 +3,8 @@ import pandas as pd
 from dataclasses import dataclass
 from config import DATASET_CSV_OUTPUT_PATH, DATASET_DILL_OUTPUT_PATH, project_configs
 from typing import Dict, List, Union
+from tqdm import tqdm
+from tqdm.contrib.logging import logging_redirect_tqdm
 
 import dill
 
@@ -44,21 +46,24 @@ class Result:
 
 results: List[Result] = []
 
-for cfg in project_configs:
-  project = Project(cfg)
-  cyclomatic_complexity = CyclomaticComplexityResult.neutral()
-  metadata = MetadataResult.neutral()
+with logging_redirect_tqdm():
+  progress_bar = tqdm(project_configs)
+  for cfg in progress_bar:
+    progress_bar.set_description(f'Project: {cfg.name}')
+    project = Project(cfg)
+    cyclomatic_complexity = CyclomaticComplexityResult.neutral()
+    metadata = MetadataResult.neutral()
 
-  for slither in project:
-    cyclomatic_complexity += CyclomaticComplexityProcessor.run(slither)
-    metadata += MetadataProcessor.run(slither)
+    for slither in project:
+      cyclomatic_complexity += CyclomaticComplexityProcessor.run(slither)
+      metadata += MetadataProcessor.run(slither)
 
-  results.append(Result(
-    project_name=project.name,
-    cyclomatic_complexity=cyclomatic_complexity,
-    metadata=metadata,
-    failures=project.slither_failures
-  ))
+    results.append(Result(
+      project_name=project.name,
+      cyclomatic_complexity=cyclomatic_complexity,
+      metadata=metadata,
+      failures=project.slither_failures
+    ))
 
 df = pd.DataFrame.from_records(r.to_record() for r in results)
 df.to_csv(DATASET_CSV_OUTPUT_PATH, index=False)
