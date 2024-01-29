@@ -91,4 +91,57 @@ project_configs = [
     name='Cronos',
     repo_urls=['https://github.com/crypto-org-chain/cronos']
   ),
+
+  ProjectConfig(
+    name='The Graph',
+    repo_urls=['https://github.com/graphprotocol/contracts']
+  ),
+
+  ProjectConfig(
+    name='Render',
+    repo_urls=['https://github.com/rndr-network/Token-Audit']
+  ),
+
+  ProjectConfig(
+    name='Synthetix',
+    repo_urls=['https://github.com/Synthetixio/synthetix']
+  ),
+
+  ProjectConfig(
+    name='Fantom',
+    repo_urls=[
+      # In general, seem to be lots of redundant/abandoned stuff
+      'https://github.com/Fantom-foundation/Artion-Contracts',
+      'https://github.com/Fantom-foundation/opera-sfc',
+      # 'https://github.com/Fantom-foundation/qewa', # unclear what this is, excluding.
+      'https://github.com/Fantom-foundation/FtmStableCoin',
+      'https://github.com/Fantom-foundation/FNS-SCs', # i don't think this is used. it's an ENS clone.
+      'https://github.com/Fantom-foundation/fns-contracts/tree/master', # unclear about whether this is used. I suspect no, in favor of other repos.
+      'https://github.com/Fantom-foundation/Fantom-CrossChain-Bridge',
+      'https://github.com/Fantom-foundation/Fantom-wFTM',
+      'https://github.com/Fantom-foundation/Fantom-Contract-Validation',
+      'https://github.com/Fantom-foundation/Fantom-Uniswap', # seems deployed, acc to README
+      'https://github.com/Fantom-foundation/keep3r.network', # idk what this is, seems abandoned
+      'https://github.com/Fantom-foundation/Fantom-Oracle-Pricefeed',
+      'https://github.com/Fantom-foundation/Fantom-FLend',
+      'https://github.com/Fantom-foundation/data-hashing-authentication',
+      'https://github.com/Fantom-foundation/Fantom-DeFi', # possibly not used
+      'https://github.com/Fantom-foundation/Fantom-Fusd'
+    ]
+  ),
+
+  ProjectConfig(
+    name='The Sandbox',
+    repo_urls=['https://github.com/thesandboxgame/sandbox-smart-contracts']
+  ),
+
+  ProjectConfig(
+    name='Axie Infinity',
+    repo_urls=[
+      'https://github.com/axieinfinity/public-smart-contracts',
+      # here's ronin stuff. Not 100% on including it
+      'https://github.com/axieinfinity/ronin-bridge-contracts',
+      'https://github.com/axieinfinity/rns-contracts',
+      'https://github.com/axieinfinity/ronin-dpos-contracts',
+]),
 ]
