@@ -12,6 +12,7 @@ class CyclomaticComplexityResult(Monoid):
   total: int
   mean: float
   median: float
+  max: float
   num_functions: int
   raw: List[int]
 
@@ -24,6 +25,7 @@ class CyclomaticComplexityResult(Monoid):
       total = sum(ccs),
       mean = mean(ccs),
       median = median(ccs),
+      max = max(ccs),
       num_functions = len(ccs),
       raw = ccs,
     )
@@ -37,6 +39,7 @@ class CyclomaticComplexityResult(Monoid):
       total = 0,
       mean = float('-inf'),
       median = float('-inf'),
+      max = float('-inf'),
       num_functions = 0,
       raw = [],
     )
@@ -62,6 +65,7 @@ class CyclomaticComplexityProcessor(Processor):
       total = sum(ccs),
       mean = mean(ccs),
       median = median(ccs),
+      max = max(ccs),
       num_functions = len(ccs),
       raw = ccs
     )
