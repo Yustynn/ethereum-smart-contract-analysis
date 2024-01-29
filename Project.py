@@ -4,6 +4,8 @@ from typing import List
 import logging
 import os
 import sys
+from tqdm import tqdm
+from tqdm.contrib.logging import logging_redirect_tqdm
 
 sys.path.append('..')
 
@@ -78,14 +80,15 @@ class Project:
 
   def __iter__(self) -> Slither:
     self.slither_failures = []
-    for path in self.get_path_candidates():
-      set_appropriate_solc_version(path)
-      try:
-        yield Slither(path)
-      except Exception as e:
-        lg.info(f'[FAIL] {path}')
-        self.slither_failures.append((path, e))
+    with logging_redirect_tqdm():
+      for path in tqdm(self.get_path_candidates(), desc=self.name):
+        set_appropriate_solc_version(path)
+        try:
+          yield Slither(path)
+        except Exception as e:
+          lg.info(f'[FAIL] {path}')
+          self.slither_failures.append((path, e))
 
-  
+    
 
-  
+    
