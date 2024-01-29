@@ -35,6 +35,7 @@ class Result:
       'cc_total': self.cyclomatic_complexity.total,
       'cc_mean': self.cyclomatic_complexity.mean,
       'cc_median': self.cyclomatic_complexity.median,
+      'cc_max': self.cyclomatic_complexity.max,
 
       'loc_total': self.metadata.loc_total,
       'loc_mean_file': self.metadata.loc_mean_file,
