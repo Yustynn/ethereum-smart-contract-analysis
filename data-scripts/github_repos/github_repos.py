@@ -64,9 +64,6 @@ async def main():
                 async for repo in gh.getiter(f'/orgs/{r.gh_org_name}/repos?per_page=100'):
                     repos.append(repo)
 
-                with open('tmp.json', 'w') as f:
-                    json.dump(repos, f)
-
                 tasks = [process_repo(gh, r.gh_org_name, repo) for repo in repos]
                 results = await asyncio.gather(*tasks)
                 results = [r for r in results if r is not None]
@@ -79,10 +76,10 @@ async def main():
                     'org_name': r.gh_org_name,
                     'results': results,
                     'num_results': len(results),
-                    'solidity_fraction_min': min(solidity_fractions),
-                    'solidity_fraction_max': max(solidity_fractions),
-                    'solidity_fraction_median': median(solidity_fractions),
-                    'solidity_fraction_mean': mean(solidity_fractions),
+                    'solidity_fraction_min': min(solidity_fractions) if len(solidity_fractions) > 0 else None,
+                    'solidity_fraction_max': max(solidity_fractions) if len(solidity_fractions) > 0 else None,
+                    'solidity_fraction_median': median(solidity_fractions) if len(solidity_fractions) > 0 else None,
+                    'solidity_fraction_mean': mean(solidity_fractions) if len(solidity_fractions) > 0 else None,
                 }, f)
             lg.info(f'{len(results)} results found. Written to {results_path}')
 
