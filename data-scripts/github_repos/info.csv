@@ -1,0 +1,46 @@
+rank,name,gh_org_name,cmc_link,gh_link
+3,Tether USDt,tethercoin,https://coinmarketcap.com/currencies/tether/,https://github.com/tethercoin/USDT
+7,USDC,circlefin,https://coinmarketcap.com/currencies/usd-coin/,https://github.com/circlefin/stablecoin-evm
+13,Polygon,maticnetwork,https://coinmarketcap.com/currencies/polygon/,https://github.com/maticnetwork/contracts
+14,Chainlink,smartcontractkit,https://coinmarketcap.com/currencies/chainlink/,https://github.com/smartcontractkit/chainlink.git
+15,Toncoin,ton-blockchain,https://coinmarketcap.com/currencies/toncoin/,https://github.com/ton-blockchain/bridge-solidity
+17,Shiba Inu,shibaswaparmy,https://coinmarketcap.com/currencies/shiba-inu/,https://github.com/shibaswaparmy/contracts
+18,Dai,makerdao,https://coinmarketcap.com/currencies/multi-collateral-dai/,"https://github.com/makerdao/dss-cdp-manager/, https://github.com/makerdao/dss-flash/, https://github.com/dapphub/ds-pause, https://github.com/makerdao/osm.git, https://github.com/makerdao/esm/, https://github.com/makerdao/median, https://github.com/dapphub/ds-chief/, https://github.com/dapphub/ds-spell/, https://github.com/makerdao/dss.git, https://github.com/makerdao/dss-proxy-actions, https://github.com/makerdao/dsr-manager/, https://github.com/dapphub/ds-token, https://github.com/makerdao/vote-proxy/'"
+22,Uniswap,Uniswap,https://coinmarketcap.com/currencies/uniswap/,https://github.com/Uniswap/v3-core
+24,UNUS SED LEO,,https://coinmarketcap.com/currencies/unus-sed-leo/,
+28,OKB,,https://coinmarketcap.com/currencies/okb/,
+29,Lido DAO,lidofinance,https://coinmarketcap.com/currencies/lido-dao/,https://github.com/lidofinance/lido-dao
+33,Immutable,immutable,https://coinmarketcap.com/currencies/immutable-x/,https://github.com/immutable/contracts
+40,Mantle,mantlenetworkio,https://coinmarketcap.com/currencies/mantle/,https://github.com/mantlenetworkio/mantle
+42,Cronos,crypto-org-chain,https://coinmarketcap.com/currencies/cronos/,https://github.com/crypto-org-chain/cronos
+43,TrueUSD,,,
+44,First Digital USD,,https://coinmarketcap.com/currencies/first-digital-usd/,
+45,Maker,makerdao,https://coinmarketcap.com/currencies/maker/,"https://github.com/makerdao/dss-cdp-manager/, https://github.com/makerdao/dss-flash/, https://github.com/dapphub/ds-pause, https://github.com/makerdao/osm.git, https://github.com/makerdao/esm/, https://github.com/makerdao/median, https://github.com/dapphub/ds-chief/, https://github.com/dapphub/ds-spell/, https://github.com/makerdao/dss.git, https://github.com/makerdao/dss-proxy-actions, https://github.com/makerdao/dsr-manager/, https://github.com/dapphub/ds-token, https://github.com/makerdao/vote-proxy/'"
+47,The Graph,graphprotocol,https://coinmarketcap.com/currencies/the-graph/,https://github.com/graphprotocol/contracts
+50,Aave,aave,https://coinmarketcap.com/currencies/aave/,https://github.com/aave/aave-v3-core/tree/master
+53,Render,rndr-network,https://coinmarketcap.com/currencies/render/,https://github.com/rndr-network/Token-Audit
+55,Quant,quantnetwork,https://coinmarketcap.com/currencies/quant/,https://github.com/quantnetwork?q=&type=all&language=&sort=
+59,Flow,onflow,https://coinmarketcap.com/currencies/flow/,https://github.com/onflow
+61,Synthetix,Synthetixio,https://coinmarketcap.com/currencies/synthetix/,https://github.com/Synthetixio/synthetix
+62,Fantom,Fantom-foundation,https://coinmarketcap.com/currencies/fantom/,"https://github.com/Fantom-foundation/Artion-Contracts, https://github.com/Fantom-foundation/opera-sfc, https://github.com/Fantom-foundation/qewa, https://github.com/Fantom-foundation/FtmStableCoin, https://github.com/Fantom-foundation/FNS-SCs, https://github.com/Fantom-foundation/fns-contracts/tree/master, https://github.com/Fantom-foundation/Fantom-CrossChain-Bridge, https://github.com/Fantom-foundation/Fantom-wFTM, https://github.com/Fantom-foundation/Fantom-Contract-Validation, https://github.com/Fantom-foundation/Fantom-Uniswap, https://github.com/Fantom-foundation/keep3r.network, https://github.com/Fantom-foundation/Fantom-Oracle-Pricefeed, https://github.com/Fantom-foundation/Fantom-FLend, https://github.com/Fantom-foundation/data-hashing-authentication, https://github.com/Fantom-foundation/Fantom-DeFi, https://github.com/Fantom-foundation/Fantom-Fusd"
+63,The Sandbox,thesandboxgame,https://coinmarketcap.com/currencies/the-sandbox/,https://github.com/thesandboxgame/sandbox-smart-contracts
+64,Axie Infinity,axieinfinity,https://coinmarketcap.com/currencies/axie-infinity/,https://github.com/axieinfinity/public-smart-contracts
+69,KuCoin Token,Kucoin,https://coinmarketcap.com/currencies/kucoin-token/,https://github.com/orgs/Kucoin/repositories?type=all
+71,Beam,,https://coinmarketcap.com/currencies/onbeam/,
+72,Decentraland,decentraland,https://coinmarketcap.com/currencies/decentraland/,https://github.com/decentraland/marketplace-contracts
+74,Osmosis,osmosis-labs,https://coinmarketcap.com/currencies/osmosis/,https://github.com/osmosis-labs?q=contracts&type=all&language=&sort=
+77,Bitget Token,,https://coinmarketcap.com/currencies/bitget-token-new/,
+78,Kava,Kava-Labs,https://coinmarketcap.com/currencies/kava/,https://github.com/Kava-Labs/kava-bridge
+80,Oasis Network,oasisprotocol,https://coinmarketcap.com/currencies/oasis-network/,https://github.com/oasisprotocol/emerald-contracts/blob/master/WROSE.sol
+82,Ethereum Name Service,ensdomains,https://coinmarketcap.com/currencies/ethereum-name-service/,https://github.com/ensdomains/ens-contracts
+83,WOO,woonetwork,https://coinmarketcap.com/currencies/wootrade/,https://github.com/woonetwork
+84,USDD,,https://coinmarketcap.com/currencies/usdd/,
+85,Gala,,https://coinmarketcap.com/currencies/gala/,
+86,PancakeSwap,pancakeswap,https://coinmarketcap.com/currencies/pancakeswap/,https://github.com/pancakeswap/pancake-smart-contracts
+87,Chiliz,chiliz-chain,https://coinmarketcap.com/currencies/chiliz/,https://github.com/chiliz-chain/v2
+88,Blur,,https://coinmarketcap.com/currencies/blur-token/,
+89,Terra Classic,terra-money,https://coinmarketcap.com/currencies/terra-luna/,https://github.com/terra-money/core
+91,Rocket Pool,rocket-pool,https://coinmarketcap.com/currencies/rocket-pool/,https://github.com/rocket-pool/rocketpool
+93,Frax Share,FraxFinance,https://coinmarketcap.com/currencies/frax-share/,https://github.com/FraxFinance/frax-solidity
+98,Curve DAO Token,curvefi,https://coinmarketcap.com/currencies/curve-dao-token/,https://github.com/curvefi/curve-dao-contracts
+99,Fetch.ai,fetchai,https://coinmarketcap.com/currencies/fetch/,https://github.com/fetchai
