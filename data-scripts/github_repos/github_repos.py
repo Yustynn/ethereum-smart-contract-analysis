@@ -1,4 +1,6 @@
-from github import Github
+# note: GitHub rate limit using authenticated API is 5k per hour.
+
+from github import Github, Auth
 from dotenv import load_dotenv
 from typing import Dict, TypeAlias
 import os
@@ -19,8 +21,8 @@ def solidity_fraction(languages: Languages) -> float:
 
     return languages['Solidity'] / sum(languages.values())
 
-org_name = 'decentraland'
-g = Github()
+g = Github(auth=Auth.Token(os.environ['GITHUB_TOKEN']))
+org_name = 'crypto-org-chain'
 
 results = []
 lg.info(f'[{org_name}] Retrieving repos')

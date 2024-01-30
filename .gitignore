@@ -5,3 +5,4 @@ __pycache__
 err.log
 project-repos
 output
+.env
