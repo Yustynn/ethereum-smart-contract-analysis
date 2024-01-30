@@ -71,7 +71,7 @@ async def main():
             # write to json
             with open(results_path, 'w') as f:
                 solidity_fractions = [r['solidity_fraction'] for r in results]
-                json.dump({
+                output = {
                     'name': r.name,
                     'org_name': r.gh_org_name,
                     'results': results,
@@ -80,7 +80,9 @@ async def main():
                     'solidity_fraction_max': max(solidity_fractions) if len(solidity_fractions) > 0 else None,
                     'solidity_fraction_median': median(solidity_fractions) if len(solidity_fractions) > 0 else None,
                     'solidity_fraction_mean': mean(solidity_fractions) if len(solidity_fractions) > 0 else None,
-                }, f)
+                }
+
+                json.dump(output, f)
             lg.info(f'{len(results)} results found. Written to {results_path}')
 
 
