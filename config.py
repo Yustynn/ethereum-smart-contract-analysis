@@ -71,7 +71,7 @@ PROJECT_CONFIGS = [
       "https://github.com/makerdao/dss-proxy-actions",
       "https://github.com/makerdao/dsr-manager/",
       "https://github.com/dapphub/ds-token",
-      "https://github.com/makerdao/vote-proxy/'",
+      "https://github.com/makerdao/vote-proxy/",
     ],
   ),
 
@@ -125,7 +125,7 @@ PROJECT_CONFIGS = [
       "https://github.com/makerdao/dss-proxy-actions",
       "https://github.com/makerdao/dsr-manager/",
       "https://github.com/dapphub/ds-token",
-      "https://github.com/makerdao/vote-proxy/'",
+      "https://github.com/makerdao/vote-proxy/",
     ],
   ),
 
@@ -238,8 +238,6 @@ PROJECT_CONFIGS = [
     ],
   ),
 ]
-
-
 
 PROJECT_CONFIGS_ALL_REPOS = [
   ProjectConfig(
