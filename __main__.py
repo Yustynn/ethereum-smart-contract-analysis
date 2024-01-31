@@ -1,7 +1,7 @@
 import logging
 import pandas as pd
 from dataclasses import dataclass
-from config import DATASET_CSV_OUTPUT_PATH, DATASET_DILL_OUTPUT_PATH, project_configs
+from config import DATASET_CSV_OUTPUT_PATH, DATASET_DILL_OUTPUT_PATH, PROJECT_CONFIGS
 from typing import Dict, List, Union
 from tqdm import tqdm
 from tqdm.contrib.logging import logging_redirect_tqdm
@@ -47,7 +47,7 @@ class Result:
 results: List[Result] = []
 
 with logging_redirect_tqdm():
-  progress_bar = tqdm(project_configs)
+  progress_bar = tqdm(PROJECT_CONFIGS)
   for cfg in progress_bar:
     progress_bar.set_description(f'Project: {cfg.name}')
     project = Project(cfg)
