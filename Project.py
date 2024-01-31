@@ -10,12 +10,15 @@ from tqdm.contrib.logging import logging_redirect_tqdm
 sys.path.append('..')
 
 from git import Repo
-from config import ProjectConfig, REPO_DIR
+from config import ProjectConfig, EXCLUDE_PATHS_PATH, REPO_DIR
 from utils import set_appropriate_solc_version
 
 
 lg = logging.getLogger('Project')
 lg.setLevel(logging.DEBUG)
+
+exclude_paths = open(EXCLUDE_PATHS_PATH).readlines()
+
 
 class Project:
   def __init__(self, config: ProjectConfig):
@@ -35,8 +38,11 @@ class Project:
     self.ensure_repos_exist()
 
   def ensure_repos_exist(self):
-    for repo_url in self.repo_urls:
-      self.ensure_repo_exists(repo_url)
+    with logging_redirect_tqdm():
+      pbar = tqdm(self.repo_urls)
+      for repo_url in pbar:
+        pbar.set_description(f"[{self.name}] {os.path.basename(repo_url)}")
+        self.ensure_repo_exists(repo_url)
   
   def ensure_repo_exists(self, repo_url):
     name = os.path.basename(repo_url)
@@ -44,12 +50,15 @@ class Project:
 
     # clone repo if it doesn't exist
     if not os.path.exists(path):
-      lg.info(f"Cloning repo {repo_url}")
-      Repo.clone_from(repo_url, path, multi_options=["--recurse-submodules"])
-      lg.info(f"{name} cloned with submodules.")
+      with logging_redirect_tqdm():
+        lg.info(f"Cloning repo {repo_url}, with submodules")
+        Repo.clone_from(repo_url, path, multi_options=["--recurse-submodules"])
+        # lg.info(f"{name} cloned with submodules.")
 
 
   def get_path_candidates(self) -> List[str]:
+    global exclude_paths
+
     overall_candidates = []
     for repo_url in self.repo_urls:
       name = os.path.basename(repo_url)
@@ -57,7 +66,6 @@ class Project:
 
       repo = Repo(path)
       submodule_paths = {os.path.join(path, s.path) for s in repo.submodules}
-      exclude_paths = {os.path.join(self.base_dir, ed) for ed in self.exclude_dirs}
 
       candidates = glob(os.path.join(path, '*.sol'))
       candidates += glob(os.path.join(path, '**/*.sol'), recursive=True)
@@ -84,8 +92,8 @@ class Project:
       progress_bar = tqdm(self.get_path_candidates(), desc=self.name)
       for path in progress_bar:
         progress_bar.set_description(f'Path: {path}')
-        set_appropriate_solc_version(path)
         try:
+          set_appropriate_solc_version(path)
           yield Slither(path)
         except Exception as e:
           lg.info(f'[FAIL] {path}')
