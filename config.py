@@ -97,13 +97,6 @@ PROJECT_CONFIGS = [
   ),
 
   ProjectConfig(
-    name="Mantle",
-    repo_urls=[
-      "https://github.com/mantlenetworkio/mantle",
-    ],
-  ),
-
-  ProjectConfig(
     name="Cronos",
     repo_urls=[
       "https://github.com/crypto-org-chain/cronos",
@@ -148,7 +141,6 @@ PROJECT_CONFIGS = [
     name="Synthetix",
     repo_urls=[
       "https://github.com/Synthetixio/synthetix-v3",
-      "https://github.com/Synthetixio/snx-grants-dao-v2/tree/main",
     ],
   ),
 
@@ -163,13 +155,6 @@ PROJECT_CONFIGS = [
     name="Axie Infinity",
     repo_urls=[
       "https://github.com/axieinfinity/public-smart-contracts",
-    ],
-  ),
-
-  ProjectConfig(
-    name="KuCoin Token",
-    repo_urls=[
-      "https://github.com/orgs/Kucoin/repositories?type=all",
     ],
   ),
 
@@ -238,6 +223,7 @@ PROJECT_CONFIGS = [
     ],
   ),
 ]
+
 
 PROJECT_CONFIGS_ALL_REPOS = [
   ProjectConfig(
