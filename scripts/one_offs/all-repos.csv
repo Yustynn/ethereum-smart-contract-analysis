@@ -1,0 +1,738 @@
+name,solidity_fraction,repo_name,url
+Dai,0.8508117710747755,sai,https://github.com/makerdao/sai.git
+Dai,0.9900762561370521,medianizer,https://github.com/makerdao/medianizer.git
+Dai,0.0028576413033596327,pymaker,https://github.com/makerdao/pymaker.git
+Dai,0.9613168724279836,price-feed,https://github.com/makerdao/price-feed.git
+Dai,0.8242558908639934,median,https://github.com/makerdao/median.git
+Dai,0.8996030819519029,proxy-registry,https://github.com/makerdao/proxy-registry.git
+Dai,0.9649619800208737,osm,https://github.com/makerdao/osm.git
+Dai,0.9752147097815436,vote-proxy,https://github.com/makerdao/vote-proxy.git
+Dai,0.9976063117325291,dss,https://github.com/makerdao/dss.git
+Dai,0.991932059447983,dss-deploy,https://github.com/makerdao/dss-deploy.git
+Dai,0.9644830307813733,symbolic-voting,https://github.com/makerdao/symbolic-voting.git
+Dai,0.9903232448013177,multicall,https://github.com/makerdao/multicall.git
+Dai,0.9963959179028036,mcd-cdp-handler,https://github.com/makerdao/mcd-cdp-handler.git
+Dai,0.9951474936240323,dss-proxy-actions,https://github.com/makerdao/dss-proxy-actions.git
+Dai,0.997007511147021,scd-mcd-migration,https://github.com/makerdao/scd-mcd-migration.git
+Dai,0.9874511177260258,dss-cdp-manager,https://github.com/makerdao/dss-cdp-manager.git
+Dai,0.014425638179800223,developerguides,https://github.com/makerdao/developerguides.git
+Dai,0.996935088398503,nft-adapter,https://github.com/makerdao/nft-adapter.git
+Dai,0.9675470160907054,token-faucet,https://github.com/makerdao/token-faucet.git
+Dai,0.9572139303482587,testchain-medians,https://github.com/makerdao/testchain-medians.git
+Dai,0.9521690767519466,dss-deploy-pause-proxy-actions,https://github.com/makerdao/dss-deploy-pause-proxy-actions.git
+Dai,0.9721180757247716,esm,https://github.com/makerdao/esm.git
+Dai,0.9809104258443465,mkr-mom,https://github.com/makerdao/mkr-mom.git
+Dai,0.9622187875665464,mkr-authority,https://github.com/makerdao/mkr-authority.git
+Dai,0.22885705359932165,mkr-mcd-spec,https://github.com/makerdao/mkr-mcd-spec.git
+Dai,0.9970419728484244,savings-dai,https://github.com/makerdao/savings-dai.git
+Dai,0.9972245513651258,spells-mainnet,https://github.com/makerdao/spells-mainnet.git
+Dai,0.92614123346376,megapoker,https://github.com/makerdao/megapoker.git
+Dai,0.0011510607260275497,go-ethereum,https://github.com/makerdao/go-ethereum.git
+Dai,1.0,dss-interfaces,https://github.com/makerdao/dss-interfaces.git
+Dai,0.9373675847457628,osm-mom,https://github.com/makerdao/osm-mom.git
+Dai,0.9963713838676387,keg,https://github.com/makerdao/keg.git
+Dai,0.95915265507742,dsr-manager,https://github.com/makerdao/dsr-manager.git
+Dai,0.6916025350837482,dss-darkspell,https://github.com/makerdao/dss-darkspell.git
+Dai,0.9977548173336821,mkr-mcd-spec-sol-tests,https://github.com/makerdao/mkr-mcd-spec-sol-tests.git
+Dai,0.9972555336793747,dss-gov,https://github.com/makerdao/dss-gov.git
+Dai,0.9498585906198445,dss-auto-line,https://github.com/makerdao/dss-auto-line.git
+Dai,0.9611246722719465,flipper-mom,https://github.com/makerdao/flipper-mom.git
+Dai,0.9009092310063184,sai-cagefree,https://github.com/makerdao/sai-cagefree.git
+Dai,0.9807889024724932,dss-exigency,https://github.com/makerdao/dss-exigency.git
+Dai,0.7909067038316265,ilk-registry,https://github.com/makerdao/ilk-registry.git
+Dai,0.9905545060562285,ds-proxy,https://github.com/makerdao/ds-proxy.git
+Dai,0.9528198190580874,spells,https://github.com/makerdao/spells.git
+Dai,0.9917877286540303,spells-kovan,https://github.com/makerdao/spells-kovan.git
+Dai,0.9773092498553706,ds-pause,https://github.com/makerdao/ds-pause.git
+Dai,0.9975733972438586,ds-chief,https://github.com/makerdao/ds-chief.git
+Dai,0.851676698194325,drizzle,https://github.com/makerdao/drizzle.git
+Dai,0.8457987072945522,dss-cat-overflow,https://github.com/makerdao/dss-cat-overflow.git
+Dai,0.976005005474738,dss-flash,https://github.com/makerdao/dss-flash.git
+Dai,0.8523381149201719,dss-chain-log,https://github.com/makerdao/dss-chain-log.git
+Dai,0.9388598735542257,exchange-callees,https://github.com/makerdao/exchange-callees.git
+Dai,0.964616003216727,fib,https://github.com/makerdao/fib.git
+Dai,0.9799157099258828,univ2-lp-oracle,https://github.com/makerdao/univ2-lp-oracle.git
+Dai,0.9950797849933443,dss-exec-lib,https://github.com/makerdao/dss-exec-lib.git
+Dai,0.99697732289221,dss-gem-joins,https://github.com/makerdao/dss-gem-joins.git
+Dai,0.9999015573279143,deployed-collateral-contracts,https://github.com/makerdao/deployed-collateral-contracts.git
+Dai,0.9846012832263978,dss-lerp,https://github.com/makerdao/dss-lerp.git
+Dai,0.5938679075784253,dss-vest,https://github.com/makerdao/dss-vest.git
+Dai,0.9639735264735265,clipper-mom,https://github.com/makerdao/clipper-mom.git
+Dai,0.17337902530981364,optimism-dai-bridge,https://github.com/makerdao/optimism-dai-bridge.git
+Dai,0.9554176033905443,MIP21-RWA-Example,https://github.com/makerdao/MIP21-RWA-Example.git
+Dai,0.8746490774339515,dss-direct-deposit,https://github.com/makerdao/dss-direct-deposit.git
+Dai,0.9730451027488658,mips-best-practices,https://github.com/makerdao/mips-best-practices.git
+Dai,0.9587632399821753,vote-delegate,https://github.com/makerdao/vote-delegate.git
+Dai,0.9972182889125353,dss-crop-join,https://github.com/makerdao/dss-crop-join.git
+Dai,0.2362924077411267,arbitrum-dai-bridge,https://github.com/makerdao/arbitrum-dai-bridge.git
+Dai,0.8796915810941357,ds-weth,https://github.com/makerdao/ds-weth.git
+Dai,0.9810088084885895,univ3-lp-oracle,https://github.com/makerdao/univ3-lp-oracle.git
+Dai,0.9916280570054542,dss-charter,https://github.com/makerdao/dss-charter.git
+Dai,0.9890360332614722,proxy-manager-clipper,https://github.com/makerdao/proxy-manager-clipper.git
+Dai,0.9962036676238677,spells-goerli,https://github.com/makerdao/spells-goerli.git
+Dai,0.956770672433323,dss-psm,https://github.com/makerdao/dss-psm.git
+Dai,0.09296130551371028,starknet-dai-bridge,https://github.com/makerdao/starknet-dai-bridge.git
+Dai,0.9599721545422902,JoinFab,https://github.com/makerdao/JoinFab.git
+Dai,0.9819023203267576,curve-lp-oracle,https://github.com/makerdao/curve-lp-oracle.git
+Dai,0.019184788796538767,dss-simulation-scripts,https://github.com/makerdao/dss-simulation-scripts.git
+Dai,0.7392655063002759,dss-teleport,https://github.com/makerdao/dss-teleport.git
+Dai,0.9934690506416237,dss-cron,https://github.com/makerdao/dss-cron.git
+Dai,0.9786315071607183,dss-proxy-actions-steth,https://github.com/makerdao/dss-proxy-actions-steth.git
+Dai,0.24087844693468016,wormhole-integration-tests,https://github.com/makerdao/wormhole-integration-tests.git
+Dai,0.9914535771625484,dss-test,https://github.com/makerdao/dss-test.git
+Dai,0.9715328853378485,dss-proxy,https://github.com/makerdao/dss-proxy.git
+Dai,0.911997307757025,dss-cdp-registry,https://github.com/makerdao/dss-cdp-registry.git
+Dai,0.8873131023429427,dss-kiln,https://github.com/makerdao/dss-kiln.git
+Dai,0.9793753821551197,dss-gate,https://github.com/makerdao/dss-gate.git
+Dai,0.8138031693077564,flash-killer,https://github.com/makerdao/flash-killer.git
+Dai,0.21225472219060745,xdomain,https://github.com/makerdao/xdomain.git
+Dai,0.5311135821772467,xdomain-dss,https://github.com/makerdao/xdomain-dss.git
+Dai,0.971550134340832,rwa-toolkit,https://github.com/makerdao/rwa-toolkit.git
+Dai,0.010473011854068362,dss-onboard-ilk-helper,https://github.com/makerdao/dss-onboard-ilk-helper.git
+Dai,0.9929816784869976,dss-gem-joins-integration-tests,https://github.com/makerdao/dss-gem-joins-integration-tests.git
+Dai,0.9976719428163643,sdai,https://github.com/makerdao/sdai.git
+Dai,0.974021492655033,protego,https://github.com/makerdao/protego.git
+Dai,0.13258653285509833,starknet-dss-bridge-tests,https://github.com/makerdao/starknet-dss-bridge-tests.git
+Dai,0.9824059629051829,line-mom,https://github.com/makerdao/line-mom.git
+Dai,0.9691300867873005,endgame-toolkit,https://github.com/makerdao/endgame-toolkit.git
+Dai,1.0,dss-flappers,https://github.com/makerdao/dss-flappers.git
+Dai,0.9979205213433104,token-tests,https://github.com/makerdao/token-tests.git
+Dai,0.6539055529296386,dss-allocator,https://github.com/makerdao/dss-allocator.git
+Dai,0.7450356796220219,dss-conduits,https://github.com/makerdao/dss-conduits.git
+Tether USDt,0.17246734604223513,dex-contracts,https://github.com/tethercoin/dex-contracts.git
+Tether USDt,1.0,dollar,https://github.com/tethercoin/dollar.git
+Tether USDt,0.37752436282757396,defidollar-core,https://github.com/tethercoin/defidollar-core.git
+Tether USDt,0.8264435961991391,stablecoin-fun,https://github.com/tethercoin/stablecoin-fun.git
+Tether USDt,0.5902247231540598,columbianpesogaslesspeg,https://github.com/tethercoin/columbianpesogaslesspeg.git
+Tether USDt,1.0,USDT,https://github.com/tethercoin/USDT.git
+Tether USDt,0.6797947472328865,digix-dao,https://github.com/tethercoin/digix-dao.git
+Tether USDt,1.0,USDC,https://github.com/tethercoin/USDC.git
+Tether USDt,1.0,GUH,https://github.com/tethercoin/GUH.git
+Tether USDt,0.5790874046761083,hedera-stable-coin-solidity-ethereum,https://github.com/tethercoin/hedera-stable-coin-solidity-ethereum.git
+Tether USDt,1.0,tethertoken.sol,https://github.com/tethercoin/tethertoken.sol.git
+Tether USDt,0.6378373556162568,usdp-contracts,https://github.com/tethercoin/usdp-contracts.git
+Tether USDt,0.5958306677820974,busd-contract,https://github.com/tethercoin/busd-contract.git
+Tether USDt,0.4695218198700093,paxos-gold-contract,https://github.com/tethercoin/paxos-gold-contract.git
+Tether USDt,0.21023830589100437,bitcoin-token-smart-contracts,https://github.com/tethercoin/bitcoin-token-smart-contracts.git
+Tether USDt,0.9976063117325291,dss-makerdai,https://github.com/tethercoin/dss-makerdai.git
+Tether USDt,0.35873813704860685,synthetix,https://github.com/tethercoin/synthetix.git
+Tether USDt,0.46362031554761185,contracts-pre22-truefi,https://github.com/tethercoin/contracts-pre22-truefi.git
+Tether USDt,0.8796915810941357,ds-weth,https://github.com/tethercoin/ds-weth.git
+Tether USDt,0.991932059447983,dss-deploy,https://github.com/tethercoin/dss-deploy.git
+Tether USDt,0.018607904825073608,Anti-Gravity-Bridge,https://github.com/tethercoin/Anti-Gravity-Bridge.git
+Tether USDt,1.0,BUSD,https://github.com/tethercoin/BUSD.git
+Tether USDt,1.0,PAXGOLD,https://github.com/tethercoin/PAXGOLD.git
+Tether USDt,0.11161232998427996,augur_foundry,https://github.com/tethercoin/augur_foundry.git
+Tether USDt,0.42066872276888434,defi-Vault,https://github.com/tethercoin/defi-Vault.git
+Tether USDt,0.1349141455437449,wrappedEth,https://github.com/tethercoin/wrappedEth.git
+Tether USDt,0.49238148984198643,wusd-contracts,https://github.com/tethercoin/wusd-contracts.git
+Tether USDt,0.9976063117325291,dss-dai-stablecoin-system,https://github.com/tethercoin/dss-dai-stablecoin-system.git
+Tether USDt,0.001955762999796561,Acala,https://github.com/tethercoin/Acala.git
+Tether USDt,0.032568089747150045,gateway,https://github.com/tethercoin/gateway.git
+Tether USDt,0.6385788277468502,USM,https://github.com/tethercoin/USM.git
+Tether USDt,0.24734061905998625,alpaca-stablecoin,https://github.com/tethercoin/alpaca-stablecoin.git
+Tether USDt,1.0,dss-interfaces,https://github.com/tethercoin/dss-interfaces.git
+Tether USDt,1.0,gemini-dollar,https://github.com/tethercoin/gemini-dollar.git
+Tether USDt,0.978798916596619,foundry-defi-stablecoin-f23,https://github.com/tethercoin/foundry-defi-stablecoin-f23.git
+Osmosis,0.05026497497270825,wormhole,https://github.com/osmosis-labs/wormhole.git
+Osmosis,0.02560155397603002,cosmos-gravity-bridge,https://github.com/osmosis-labs/cosmos-gravity-bridge.git
+Osmosis,0.0008973282932121134,DefiLlama-Adapters,https://github.com/osmosis-labs/DefiLlama-Adapters.git
+Ethereum Name Service,0.20949154250160584,ens,https://github.com/ensdomains/ens.git
+Ethereum Name Service,0.5501775927523141,dnssec-oracle,https://github.com/ensdomains/dnssec-oracle.git
+Ethereum Name Service,0.7644558918222795,solsha1,https://github.com/ensdomains/solsha1.git
+Ethereum Name Service,0.10833676108674889,subdomain-registrar,https://github.com/ensdomains/subdomain-registrar.git
+Ethereum Name Service,0.5108993864418616,dnsregistrar,https://github.com/ensdomains/dnsregistrar.git
+Ethereum Name Service,0.7106583072100313,blacklist,https://github.com/ensdomains/blacklist.git
+Ethereum Name Service,0.9550173010380623,court,https://github.com/ensdomains/court.git
+Ethereum Name Service,0.9689514396218307,punycode,https://github.com/ensdomains/punycode.git
+Ethereum Name Service,0.8937949948577305,buffer,https://github.com/ensdomains/buffer.git
+Ethereum Name Service,0.5058131468686701,ethregistrar,https://github.com/ensdomains/ethregistrar.git
+Ethereum Name Service,0.1807036374478235,CurveArithmetics,https://github.com/ensdomains/CurveArithmetics.git
+Ethereum Name Service,0.44746911555701324,resolvers,https://github.com/ensdomains/resolvers.git
+Ethereum Name Service,0.421624980581016,root,https://github.com/ensdomains/root.git
+Ethereum Name Service,0.8414271555996036,optimistic-dnssec,https://github.com/ensdomains/optimistic-dnssec.git
+Ethereum Name Service,0.3597537758598807,auction,https://github.com/ensdomains/auction.git
+Ethereum Name Service,0.9527238572323106,hackathon-registrar,https://github.com/ensdomains/hackathon-registrar.git
+Ethereum Name Service,0.12144029597978166,l2gateway-demo,https://github.com/ensdomains/l2gateway-demo.git
+Ethereum Name Service,0.9986993230641483,ens-archived-contracts,https://github.com/ensdomains/ens-archived-contracts.git
+Ethereum Name Service,0.24240231548480462,name-wrapper,https://github.com/ensdomains/name-wrapper.git
+Ethereum Name Service,0.03156725087125612,dnssecoraclejs,https://github.com/ensdomains/dnssecoraclejs.git
+Ethereum Name Service,0.427447872210706,reverse-records,https://github.com/ensdomains/reverse-records.git
+Ethereum Name Service,0.15088558403706748,tldclaims,https://github.com/ensdomains/tldclaims.git
+Ethereum Name Service,0.3302971268119728,ens-contracts,https://github.com/ensdomains/ens-contracts.git
+Ethereum Name Service,0.0008244415673318749,graph-node,https://github.com/ensdomains/graph-node.git
+Ethereum Name Service,0.3549856058623397,governance-contracts,https://github.com/ensdomains/governance-contracts.git
+Ethereum Name Service,0.06907806890003264,offchain-resolver,https://github.com/ensdomains/offchain-resolver.git
+Ethereum Name Service,0.20380190674896403,op-resolver,https://github.com/ensdomains/op-resolver.git
+Ethereum Name Service,0.11246666758776959,arbitrum-resolver,https://github.com/ensdomains/arbitrum-resolver.git
+Ethereum Name Service,0.20815673110150426,arb-resolver,https://github.com/ensdomains/arb-resolver.git
+Ethereum Name Service,0.1197978175634182,ccip-tools,https://github.com/ensdomains/ccip-tools.git
+Ethereum Name Service,0.03822960518830356,gas-estimate-worker,https://github.com/ensdomains/gas-estimate-worker.git
+Ethereum Name Service,0.42777349768875195,context-resolver,https://github.com/ensdomains/context-resolver.git
+Ethereum Name Service,0.27730588272443085,evmgateway,https://github.com/ensdomains/evmgateway.git
+Kava,0.00046571001803598556,kava,https://github.com/Kava-Labs/kava.git
+Kava,0.9993757759451792,dss,https://github.com/Kava-Labs/dss.git
+Kava,0.0017768101692534589,kvtool,https://github.com/Kava-Labs/kvtool.git
+Kava,0.06419688128715513,kava-bridge,https://github.com/Kava-Labs/kava-bridge.git
+Kava,0.03145260566270004,blockscout,https://github.com/Kava-Labs/blockscout.git
+Kava,0.10746453590888151,ethermint,https://github.com/Kava-Labs/ethermint.git
+Kava,0.0773405698778833,hardhat-boilerplate,https://github.com/Kava-Labs/hardhat-boilerplate.git
+Kava,0.01936687437495192,kava-blockscout-build,https://github.com/Kava-Labs/kava-blockscout-build.git
+Kava,0.0007601229098407476,go-ethereum,https://github.com/Kava-Labs/go-ethereum.git
+Toncoin,0.5033899797481729,bridge-solidity,https://github.com/ton-blockchain/bridge-solidity.git
+Toncoin,0.3508744138892409,token-bridge-solidity,https://github.com/ton-blockchain/token-bridge-solidity.git
+Toncoin,0.2503319761552543,ton-trustless-bridge-evm-contracts,https://github.com/ton-blockchain/ton-trustless-bridge-evm-contracts.git
+Curve DAO Token,0.0035754714628349876,curve-contract,https://github.com/curvefi/curve-contract.git
+Curve DAO Token,0.017469214793970237,curve-dao-contracts,https://github.com/curvefi/curve-dao-contracts.git
+Curve DAO Token,0.8142962531547272,curve-aragon-voting,https://github.com/curvefi/curve-aragon-voting.git
+Curve DAO Token,0.4585433645828426,curve-ren-adapter,https://github.com/curvefi/curve-ren-adapter.git
+Curve DAO Token,0.8408341187558906,unipool-fork,https://github.com/curvefi/unipool-fork.git
+Curve DAO Token,0.288893199578784,multi-rewards,https://github.com/curvefi/multi-rewards.git
+Curve DAO Token,0.005309892304400542,curve-factory,https://github.com/curvefi/curve-factory.git
+Curve DAO Token,0.1287592178999726,brownie-tutorial,https://github.com/curvefi/brownie-tutorial.git
+Curve DAO Token,0.06319074907900123,curve-xchain-factory,https://github.com/curvefi/curve-xchain-factory.git
+Curve DAO Token,0.6392860816788396,curve-merkle-oracle,https://github.com/curvefi/curve-merkle-oracle.git
+Curve DAO Token,0.0016419270857022262,tricrypto-ng,https://github.com/curvefi/tricrypto-ng.git
+Curve DAO Token,0.3037704880662001,curve-xdao,https://github.com/curvefi/curve-xdao.git
+Maker,0.8508117710747755,sai,https://github.com/makerdao/sai.git
+Maker,0.9900762561370521,medianizer,https://github.com/makerdao/medianizer.git
+Maker,0.0028576413033596327,pymaker,https://github.com/makerdao/pymaker.git
+Maker,0.9613168724279836,price-feed,https://github.com/makerdao/price-feed.git
+Maker,0.8242558908639934,median,https://github.com/makerdao/median.git
+Maker,0.8996030819519029,proxy-registry,https://github.com/makerdao/proxy-registry.git
+Maker,0.9649619800208737,osm,https://github.com/makerdao/osm.git
+Maker,0.9752147097815436,vote-proxy,https://github.com/makerdao/vote-proxy.git
+Maker,0.9976063117325291,dss,https://github.com/makerdao/dss.git
+Maker,0.991932059447983,dss-deploy,https://github.com/makerdao/dss-deploy.git
+Maker,0.9644830307813733,symbolic-voting,https://github.com/makerdao/symbolic-voting.git
+Maker,0.9903232448013177,multicall,https://github.com/makerdao/multicall.git
+Maker,0.9963959179028036,mcd-cdp-handler,https://github.com/makerdao/mcd-cdp-handler.git
+Maker,0.9951474936240323,dss-proxy-actions,https://github.com/makerdao/dss-proxy-actions.git
+Maker,0.997007511147021,scd-mcd-migration,https://github.com/makerdao/scd-mcd-migration.git
+Maker,0.9874511177260258,dss-cdp-manager,https://github.com/makerdao/dss-cdp-manager.git
+Maker,0.014425638179800223,developerguides,https://github.com/makerdao/developerguides.git
+Maker,0.996935088398503,nft-adapter,https://github.com/makerdao/nft-adapter.git
+Maker,0.9675470160907054,token-faucet,https://github.com/makerdao/token-faucet.git
+Maker,0.9572139303482587,testchain-medians,https://github.com/makerdao/testchain-medians.git
+Maker,0.9521690767519466,dss-deploy-pause-proxy-actions,https://github.com/makerdao/dss-deploy-pause-proxy-actions.git
+Maker,0.9721180757247716,esm,https://github.com/makerdao/esm.git
+Maker,0.9809104258443465,mkr-mom,https://github.com/makerdao/mkr-mom.git
+Maker,0.9622187875665464,mkr-authority,https://github.com/makerdao/mkr-authority.git
+Maker,0.22885705359932165,mkr-mcd-spec,https://github.com/makerdao/mkr-mcd-spec.git
+Maker,0.9970419728484244,savings-dai,https://github.com/makerdao/savings-dai.git
+Maker,0.9972245513651258,spells-mainnet,https://github.com/makerdao/spells-mainnet.git
+Maker,0.92614123346376,megapoker,https://github.com/makerdao/megapoker.git
+Maker,0.0011510607260275497,go-ethereum,https://github.com/makerdao/go-ethereum.git
+Maker,1.0,dss-interfaces,https://github.com/makerdao/dss-interfaces.git
+Maker,0.9373675847457628,osm-mom,https://github.com/makerdao/osm-mom.git
+Maker,0.9963713838676387,keg,https://github.com/makerdao/keg.git
+Maker,0.95915265507742,dsr-manager,https://github.com/makerdao/dsr-manager.git
+Maker,0.6916025350837482,dss-darkspell,https://github.com/makerdao/dss-darkspell.git
+Maker,0.9977548173336821,mkr-mcd-spec-sol-tests,https://github.com/makerdao/mkr-mcd-spec-sol-tests.git
+Maker,0.9972555336793747,dss-gov,https://github.com/makerdao/dss-gov.git
+Maker,0.9498585906198445,dss-auto-line,https://github.com/makerdao/dss-auto-line.git
+Maker,0.9611246722719465,flipper-mom,https://github.com/makerdao/flipper-mom.git
+Maker,0.9009092310063184,sai-cagefree,https://github.com/makerdao/sai-cagefree.git
+Maker,0.9807889024724932,dss-exigency,https://github.com/makerdao/dss-exigency.git
+Maker,0.7909067038316265,ilk-registry,https://github.com/makerdao/ilk-registry.git
+Maker,0.9905545060562285,ds-proxy,https://github.com/makerdao/ds-proxy.git
+Maker,0.9528198190580874,spells,https://github.com/makerdao/spells.git
+Maker,0.9917877286540303,spells-kovan,https://github.com/makerdao/spells-kovan.git
+Maker,0.9773092498553706,ds-pause,https://github.com/makerdao/ds-pause.git
+Maker,0.9975733972438586,ds-chief,https://github.com/makerdao/ds-chief.git
+Maker,0.851676698194325,drizzle,https://github.com/makerdao/drizzle.git
+Maker,0.8457987072945522,dss-cat-overflow,https://github.com/makerdao/dss-cat-overflow.git
+Maker,0.976005005474738,dss-flash,https://github.com/makerdao/dss-flash.git
+Maker,0.8523381149201719,dss-chain-log,https://github.com/makerdao/dss-chain-log.git
+Maker,0.9388598735542257,exchange-callees,https://github.com/makerdao/exchange-callees.git
+Maker,0.964616003216727,fib,https://github.com/makerdao/fib.git
+Maker,0.9799157099258828,univ2-lp-oracle,https://github.com/makerdao/univ2-lp-oracle.git
+Maker,0.9950797849933443,dss-exec-lib,https://github.com/makerdao/dss-exec-lib.git
+Maker,0.99697732289221,dss-gem-joins,https://github.com/makerdao/dss-gem-joins.git
+Maker,0.9999015573279143,deployed-collateral-contracts,https://github.com/makerdao/deployed-collateral-contracts.git
+Maker,0.9846012832263978,dss-lerp,https://github.com/makerdao/dss-lerp.git
+Maker,0.5938679075784253,dss-vest,https://github.com/makerdao/dss-vest.git
+Maker,0.9639735264735265,clipper-mom,https://github.com/makerdao/clipper-mom.git
+Maker,0.17337902530981364,optimism-dai-bridge,https://github.com/makerdao/optimism-dai-bridge.git
+Maker,0.9554176033905443,MIP21-RWA-Example,https://github.com/makerdao/MIP21-RWA-Example.git
+Maker,0.8746490774339515,dss-direct-deposit,https://github.com/makerdao/dss-direct-deposit.git
+Maker,0.9730451027488658,mips-best-practices,https://github.com/makerdao/mips-best-practices.git
+Maker,0.9587632399821753,vote-delegate,https://github.com/makerdao/vote-delegate.git
+Maker,0.9972182889125353,dss-crop-join,https://github.com/makerdao/dss-crop-join.git
+Maker,0.2362924077411267,arbitrum-dai-bridge,https://github.com/makerdao/arbitrum-dai-bridge.git
+Maker,0.8796915810941357,ds-weth,https://github.com/makerdao/ds-weth.git
+Maker,0.9810088084885895,univ3-lp-oracle,https://github.com/makerdao/univ3-lp-oracle.git
+Maker,0.9916280570054542,dss-charter,https://github.com/makerdao/dss-charter.git
+Maker,0.9890360332614722,proxy-manager-clipper,https://github.com/makerdao/proxy-manager-clipper.git
+Maker,0.9962036676238677,spells-goerli,https://github.com/makerdao/spells-goerli.git
+Maker,0.956770672433323,dss-psm,https://github.com/makerdao/dss-psm.git
+Maker,0.09296130551371028,starknet-dai-bridge,https://github.com/makerdao/starknet-dai-bridge.git
+Maker,0.9599721545422902,JoinFab,https://github.com/makerdao/JoinFab.git
+Maker,0.9819023203267576,curve-lp-oracle,https://github.com/makerdao/curve-lp-oracle.git
+Maker,0.019184788796538767,dss-simulation-scripts,https://github.com/makerdao/dss-simulation-scripts.git
+Maker,0.7392655063002759,dss-teleport,https://github.com/makerdao/dss-teleport.git
+Maker,0.9934690506416237,dss-cron,https://github.com/makerdao/dss-cron.git
+Maker,0.9786315071607183,dss-proxy-actions-steth,https://github.com/makerdao/dss-proxy-actions-steth.git
+Maker,0.24087844693468016,wormhole-integration-tests,https://github.com/makerdao/wormhole-integration-tests.git
+Maker,0.9914535771625484,dss-test,https://github.com/makerdao/dss-test.git
+Maker,0.9715328853378485,dss-proxy,https://github.com/makerdao/dss-proxy.git
+Maker,0.911997307757025,dss-cdp-registry,https://github.com/makerdao/dss-cdp-registry.git
+Maker,0.8873131023429427,dss-kiln,https://github.com/makerdao/dss-kiln.git
+Maker,0.9793753821551197,dss-gate,https://github.com/makerdao/dss-gate.git
+Maker,0.8138031693077564,flash-killer,https://github.com/makerdao/flash-killer.git
+Maker,0.21225472219060745,xdomain,https://github.com/makerdao/xdomain.git
+Maker,0.5311135821772467,xdomain-dss,https://github.com/makerdao/xdomain-dss.git
+Maker,0.971550134340832,rwa-toolkit,https://github.com/makerdao/rwa-toolkit.git
+Maker,0.010473011854068362,dss-onboard-ilk-helper,https://github.com/makerdao/dss-onboard-ilk-helper.git
+Maker,0.9929816784869976,dss-gem-joins-integration-tests,https://github.com/makerdao/dss-gem-joins-integration-tests.git
+Maker,0.9976719428163643,sdai,https://github.com/makerdao/sdai.git
+Maker,0.974021492655033,protego,https://github.com/makerdao/protego.git
+Maker,0.13258653285509833,starknet-dss-bridge-tests,https://github.com/makerdao/starknet-dss-bridge-tests.git
+Maker,0.9824059629051829,line-mom,https://github.com/makerdao/line-mom.git
+Maker,0.9691300867873005,endgame-toolkit,https://github.com/makerdao/endgame-toolkit.git
+Maker,1.0,dss-flappers,https://github.com/makerdao/dss-flappers.git
+Maker,0.9979205213433104,token-tests,https://github.com/makerdao/token-tests.git
+Maker,0.6539055529296386,dss-allocator,https://github.com/makerdao/dss-allocator.git
+Maker,0.7450356796220219,dss-conduits,https://github.com/makerdao/dss-conduits.git
+USDC,0.20947189468143676,stablecoin-evm,https://github.com/circlefin/stablecoin-evm.git
+USDC,0.041422047304766334,verite,https://github.com/circlefin/verite.git
+USDC,0.09201051548748429,verite-minter-allowlist,https://github.com/circlefin/verite-minter-allowlist.git
+USDC,0.313613423066985,perimeter-protocol,https://github.com/circlefin/perimeter-protocol.git
+USDC,0.921293214905939,evm-cctp-contracts,https://github.com/circlefin/evm-cctp-contracts.git
+USDC,1.0,recoverable-wrapper,https://github.com/circlefin/recoverable-wrapper.git
+Fantom,0.0021244630201908746,go-lachesis,https://github.com/Fantom-foundation/go-lachesis.git
+Fantom,0.0014842514608373431,go-ethereum,https://github.com/Fantom-foundation/go-ethereum.git
+Fantom,0.31769013445147265,fantom-sfc,https://github.com/Fantom-foundation/fantom-sfc.git
+Fantom,0.9372266763848397,data-hashing-authentication,https://github.com/Fantom-foundation/data-hashing-authentication.git
+Fantom,0.48286733934118975,fantom-govern,https://github.com/Fantom-foundation/fantom-govern.git
+Fantom,0.784702106004854,Fantom-Oracle-Pricefeed,https://github.com/Fantom-foundation/Fantom-Oracle-Pricefeed.git
+Fantom,0.5557643040136635,Fantom-Fusd,https://github.com/Fantom-foundation/Fantom-Fusd.git
+Fantom,0.9841037266393896,Fantom-DeFi,https://github.com/Fantom-foundation/Fantom-DeFi.git
+Fantom,0.4587487897922107,Fantom-FMint,https://github.com/Fantom-foundation/Fantom-FMint.git
+Fantom,0.0032175159220874544,go-opera,https://github.com/Fantom-foundation/go-opera.git
+Fantom,0.9812120303007575,Fantom-FLend,https://github.com/Fantom-foundation/Fantom-FLend.git
+Fantom,0.9529312288613303,Fantom-wFTM,https://github.com/Fantom-foundation/Fantom-wFTM.git
+Fantom,0.6504705823598582,Fantom-Uniswap,https://github.com/Fantom-foundation/Fantom-Uniswap.git
+Fantom,0.03313912494897391,lachesis-dag-tool,https://github.com/Fantom-foundation/lachesis-dag-tool.git
+Fantom,0.958065453137103,keep3r.network,https://github.com/Fantom-foundation/keep3r.network.git
+Fantom,0.543610892224356,opera-sfc,https://github.com/Fantom-foundation/opera-sfc.git
+Fantom,1.0,Fantom-Contract-Validation,https://github.com/Fantom-foundation/Fantom-Contract-Validation.git
+Fantom,1.0,Fantom-CrossChain-Bridge,https://github.com/Fantom-foundation/Fantom-CrossChain-Bridge.git
+Fantom,0.46068362134550594,crypto-fantom-game,https://github.com/Fantom-foundation/crypto-fantom-game.git
+Fantom,0.4206322159223106,Fantom-FLend-AAVE-v2,https://github.com/Fantom-foundation/Fantom-FLend-AAVE-v2.git
+Fantom,0.4020238009625617,Fantom-Statheros,https://github.com/Fantom-foundation/Fantom-Statheros.git
+Fantom,0.0011860450771003174,graph-node,https://github.com/Fantom-foundation/graph-node.git
+Fantom,0.0010822189847115385,gnosis_front,https://github.com/Fantom-foundation/gnosis_front.git
+Fantom,0.594444836094466,Artion-Contracts,https://github.com/Fantom-foundation/Artion-Contracts.git
+Fantom,0.5462873479280931,fns-contracts,https://github.com/Fantom-foundation/fns-contracts.git
+Fantom,0.9881797710154181,FtmStableCoin,https://github.com/Fantom-foundation/FtmStableCoin.git
+Fantom,0.5012639606354466,FNS-SCs,https://github.com/Fantom-foundation/FNS-SCs.git
+Fantom,0.010768339076203611,fantom-web3j-sdk,https://github.com/Fantom-foundation/fantom-web3j-sdk.git
+Fantom,0.2203626220362622,example-deployment,https://github.com/Fantom-foundation/example-deployment.git
+Fantom,0.003161308910828952,go-opera-substate,https://github.com/Fantom-foundation/go-opera-substate.git
+Fantom,0.0012128330220173404,go-ethereum-substate,https://github.com/Fantom-foundation/go-ethereum-substate.git
+Fantom,0.05949851253718657,Ledger-Hardhat-Deployment,https://github.com/Fantom-foundation/Ledger-Hardhat-Deployment.git
+Fantom,0.10375,unittestexample-hardhat,https://github.com/Fantom-foundation/unittestexample-hardhat.git
+Fantom,0.07966260543580131,unittestexample-truffle,https://github.com/Fantom-foundation/unittestexample-truffle.git
+Fantom,0.17245061398825415,transparentproxy-hardhat,https://github.com/Fantom-foundation/transparentproxy-hardhat.git
+Fantom,0.1745945945945946,transparentproxy-truffle,https://github.com/Fantom-foundation/transparentproxy-truffle.git
+Fantom,0.23104593248478142,transparentproxy2-hardhat,https://github.com/Fantom-foundation/transparentproxy2-hardhat.git
+Fantom,0.6351752103128971,qewa,https://github.com/Fantom-foundation/qewa.git
+Fantom,0.32541845075905024,transparentproxy2-truffle,https://github.com/Fantom-foundation/transparentproxy2-truffle.git
+Fantom,0.4777439867293337,diamondproxy-hardhat,https://github.com/Fantom-foundation/diamondproxy-hardhat.git
+Fantom,0.4307848615697231,diamondproxy-truffle,https://github.com/Fantom-foundation/diamondproxy-truffle.git
+Fantom,0.0033802940586109996,go-lachesis-substate,https://github.com/Fantom-foundation/go-lachesis-substate.git
+Fetch.ai,0.0013689363885350206,agents-aea,https://github.com/fetchai/agents-aea.git
+Fetch.ai,0.2639807405552457,staking-contract,https://github.com/fetchai/staking-contract.git
+Fetch.ai,0.8444619220834935,ledger-staking-contract,https://github.com/fetchai/ledger-staking-contract.git
+Fetch.ai,0.6002339389974326,mettalex-market-maker,https://github.com/fetchai/mettalex-market-maker.git
+Fetch.ai,0.24086529721868752,fetch-ethereum-bridge-v1,https://github.com/fetchai/fetch-ethereum-bridge-v1.git
+Fetch.ai,0.2631147808669526,safe-contracts,https://github.com/fetchai/safe-contracts.git
+Fetch.ai,0.25446171560161196,mobix-token,https://github.com/fetchai/mobix-token.git
+Chiliz,0.0011155973230036853,v2,https://github.com/chiliz-chain/v2.git
+Chiliz,0.47737046600863964,v2-genesis-config,https://github.com/chiliz-chain/v2-genesis-config.git
+PancakeSwap,0.6543607915040018,pancake-farm,https://github.com/pancakeswap/pancake-farm.git
+PancakeSwap,0.47250224364994886,pancake-swap-core,https://github.com/pancakeswap/pancake-swap-core.git
+PancakeSwap,0.6269536196484751,pancake-swap-periphery,https://github.com/pancakeswap/pancake-swap-periphery.git
+PancakeSwap,0.820855614973262,pancake-swap-lib,https://github.com/pancakeswap/pancake-swap-lib.git
+PancakeSwap,0.309530800758549,lottery-contract,https://github.com/pancakeswap/lottery-contract.git
+PancakeSwap,0.46697326116153187,initial-farm-offering,https://github.com/pancakeswap/initial-farm-offering.git
+PancakeSwap,0.472206233210305,pancake-smart-contracts,https://github.com/pancakeswap/pancake-smart-contracts.git
+PancakeSwap,0.4642027947749859,pancake-v3-contracts,https://github.com/pancakeswap/pancake-v3-contracts.git
+PancakeSwap,0.9682243970498692,permit2,https://github.com/pancakeswap/permit2.git
+WOO,1.0,woo_token,https://github.com/woonetwork/woo_token.git
+WOO,0.5725289663895283,woofi_swap_smart_contracts,https://github.com/woonetwork/woofi_swap_smart_contracts.git
+WOO,0.0008635821928441697,DefiLlama-Adapters,https://github.com/woonetwork/DefiLlama-Adapters.git
+WOO,0.554839663591704,WooPoolV2,https://github.com/woonetwork/WooPoolV2.git
+WOO,0.44448051788340737,WooStakingV2,https://github.com/woonetwork/WooStakingV2.git
+Flow,0.01462148127903799,flow-evm-bridge,https://github.com/onflow/flow-evm-bridge.git
+Flow,0.0007630663752106148,go-ethereum,https://github.com/onflow/go-ethereum.git
+Shiba Inu,0.0011044762704236317,bor,https://github.com/shibaswaparmy/bor.git
+Shiba Inu,0.3443448998119911,contracts,https://github.com/shibaswaparmy/contracts.git
+Shiba Inu,0.3010355029585799,genesis-contracts,https://github.com/shibaswaparmy/genesis-contracts.git
+Shiba Inu,0.7830488388460126,pos-portal,https://github.com/shibaswaparmy/pos-portal.git
+Shiba Inu,0.0023704208302456494,chainhammer,https://github.com/shibaswaparmy/chainhammer.git
+Shiba Inu,0.7255289805102892,fx-portal,https://github.com/shibaswaparmy/fx-portal.git
+The Graph,0.00039970087881076945,graph-node,https://github.com/graphprotocol/graph-node.git
+The Graph,0.3460905992728544,aragon-apps,https://github.com/graphprotocol/aragon-apps.git
+The Graph,0.0019464217275784706,ethabi,https://github.com/graphprotocol/ethabi.git
+The Graph,0.398957785297283,contracts,https://github.com/graphprotocol/contracts.git
+The Graph,0.5443761914848549,example-subgraph,https://github.com/graphprotocol/example-subgraph.git
+The Graph,0.17478253738487975,everest,https://github.com/graphprotocol/everest.git
+The Graph,0.39121378182809047,token-distribution,https://github.com/graphprotocol/token-distribution.git
+The Graph,0.004332226773808753,block-oracle,https://github.com/graphprotocol/block-oracle.git
+The Graph,0.2831509846827133,hardhat-graph-demo,https://github.com/graphprotocol/hardhat-graph-demo.git
+The Graph,0.16462750624559605,example-subgraphs,https://github.com/graphprotocol/example-subgraphs.git
+The Graph,0.0021982993929191186,erigon,https://github.com/graphprotocol/erigon.git
+Cronos,0.18361126053433746,cronos-smart-contract-example,https://github.com/crypto-org-chain/cronos-smart-contract-example.git
+Cronos,0.06640279234255414,ethermint,https://github.com/crypto-org-chain/ethermint.git
+Cronos,0.06477343648480495,cronos-blockscout,https://github.com/crypto-org-chain/cronos-blockscout.git
+Cronos,0.05806218460319326,cronos,https://github.com/crypto-org-chain/cronos.git
+Cronos,0.018367630036771644,gravity-bridge,https://github.com/crypto-org-chain/gravity-bridge.git
+Cronos,0.0011868976056581553,go-ethereum,https://github.com/crypto-org-chain/go-ethereum.git
+Cronos,0.037736896140292464,cronos-moralis-hackathon,https://github.com/crypto-org-chain/cronos-moralis-hackathon.git
+Oasis Network,0.008755857806679215,oasis-sdk,https://github.com/oasisprotocol/oasis-sdk.git
+Oasis Network,0.010243898711640699,web3-tests,https://github.com/oasisprotocol/web3-tests.git
+Oasis Network,0.044246688964256896,emerald-blockscout,https://github.com/oasisprotocol/emerald-blockscout.git
+Oasis Network,1.0,emerald-contracts,https://github.com/oasisprotocol/emerald-contracts.git
+Oasis Network,0.00997268475923975,nexus,https://github.com/oasisprotocol/nexus.git
+Oasis Network,0.29520852532876934,sapphire-paratime,https://github.com/oasisprotocol/sapphire-paratime.git
+Oasis Network,0.14764672396062875,opengsn,https://github.com/oasisprotocol/opengsn.git
+Oasis Network,0.2974742568486497,demo-voting,https://github.com/oasisprotocol/demo-voting.git
+Oasis Network,0.3736400580390151,demo-authzn,https://github.com/oasisprotocol/demo-authzn.git
+Oasis Network,0.00844124700239808,demo-starter,https://github.com/oasisprotocol/demo-starter.git
+Oasis Network,0.07969726304673062,demo-oasisswag,https://github.com/oasisprotocol/demo-oasisswag.git
+Oasis Network,0.24176397677604541,demo-oasisriddle,https://github.com/oasisprotocol/demo-oasisriddle.git
+Oasis Network,0.09728281668580176,demo-opl-secret-ballot,https://github.com/oasisprotocol/demo-opl-secret-ballot.git
+Oasis Network,0.2956532446743012,demo-e2eproxy,https://github.com/oasisprotocol/demo-e2eproxy.git
+Frax Share,0.5362585267035365,frax-solidity,https://github.com/FraxFinance/frax-solidity.git
+Frax Share,0.4875354681799757,frax-oracle-old,https://github.com/FraxFinance/frax-oracle-old.git
+Frax Share,1.0,chaindata,https://github.com/FraxFinance/chaindata.git
+Frax Share,0.28855327698645206,protocol-v2,https://github.com/FraxFinance/protocol-v2.git
+Frax Share,1.0,avalanche-bridge-resources,https://github.com/FraxFinance/avalanche-bridge-resources.git
+Frax Share,0.19270216613941762,aave-asset-listing,https://github.com/FraxFinance/aave-asset-listing.git
+Frax Share,0.44612874877524017,compound-protocol,https://github.com/FraxFinance/compound-protocol.git
+Frax Share,0.24135397141633363,merkle-airdrop-starter,https://github.com/FraxFinance/merkle-airdrop-starter.git
+Frax Share,0.7697385540353616,fraxlend,https://github.com/FraxFinance/fraxlend.git
+Frax Share,0.9769777202283665,fraxlend-audit,https://github.com/FraxFinance/fraxlend-audit.git
+Frax Share,0.9786220454894349,frxETH-public,https://github.com/FraxFinance/frxETH-public.git
+Frax Share,0.23090556957567931,frax-vefpis,https://github.com/FraxFinance/frax-vefpis.git
+Frax Share,0.7466890093429744,Foundry-Vyper,https://github.com/FraxFinance/Foundry-Vyper.git
+Frax Share,0.9877743601994804,ERC4626,https://github.com/FraxFinance/ERC4626.git
+Frax Share,1.0,YieldSpaceAMO,https://github.com/FraxFinance/YieldSpaceAMO.git
+Frax Share,0.7135415359124344,frax-standard-solidity,https://github.com/FraxFinance/frax-standard-solidity.git
+Frax Share,0.9389592514777663,frax-governance,https://github.com/FraxFinance/frax-governance.git
+Frax Share,0.7012857570018938,frax-template,https://github.com/FraxFinance/frax-template.git
+Frax Share,1.0,uni-v3-manipulation-simulator,https://github.com/FraxFinance/uni-v3-manipulation-simulator.git
+Frax Share,0.9118215996904977,staked-frax-erc4626,https://github.com/FraxFinance/staked-frax-erc4626.git
+Frax Share,0.9253213346616799,frax-bonds,https://github.com/FraxFinance/frax-bonds.git
+Frax Share,1.0,frax-ether-redemption-queue,https://github.com/FraxFinance/frax-ether-redemption-queue.git
+Frax Share,0.952153314355429,frax-oracles,https://github.com/FraxFinance/frax-oracles.git
+Mantle,0.06749456450833989,mantle,https://github.com/mantlenetworkio/mantle.git
+Mantle,0.2975972631076458,mantle-erc20-bridge,https://github.com/mantlenetworkio/mantle-erc20-bridge.git
+Mantle,0.3458844897745333,mantle-tutorial,https://github.com/mantlenetworkio/mantle-tutorial.git
+Mantle,0.049060110663823375,blockscout,https://github.com/mantlenetworkio/blockscout.git
+Mantle,0.18447633595160326,specular,https://github.com/mantlenetworkio/specular.git
+Mantle,0.0021958667295368145,erigon,https://github.com/mantlenetworkio/erigon.git
+Mantle,0.35928650868830997,blockscout-rs,https://github.com/mantlenetworkio/blockscout-rs.git
+Mantle,0.986716536147717,mantle-token-contracts,https://github.com/mantlenetworkio/mantle-token-contracts.git
+Mantle,0.551126878130217,mantle-example-subgraph,https://github.com/mantlenetworkio/mantle-example-subgraph.git
+Mantle,0.08693686001189042,mantle-v2,https://github.com/mantlenetworkio/mantle-v2.git
+Mantle,0.0011378447951756747,op-geth,https://github.com/mantlenetworkio/op-geth.git
+Mantle,0.17130651182082124,governance-crosschain-bridges,https://github.com/mantlenetworkio/governance-crosschain-bridges.git
+Mantle,0.15704094595915177,lido-l2,https://github.com/mantlenetworkio/lido-l2.git
+Rocket Pool,0.4849107401258168,rocketpool,https://github.com/rocket-pool/rocketpool.git
+Rocket Pool,0.25637307638336687,rocketpool-beta-claim,https://github.com/rocket-pool/rocketpool-beta-claim.git
+Rocket Pool,0.04154025850277406,eth2.0-specs,https://github.com/rocket-pool/eth2.0-specs.git
+Rocket Pool,0.00026860091823940375,nethermind,https://github.com/rocket-pool/nethermind.git
+Rocket Pool,1.0,rocketpool-ovm-oracle,https://github.com/rocket-pool/rocketpool-ovm-oracle.git
+Rocket Pool,0.9081612593471899,rocketpool-router,https://github.com/rocket-pool/rocketpool-router.git
+Rocket Pool,0.6944108674379784,rocketpool-arbitrum-oracle,https://github.com/rocket-pool/rocketpool-arbitrum-oracle.git
+Rocket Pool,0.7901006214856466,rocketpool-polygon-oracle,https://github.com/rocket-pool/rocketpool-polygon-oracle.git
+Rocket Pool,0.5229697688203913,rocketpool-zksync-oracle,https://github.com/rocket-pool/rocketpool-zksync-oracle.git
+Rocket Pool,0.15732168092515036,compound-comet,https://github.com/rocket-pool/compound-comet.git
+Rocket Pool,1.0,rocketpool-scroll-oracle,https://github.com/rocket-pool/rocketpool-scroll-oracle.git
+Lido DAO,0.28537497606447193,lido-dao,https://github.com/lidofinance/lido-dao.git
+Lido DAO,0.10640109584983895,lido-retro-airdrop,https://github.com/lidofinance/lido-retro-airdrop.git
+Lido DAO,0.44154676258992803,staking-rewards-manager,https://github.com/lidofinance/staking-rewards-manager.git
+Lido DAO,0.641464458162704,maker-integration,https://github.com/lidofinance/maker-integration.git
+Lido DAO,0.8156737113894998,curve-merkle-oracle,https://github.com/lidofinance/curve-merkle-oracle.git
+Lido DAO,0.030291536821387566,scripts,https://github.com/lidofinance/scripts.git
+Lido DAO,0.052865245971162,anchor-collateral-steth,https://github.com/lidofinance/anchor-collateral-steth.git
+Lido DAO,0.11358899541475614,steth-price-feed,https://github.com/lidofinance/steth-price-feed.git
+Lido DAO,0.17316097905298228,aragon-apps,https://github.com/lidofinance/aragon-apps.git
+Lido DAO,0.9505225902207646,rayonism-mev-hackathon,https://github.com/lidofinance/rayonism-mev-hackathon.git
+Lido DAO,0.3984360337816703,withdrawals-manager-stub,https://github.com/lidofinance/withdrawals-manager-stub.git
+Lido DAO,0.2368793804381818,easy-track,https://github.com/lidofinance/easy-track.git
+Lido DAO,0.9916807832553332,protocol-mock,https://github.com/lidofinance/protocol-mock.git
+Lido DAO,0.8209636395734303,1inch-rewards-manager,https://github.com/lidofinance/1inch-rewards-manager.git
+Lido DAO,0.40014692429240706,staking-rewards-sushi,https://github.com/lidofinance/staking-rewards-sushi.git
+Lido DAO,0.7958853707403837,rewards-managers,https://github.com/lidofinance/rewards-managers.git
+Lido DAO,0.23572284345047922,wsteth-eth-price-feed,https://github.com/lidofinance/wsteth-eth-price-feed.git
+Lido DAO,0.2827616454377661,aave-protocol-v2,https://github.com/lidofinance/aave-protocol-v2.git
+Lido DAO,0.448868418591602,aave-asteth-incentives-controller,https://github.com/lidofinance/aave-asteth-incentives-controller.git
+Lido DAO,0.019326203956105403,contract-helpers,https://github.com/lidofinance/contract-helpers.git
+Lido DAO,0.9267154038698399,aave-asteth-deployment,https://github.com/lidofinance/aave-asteth-deployment.git
+Lido DAO,0.20953814617897637,aave-asset-listing,https://github.com/lidofinance/aave-asset-listing.git
+Lido DAO,0.5952067249583501,uni-v3-liquidity-provider,https://github.com/lidofinance/uni-v3-liquidity-provider.git
+Lido DAO,0.3495882793284141,cross-chain-token-relay,https://github.com/lidofinance/cross-chain-token-relay.git
+Lido DAO,0.3038423863825383,jumpgates,https://github.com/lidofinance/jumpgates.git
+Lido DAO,0.15809410336533058,lido-l2,https://github.com/lidofinance/lido-l2.git
+Lido DAO,0.9201639091902035,avalanche-contracts,https://github.com/lidofinance/avalanche-contracts.git
+Lido DAO,0.1749714048362249,governance-crosschain-bridges,https://github.com/lidofinance/governance-crosschain-bridges.git
+Lido DAO,0.41123440438958697,lido-otc-seller,https://github.com/lidofinance/lido-otc-seller.git
+Lido DAO,0.6588772299914528,insurance-fund,https://github.com/lidofinance/insurance-fund.git
+Lido DAO,0.4389062409087589,aave-v3-core,https://github.com/lidofinance/aave-v3-core.git
+Lido DAO,0.36895646950968924,polygon-contracts,https://github.com/lidofinance/polygon-contracts.git
+Lido DAO,0.374956907786868,stonks,https://github.com/lidofinance/stonks.git
+Lido DAO,0.994854069669964,dual-governance,https://github.com/lidofinance/dual-governance.git
+Lido DAO,0.4128392864139896,linea-contracts-fix,https://github.com/lidofinance/linea-contracts-fix.git
+Lido DAO,0.443246313130747,linea-contracts,https://github.com/lidofinance/linea-contracts.git
+Lido DAO,0.15076615770552682,comet,https://github.com/lidofinance/comet.git
+Chainlink,0.005369782224261349,chainlink-ruby,https://github.com/smartcontractkit/chainlink-ruby.git
+Chainlink,0.7517030003728866,LinkToken,https://github.com/smartcontractkit/LinkToken.git
+Chainlink,0.1816172088873611,chainlink,https://github.com/smartcontractkit/chainlink.git
+Chainlink,0.7535271483539975,solidity-cborutils,https://github.com/smartcontractkit/solidity-cborutils.git
+Chainlink,0.924458860956896,buffer,https://github.com/smartcontractkit/buffer.git
+Chainlink,0.4402432575356954,mixicles,https://github.com/smartcontractkit/mixicles.git
+Chainlink,0.15316088782047352,chainlink-polkadot,https://github.com/smartcontractkit/chainlink-polkadot.git
+Chainlink,0.17497926951861723,0x-monorepo,https://github.com/smartcontractkit/0x-monorepo.git
+Chainlink,0.476610252787419,truffle-starter-kit,https://github.com/smartcontractkit/truffle-starter-kit.git
+Chainlink,0.01968977053274943,MultiSigWallet,https://github.com/smartcontractkit/MultiSigWallet.git
+Chainlink,0.6281834222362744,chainlink-RSK,https://github.com/smartcontractkit/chainlink-RSK.git
+Chainlink,0.9302112155165329,link-token-sidechain-evm,https://github.com/smartcontractkit/link-token-sidechain-evm.git
+Chainlink,0.13924947095374463,libocr,https://github.com/smartcontractkit/libocr.git
+Chainlink,0.4415106951871658,ens-resolver,https://github.com/smartcontractkit/ens-resolver.git
+Chainlink,0.7709920030464585,chainlink-mix,https://github.com/smartcontractkit/chainlink-mix.git
+Chainlink,0.0007630652189481982,go-ethereum,https://github.com/smartcontractkit/go-ethereum.git
+Chainlink,0.44141847013147373,compound-protocol,https://github.com/smartcontractkit/compound-protocol.git
+Chainlink,0.42578424933161885,feed-registry,https://github.com/smartcontractkit/feed-registry.git
+Chainlink,0.19865249452178105,hardhat-starter-kit,https://github.com/smartcontractkit/hardhat-starter-kit.git
+Chainlink,0.0760796094110517,documentation,https://github.com/smartcontractkit/documentation.git
+Chainlink,0.8523300466864271,chainlink-brownie-contracts,https://github.com/smartcontractkit/chainlink-brownie-contracts.git
+Chainlink,0.3170279022987513,open-oracle,https://github.com/smartcontractkit/open-oracle.git
+Chainlink,0.4955886672811807,upkeep-contracts,https://github.com/smartcontractkit/upkeep-contracts.git
+Chainlink,0.5888174171202375,feed-registry-example,https://github.com/smartcontractkit/feed-registry-example.git
+Chainlink,0.4324090121317158,keeper,https://github.com/smartcontractkit/keeper.git
+Chainlink,0.1791324422436723,ccip-read,https://github.com/smartcontractkit/ccip-read.git
+Chainlink,0.21023830589100437,bitcoin-token-smart-contracts,https://github.com/smartcontractkit/bitcoin-token-smart-contracts.git
+Chainlink,0.20331389111758183,chainlink-fullstack,https://github.com/smartcontractkit/chainlink-fullstack.git
+Chainlink,0.28233319525521827,aave-protocol-v2,https://github.com/smartcontractkit/aave-protocol-v2.git
+Chainlink,0.23117218142093765,ethereum-datetime,https://github.com/smartcontractkit/ethereum-datetime.git
+Chainlink,0.9969169655826638,solidity-stringutils,https://github.com/smartcontractkit/solidity-stringutils.git
+Chainlink,0.4508907032048145,trusttoken-smart-contracts,https://github.com/smartcontractkit/trusttoken-smart-contracts.git
+Chainlink,0.6857605177993528,dapptools-starter-kit,https://github.com/smartcontractkit/dapptools-starter-kit.git
+Chainlink,0.1085509893097969,smart-contract-examples,https://github.com/smartcontractkit/smart-contract-examples.git
+Chainlink,0.8038516965806367,foundry-starter-kit-old,https://github.com/smartcontractkit/foundry-starter-kit-old.git
+Chainlink,0.46509997910783724,defi-minimal,https://github.com/smartcontractkit/defi-minimal.git
+Chainlink,0.6879507475813544,chainlink-automation-templates,https://github.com/smartcontractkit/chainlink-automation-templates.git
+Chainlink,0.02047759006014789,chainlink-starknet,https://github.com/smartcontractkit/chainlink-starknet.git
+Chainlink,0.4113698805642946,starkgate-contracts,https://github.com/smartcontractkit/starkgate-contracts.git
+Chainlink,0.9559150102810144,foundry-starter-kit,https://github.com/smartcontractkit/foundry-starter-kit.git
+Chainlink,0.3136031959561371,por-demo-contracts,https://github.com/smartcontractkit/por-demo-contracts.git
+Chainlink,0.8780235518777848,huff-starter-kit,https://github.com/smartcontractkit/huff-starter-kit.git
+Chainlink,0.36206334166912596,vrf-experiences,https://github.com/smartcontractkit/vrf-experiences.git
+Chainlink,1.0,chainlink-solhint-rules-example,https://github.com/smartcontractkit/chainlink-solhint-rules-example.git
+Chainlink,0.34225896988545856,chainlink-in-web2-fh22,https://github.com/smartcontractkit/chainlink-in-web2-fh22.git
+Chainlink,0.917022487902078,DEVREL-collaborative-nft-tutorial,https://github.com/smartcontractkit/DEVREL-collaborative-nft-tutorial.git
+Chainlink,0.3880884011300092,staking-v0.1,https://github.com/smartcontractkit/staking-v0.1.git
+Chainlink,0.10183683426295871,hardhat-chainlink,https://github.com/smartcontractkit/hardhat-chainlink.git
+Chainlink,0.1006010756089845,functions-hardhat-starter-kit,https://github.com/smartcontractkit/functions-hardhat-starter-kit.git
+Chainlink,0.9902894839603701,foundry-chainlink-toolkit,https://github.com/smartcontractkit/foundry-chainlink-toolkit.git
+Chainlink,0.16167481662591687,devrel-merkle-tree,https://github.com/smartcontractkit/devrel-merkle-tree.git
+Chainlink,0.5870069605568445,hardhat-chainlink-example,https://github.com/smartcontractkit/hardhat-chainlink-example.git
+Chainlink,0.13660462492949801,functions-twilio-spotify,https://github.com/smartcontractkit/functions-twilio-spotify.git
+Chainlink,0.18827380105308097,devrel-testing-with-hardhat,https://github.com/smartcontractkit/devrel-testing-with-hardhat.git
+Chainlink,0.46231948304376735,functions-google-bigquery,https://github.com/smartcontractkit/functions-google-bigquery.git
+Chainlink,0.4582439012424417,functions-insurance,https://github.com/smartcontractkit/functions-insurance.git
+Chainlink,0.4549304396682572,functions-aws-currency-data,https://github.com/smartcontractkit/functions-aws-currency-data.git
+Chainlink,0.4527629625073588,functions-meta-giveaway,https://github.com/smartcontractkit/functions-meta-giveaway.git
+Chainlink,1.0,ccip-starter-kit-foundry,https://github.com/smartcontractkit/ccip-starter-kit-foundry.git
+Chainlink,0.5637783368747638,quickstarts-lootbox,https://github.com/smartcontractkit/quickstarts-lootbox.git
+Chainlink,0.6609909785827423,quickstarts-mysterybox,https://github.com/smartcontractkit/quickstarts-mysterybox.git
+Chainlink,0.24915735320205784,timelock-worker,https://github.com/smartcontractkit/timelock-worker.git
+Chainlink,0.12622944344230996,chainlink-functions-demo-app,https://github.com/smartcontractkit/chainlink-functions-demo-app.git
+Chainlink,0.05077349176770378,ccip-tic-tac-toe,https://github.com/smartcontractkit/ccip-tic-tac-toe.git
+Chainlink,0.02556085201495202,ccip-starter-kit-hardhat,https://github.com/smartcontractkit/ccip-starter-kit-hardhat.git
+Chainlink,0.023523445973546688,ccip-cross-chain-name-service,https://github.com/smartcontractkit/ccip-cross-chain-name-service.git
+Chainlink,0.0862022613773975,ccip-liquidation-protector,https://github.com/smartcontractkit/ccip-liquidation-protector.git
+Chainlink,0.011785449371937207,ccip-cross-chain-nft,https://github.com/smartcontractkit/ccip-cross-chain-nft.git
+Chainlink,0.49854303483668944,ccip-defi-lending,https://github.com/smartcontractkit/ccip-defi-lending.git
+Chainlink,0.7719905540464684,functions-the-graph-uniswap,https://github.com/smartcontractkit/functions-the-graph-uniswap.git
+Chainlink,0.43445952239216973,quickstarts-giveaway,https://github.com/smartcontractkit/quickstarts-giveaway.git
+Chainlink,0.2004510436218813,ccip,https://github.com/smartcontractkit/ccip.git
+Chainlink,0.9851146189945994,ccip-owner-contracts,https://github.com/smartcontractkit/ccip-owner-contracts.git
+Chainlink,0.9632631010264722,vrf-direct-funding-example,https://github.com/smartcontractkit/vrf-direct-funding-example.git
+Chainlink,0.005495294562442666,functions-toolkit,https://github.com/smartcontractkit/functions-toolkit.git
+Chainlink,1.0,quickstarts-circuitbreaker,https://github.com/smartcontractkit/quickstarts-circuitbreaker.git
+Chainlink,1.0,quickstarts-vrf-balance-manager,https://github.com/smartcontractkit/quickstarts-vrf-balance-manager.git
+Chainlink,0.11334716245084987,functions-bigquery-weather,https://github.com/smartcontractkit/functions-bigquery-weather.git
+Chainlink,0.12727717324856339,functions-toolkit-workshop,https://github.com/smartcontractkit/functions-toolkit-workshop.git
+Chainlink,0.22942486085343228,functions-google-vertex-ai,https://github.com/smartcontractkit/functions-google-vertex-ai.git
+Chainlink,0.857790389222664,functions-lens-eventbrite,https://github.com/smartcontractkit/functions-lens-eventbrite.git
+Chainlink,0.44125949311784574,functions-chainalysis,https://github.com/smartcontractkit/functions-chainalysis.git
+Chainlink,0.3215351943615155,functions-aws-iot-core,https://github.com/smartcontractkit/functions-aws-iot-core.git
+Chainlink,0.3211218785336109,prediction-game,https://github.com/smartcontractkit/prediction-game.git
+Chainlink,0.1418212367077134,datastreams-demo,https://github.com/smartcontractkit/datastreams-demo.git
+Chainlink,0.2220767587680011,functions-deepdive-constellation2023,https://github.com/smartcontractkit/functions-deepdive-constellation2023.git
+Chainlink,0.07181937885942608,run-functions-dapp,https://github.com/smartcontractkit/run-functions-dapp.git
+Chainlink,0.5196650216838642,workshop-distributed-news,https://github.com/smartcontractkit/workshop-distributed-news.git
+Chainlink,0.3293384109916368,datastreams-erc7412,https://github.com/smartcontractkit/datastreams-erc7412.git
+Terra Classic,0.06547713514861586,shuttle,https://github.com/terra-money/shuttle.git
+Terra Classic,0.05225979775138894,wormhole,https://github.com/terra-money/wormhole.git
+Terra Classic,0.2821283473307795,protocol-v2,https://github.com/terra-money/protocol-v2.git
+Terra Classic,0.22046888828473424,aave-asset-listing,https://github.com/terra-money/aave-asset-listing.git
+Terra Classic,0.18692110670995027,incentives-controller,https://github.com/terra-money/incentives-controller.git
+Immutable,0.01200081531164811,imx-core-sdk-kotlin-jvm,https://github.com/immutable/imx-core-sdk-kotlin-jvm.git
+Immutable,0.009167102956909699,imx-core-sdk,https://github.com/immutable/imx-core-sdk.git
+Immutable,0.09532237255615468,imx-core-sdk-golang,https://github.com/immutable/imx-core-sdk-golang.git
+Immutable,0.5096615339885656,contracts,https://github.com/immutable/contracts.git
+Immutable,0.0001233555135477933,ts-immutable-sdk,https://github.com/immutable/ts-immutable-sdk.git
+Immutable,0.23724750151340648,wallet-contracts,https://github.com/immutable/wallet-contracts.git
+Immutable,1.0,seaport-core,https://github.com/immutable/seaport-core.git
+Immutable,0.7356051336787025,seaport,https://github.com/immutable/seaport.git
+Immutable,0.016863851228819022,sample-passport-unity-game,https://github.com/immutable/sample-passport-unity-game.git
+Immutable,0.014853133036610705,axelar-docs,https://github.com/immutable/axelar-docs.git
+Axie Infinity,0.0011091011209253504,ronin,https://github.com/axieinfinity/ronin.git
+Axie Infinity,0.6517898823124739,ronin-smart-contracts,https://github.com/axieinfinity/ronin-smart-contracts.git
+Axie Infinity,0.015675715550309825,bridge-v2,https://github.com/axieinfinity/bridge-v2.git
+Axie Infinity,0.5492925450579488,ronin-dpos-contracts,https://github.com/axieinfinity/ronin-dpos-contracts.git
+Axie Infinity,0.7555387713997986,contract-template,https://github.com/axieinfinity/contract-template.git
+Axie Infinity,0.9166889102273003,rns-contracts,https://github.com/axieinfinity/rns-contracts.git
+Axie Infinity,0.9126523051756696,foundry-deployment-kit,https://github.com/axieinfinity/foundry-deployment-kit.git
+Axie Infinity,0.9925844126582467,ronin-bridge-contracts,https://github.com/axieinfinity/ronin-bridge-contracts.git
+Synthetix,0.3837352158186338,synthetix,https://github.com/Synthetixio/synthetix.git
+Synthetix,0.2430324400564175,utility-contracts,https://github.com/Synthetixio/utility-contracts.git
+Synthetix,0.8335737692388532,Unipool,https://github.com/Synthetixio/Unipool.git
+Synthetix,0.10201119480751482,snx-grants-dao,https://github.com/Synthetixio/snx-grants-dao.git
+Synthetix,0.09527827125896085,buidler,https://github.com/Synthetixio/buidler.git
+Synthetix,0.43921487725089153,spartan-council,https://github.com/Synthetixio/spartan-council.git
+Synthetix,0.7278926980788871,synthetix-v3-labs,https://github.com/Synthetixio/synthetix-v3-labs.git
+Synthetix,0.4780483456401266,council-dilution,https://github.com/Synthetixio/council-dilution.git
+Synthetix,0.21894303302178916,synthetix-v3,https://github.com/Synthetixio/synthetix-v3.git
+Synthetix,0.45352407536636424,snx-grants-dao-v2,https://github.com/Synthetixio/snx-grants-dao-v2.git
+Synthetix,0.04369309653889613,synthetix-grants,https://github.com/Synthetixio/synthetix-grants.git
+Synthetix,0.7916220052724586,susd-incentives-aave,https://github.com/Synthetixio/susd-incentives-aave.git
+Synthetix,0.037307806765201866,futures-keepers,https://github.com/Synthetixio/futures-keepers.git
+Synthetix,0.49441644301891735,hardhat-interact,https://github.com/Synthetixio/hardhat-interact.git
+Synthetix,0.21464633321188778,tokenvest,https://github.com/Synthetixio/tokenvest.git
+Synthetix,0.28134277593507595,snx-v3-prototype,https://github.com/Synthetixio/snx-v3-prototype.git
+Synthetix,0.2500448922114376,uniswap-v3-spot-twap-oracle,https://github.com/Synthetixio/uniswap-v3-spot-twap-oracle.git
+Synthetix,1.0,safe-synthetix-module,https://github.com/Synthetixio/safe-synthetix-module.git
+Synthetix,1.0,synthetix-sandbox,https://github.com/Synthetixio/synthetix-sandbox.git
+Synthetix,1.0,v2x-legacy-migrations,https://github.com/Synthetixio/v2x-legacy-migrations.git
+Synthetix,0.1347110417603872,v3-markets-prototype,https://github.com/Synthetixio/v3-markets-prototype.git
+Synthetix,0.5961911805491357,number-guessing-game,https://github.com/Synthetixio/number-guessing-game.git
+Synthetix,0.314280857983448,bfp-market,https://github.com/Synthetixio/bfp-market.git
+Synthetix,0.3771817647668752,erc7412,https://github.com/Synthetixio/erc7412.git
+Synthetix,1.0,external-nodes,https://github.com/Synthetixio/external-nodes.git
+Synthetix,0.8628135809517413,example-rewards-distributor,https://github.com/Synthetixio/example-rewards-distributor.git
+Synthetix,1.0,trusted-multicall-forwarder,https://github.com/Synthetixio/trusted-multicall-forwarder.git
+Synthetix,1.0,erc7412-wormhole,https://github.com/Synthetixio/erc7412-wormhole.git
+Synthetix,1.0,rewards-distributors,https://github.com/Synthetixio/rewards-distributors.git
+The Sandbox,0.33992127570567365,sandbox-smart-contracts-old,https://github.com/thesandboxgame/sandbox-smart-contracts-old.git
+The Sandbox,0.15753315735671322,sandbox-smart-contracts,https://github.com/thesandboxgame/sandbox-smart-contracts.git
+The Sandbox,0.7573729756548466,assetbug,https://github.com/thesandboxgame/assetbug.git
+The Sandbox,0.003689751264320363,dappeteer,https://github.com/thesandboxgame/dappeteer.git
+Uniswap,0.46748523011584636,v2-core,https://github.com/Uniswap/v2-core.git
+Uniswap,0.5655016654172084,v2-periphery,https://github.com/Uniswap/v2-periphery.git
+Uniswap,0.43081794355144154,solidity-lib,https://github.com/Uniswap/solidity-lib.git
+Uniswap,0.48314990407465597,v3-core,https://github.com/Uniswap/v3-core.git
+Uniswap,0.11926443508311682,merkle-distributor,https://github.com/Uniswap/merkle-distributor.git
+Uniswap,0.36397511281279915,liquidity-staker,https://github.com/Uniswap/liquidity-staker.git
+Uniswap,0.6823169586564001,governance,https://github.com/Uniswap/governance.git
+Uniswap,0.425261306296424,v3-periphery,https://github.com/Uniswap/v3-periphery.git
+Uniswap,0.2072197175380477,v3-staker,https://github.com/Uniswap/v3-staker.git
+Uniswap,0.4277389493077703,v3-core-optimism,https://github.com/Uniswap/v3-core-optimism.git
+Uniswap,0.41556412708304236,v3-periphery-optimism,https://github.com/Uniswap/v3-periphery-optimism.git
+Uniswap,0.35987119115390165,swap-router-contracts,https://github.com/Uniswap/swap-router-contracts.git
+Uniswap,0.2123328506941487,polygon-bridge,https://github.com/Uniswap/polygon-bridge.git
+Uniswap,0.9544878786812568,v4-core,https://github.com/Uniswap/v4-core.git
+Uniswap,0.9944335572193469,lp-action-contracts,https://github.com/Uniswap/lp-action-contracts.git
+Uniswap,1.0,v4-periphery,https://github.com/Uniswap/v4-periphery.git
+Uniswap,0.021281407495008526,ethers-rs-mobile,https://github.com/Uniswap/ethers-rs-mobile.git
+Uniswap,0.2204394837809557,uniswap-first-contract-example,https://github.com/Uniswap/uniswap-first-contract-example.git
+Uniswap,1.0,UniswapX,https://github.com/Uniswap/UniswapX.git
+Uniswap,0.31379562431542973,universal-router,https://github.com/Uniswap/universal-router.git
+Uniswap,0.26465043555952644,universal-router-sdk,https://github.com/Uniswap/universal-router-sdk.git
+Uniswap,0.9682232438099847,permit2,https://github.com/Uniswap/permit2.git
+Uniswap,0.23017938308872002,permit2-sdk,https://github.com/Uniswap/permit2-sdk.git
+Uniswap,0.8851297621629437,marketdepth-v3,https://github.com/Uniswap/marketdepth-v3.git
+Uniswap,0.06765327695560254,offchain-resolver,https://github.com/Uniswap/offchain-resolver.git
+Uniswap,1.0,view-quoter-v3,https://github.com/Uniswap/view-quoter-v3.git
+Uniswap,0.7764149135351093,relayer,https://github.com/Uniswap/relayer.git
+Decentraland,0.8791899923975396,mana,https://github.com/decentraland/mana.git
+Decentraland,0.5046525693484132,land,https://github.com/decentraland/land.git
+Decentraland,0.471438991351464,erc721,https://github.com/decentraland/erc721.git
+Decentraland,0.4550374800422158,marketplace-contracts,https://github.com/decentraland/marketplace-contracts.git
+Decentraland,0.0001828064756956873,dappeteer,https://github.com/decentraland/dappeteer.git
+Decentraland,0.6169134119355745,land-auction,https://github.com/decentraland/land-auction.git
+Decentraland,0.37415323215879853,aux-contracts,https://github.com/decentraland/aux-contracts.git
+Decentraland,0.37716371383367014,pass-through,https://github.com/decentraland/pass-through.git
+Decentraland,0.5077318243130786,avatars-contract,https://github.com/decentraland/avatars-contract.git
+Decentraland,0.16947782258064517,decentraland-claim-app,https://github.com/decentraland/decentraland-claim-app.git
+Decentraland,0.424006524624462,wearables-contracts,https://github.com/decentraland/wearables-contracts.git
+Decentraland,0.18592305190279262,dao-apps,https://github.com/decentraland/dao-apps.git
+Decentraland,0.7775921621036582,marketplace-adapter,https://github.com/decentraland/marketplace-adapter.git
+Decentraland,0.25775396128793826,vestings-builder,https://github.com/decentraland/vestings-builder.git
+Decentraland,0.0012644121723790322,graph-node,https://github.com/decentraland/graph-node.git
+Decentraland,0.249267498643516,dummy-token,https://github.com/decentraland/dummy-token.git
+Decentraland,0.01968954255122945,MultiSigWallet,https://github.com/decentraland/MultiSigWallet.git
+Decentraland,0.463276134775252,bid-contract,https://github.com/decentraland/bid-contract.git
+Decentraland,0.06215484569572279,content-hash-tree,https://github.com/decentraland/content-hash-tree.git
+Decentraland,0.43992367023406015,rentals-contract,https://github.com/decentraland/rentals-contract.git
+Decentraland,0.4249184078597625,common-contracts,https://github.com/decentraland/common-contracts.git
+Decentraland,0.336329965119206,checker-contract,https://github.com/decentraland/checker-contract.git
+Aave,0.1185130503559188,aave-js,https://github.com/aave/aave-js.git
+Aave,0.12223706834984388,aave-protocol,https://github.com/aave/aave-protocol.git
+Aave,0.7618906650878232,flashloan-box,https://github.com/aave/flashloan-box.git
+Aave,0.20281593647893756,aave-token,https://github.com/aave/aave-token.git
+Aave,0.28941237900148614,proto-governance,https://github.com/aave/proto-governance.git
+Aave,0.19836509073892633,safety-module,https://github.com/aave/safety-module.git
+Aave,0.43962424060007443,genesis-migration,https://github.com/aave/genesis-migration.git
+Aave,0.5503089270151797,upgradeable-configurable-rights-pool,https://github.com/aave/upgradeable-configurable-rights-pool.git
+Aave,1.0,code-examples-protocol,https://github.com/aave/code-examples-protocol.git
+Aave,0.3035147174915138,protocol-v2,https://github.com/aave/protocol-v2.git
+Aave,0.4066057960864032,governance-v2,https://github.com/aave/governance-v2.git
+Aave,0.35923646321954394,aave-token-v2,https://github.com/aave/aave-token-v2.git
+Aave,0.5022563945974351,aave-stake-v2,https://github.com/aave/aave-stake-v2.git
+Aave,0.20953814617897637,aave-asset-listing,https://github.com/aave/aave-asset-listing.git
+Aave,0.5192645328983422,tests-protocol-v2-sigmaprime,https://github.com/aave/tests-protocol-v2-sigmaprime.git
+Aave,0.783147989734816,price-aggregators,https://github.com/aave/price-aggregators.git
+Aave,0.18816801331154717,incentives-controller,https://github.com/aave/incentives-controller.git
+Aave,0.322554692982552,governance-crosschain-bridges,https://github.com/aave/governance-crosschain-bridges.git
+Aave,0.38280959217312704,aave-v3-core,https://github.com/aave/aave-v3-core.git
+Aave,0.36221210816017146,aave-v3-periphery,https://github.com/aave/aave-v3-periphery.git
+Aave,0.2127557127858065,arc-timelock,https://github.com/aave/arc-timelock.git
+Aave,0.005928853754940711,aave-sandbox,https://github.com/aave/aave-sandbox.git
+Aave,0.6569353119506084,gho-core,https://github.com/aave/gho-core.git
+Aave,0.20903077644623422,v3-retroactive-funding,https://github.com/aave/v3-retroactive-funding.git
+Aave,0.6622973892843673,Aave-Vault,https://github.com/aave/Aave-Vault.git
+Aave,0.0008123243671476507,aave-v3-deploy,https://github.com/aave/aave-v3-deploy.git
+Aave,0.9973697250658156,gho-aip,https://github.com/aave/gho-aip.git
+Aave,0.5244591426056969,aave-address-book,https://github.com/aave/aave-address-book.git
+Aave,0.965497345088725,aave-proposals,https://github.com/aave/aave-proposals.git
+Aave,1.0,token-wrappers,https://github.com/aave/token-wrappers.git
+Aave,0.9603040022016872,aave-proposals-aip,https://github.com/aave/aave-proposals-aip.git
+Aave,0.9347092752549009,aave-debt-swap,https://github.com/aave/aave-debt-swap.git
+Aave,0.8308173382483793,aave-proposals-v3,https://github.com/aave/aave-proposals-v3.git
+Polygon,0.3394010548596722,contracts,https://github.com/maticnetwork/contracts.git
+Polygon,0.5761379633974659,tokenized-pos,https://github.com/maticnetwork/tokenized-pos.git
+Polygon,0.659381839888572,testnet-token-contracts,https://github.com/maticnetwork/testnet-token-contracts.git
+Polygon,1.0,pos-commit-poc,https://github.com/maticnetwork/pos-commit-poc.git
+Polygon,0.15307614955663223,ethindia-workshop,https://github.com/maticnetwork/ethindia-workshop.git
+Polygon,0.017790925378109244,predict,https://github.com/maticnetwork/predict.git
+Polygon,0.29229392892398814,genesis-contracts,https://github.com/maticnetwork/genesis-contracts.git
+Polygon,0.0006624990436070192,bor,https://github.com/maticnetwork/bor.git
+Polygon,0.7777979311633634,pos-portal,https://github.com/maticnetwork/pos-portal.git
+Polygon,0.5315912765185259,Solidity-RLP,https://github.com/maticnetwork/Solidity-RLP.git
+Polygon,0.16031868743746924,augur,https://github.com/maticnetwork/augur.git
+Polygon,0.03165635369025199,governance-contracts,https://github.com/maticnetwork/governance-contracts.git
+Polygon,0.002512651670082974,erigon,https://github.com/maticnetwork/erigon.git
+Polygon,0.0011671343919691763,go-ethereum,https://github.com/maticnetwork/go-ethereum.git
+Polygon,0.34082164577386126,eip-1559-burn,https://github.com/maticnetwork/eip-1559-burn.git
+Polygon,0.0017838164956969513,polygon-sdk,https://github.com/maticnetwork/polygon-sdk.git
+Polygon,0.00016958875191019026,ethereumjs-monorepo,https://github.com/maticnetwork/ethereumjs-monorepo.git
+Polygon,0.6840659118642972,v3-monorepo,https://github.com/maticnetwork/v3-monorepo.git
+Polygon,0.047153644629372785,polygon-cli,https://github.com/maticnetwork/polygon-cli.git
+Polygon,0.14159483188334518,mint-backend,https://github.com/maticnetwork/mint-backend.git
