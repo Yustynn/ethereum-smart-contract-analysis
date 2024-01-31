@@ -1,0 +1,1398 @@
+project-repos/Aave/aave-protocol.git/contracts/mocks/flashloan
+project-repos/Aave/aave-protocol.git/contracts/mocks/oracle
+project-repos/Aave/aave-protocol.git/contracts/mocks/oracle/CLAggregators
+project-repos/Aave/aave-protocol.git/contracts/mocks/tokens
+project-repos/Aave/aave-protocol.git/contracts/mocks/upgradeability
+project-repos/Aave/aave-stake-v2.git/contracts/mocks
+project-repos/Aave/aave-v3-core.git/contracts/mocks/flashloan
+project-repos/Aave/aave-v3-core.git/contracts/mocks/helpers
+project-repos/Aave/aave-v3-core.git/contracts/mocks/oracle
+project-repos/Aave/aave-v3-core.git/contracts/mocks/oracle/CLAggregators
+project-repos/Aave/aave-v3-core.git/contracts/mocks/tests
+project-repos/Aave/aave-v3-core.git/contracts/mocks/tokens
+project-repos/Aave/aave-v3-core.git/contracts/mocks/upgradeability
+project-repos/Aave/aave-v3-periphery.git/contracts/mocks
+project-repos/Aave/aave-v3-periphery.git/contracts/mocks/attacks
+project-repos/Aave/aave-v3-periphery.git/contracts/mocks/swap
+project-repos/Aave/aave-v3-periphery.git/contracts/mocks/testnet-helpers
+project-repos/Aave/arc-timelock.git/contracts/mocks
+project-repos/Aave/genesis-migration.git/contracts/mocks
+project-repos/Aave/gho-core.git/src/test
+project-repos/Aave/gho-core.git/src/test/helpers
+project-repos/Aave/gho-core.git/src/test/mocks
+project-repos/Aave/governance-crosschain-bridges.git/contracts/mocks
+project-repos/Aave/governance-v2.git/contracts/mocks
+project-repos/Aave/governance-v2.git/contracts/mocks/interfaces
+project-repos/Aave/incentives-controller.git/contracts/mocks
+project-repos/Aave/price-aggregators.git/contracts/lp-oracle-contracts/mock
+project-repos/Aave/proto-governance.git/contracts/mocks
+project-repos/Aave/protocol-v2.git/contracts/mocks/attacks
+project-repos/Aave/protocol-v2.git/contracts/mocks/dependencies/weth
+project-repos/Aave/protocol-v2.git/contracts/mocks/flashloan
+project-repos/Aave/protocol-v2.git/contracts/mocks/oracle
+project-repos/Aave/protocol-v2.git/contracts/mocks/oracle/CLAggregators
+project-repos/Aave/protocol-v2.git/contracts/mocks/swap
+project-repos/Aave/protocol-v2.git/contracts/mocks/tokens
+project-repos/Aave/protocol-v2.git/contracts/mocks/upgradeability
+project-repos/Aave/safety-module.git/contracts/mocks
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/dependencies/openzeppelin/contracts
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/dependencies/openzeppelin/upgradeability
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/deployments
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/flashloan/base
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/flashloan/interfaces
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/interfaces
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/misc
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/misc/interfaces
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/mocks/attacks
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/mocks/dependencies/weth
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/mocks/flashloan
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/mocks/oracle
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/mocks/oracle/CLAggregators
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/mocks/tokens
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/mocks/upgradeability
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/protocol/configuration
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/protocol/lendingpool
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/protocol/libraries/aave-upgradeability
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/protocol/libraries/configuration
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/protocol/libraries/helpers
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/protocol/libraries/logic
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/protocol/libraries/math
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/protocol/tokenization
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/protocol/tokenization/base
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/protocol/tokenization/interfaces
+project-repos/Aave/tests-protocol-v2-sigmaprime.git/contracts/sigp-contracts
+project-repos/Aave/upgradeable-configurable-rights-pool.git/contracts/mocks
+project-repos/Aave/upgradeable-configurable-rights-pool.git/contracts/test
+project-repos/Axie Infinity/bridge-v2.git/contract_tests
+project-repos/Axie Infinity/contract-template.git/src/mock
+project-repos/Axie Infinity/foundry-deployment-kit.git/script/sample/ronin-testnet/20231204-DeployMockERC20.s.sol
+project-repos/Axie Infinity/foundry-deployment-kit.git/script/sample/ronin-testnet/xxxxyyzz-DeploySample
+project-repos/Axie Infinity/ronin-bridge-contracts.git/src/mocks
+project-repos/Axie Infinity/ronin-bridge-contracts.git/src/mocks/ronin
+project-repos/Axie Infinity/ronin-bridge-contracts.git/src/mocks/types
+project-repos/Axie Infinity/ronin-bridge-contracts.git/test/mocks
+project-repos/Axie Infinity/ronin-bridge-contracts.git/test/utils
+project-repos/Axie Infinity/ronin-dpos-contracts.git/contracts/mocks
+project-repos/Axie Infinity/ronin-dpos-contracts.git/contracts/mocks/forwarder
+project-repos/Axie Infinity/ronin-dpos-contracts.git/contracts/mocks/libraries
+project-repos/Axie Infinity/ronin-dpos-contracts.git/contracts/mocks/precompile-usages
+project-repos/Axie Infinity/ronin-dpos-contracts.git/contracts/mocks/ronin
+project-repos/Axie Infinity/ronin-dpos-contracts.git/contracts/mocks/sorting
+project-repos/Axie Infinity/ronin-dpos-contracts.git/contracts/mocks/types
+project-repos/Axie Infinity/ronin-dpos-contracts.git/contracts/mocks/utils/version-control
+project-repos/Axie Infinity/ronin-dpos-contracts.git/contracts/mocks/validator
+project-repos/Axie Infinity/ronin-dpos-contracts.git/test/foundry/forking/extensions
+project-repos/Axie Infinity/ronin-dpos-contracts.git/test/foundry/forking/utils
+project-repos/Axie Infinity/ronin-dpos-contracts.git/test/foundry/mocks
+project-repos/Axie Infinity/ronin-dpos-contracts.git/test/foundry/utils
+project-repos/Axie Infinity/ronin-smart-contracts.git/contracts/mocks
+project-repos/Axie Infinity/ronin.git/tests/solidity/contracts
+project-repos/Chainlink/0x-monorepo.git/contracts/asset-proxy/contracts/test
+project-repos/Chainlink/0x-monorepo.git/contracts/broker/contracts/test
+project-repos/Chainlink/0x-monorepo.git/contracts/dev-utils/contracts/test
+project-repos/Chainlink/0x-monorepo.git/contracts/erc1155/contracts/test
+project-repos/Chainlink/0x-monorepo.git/contracts/erc20-bridge-sampler/contracts/test
+project-repos/Chainlink/0x-monorepo.git/contracts/erc20/contracts/test
+project-repos/Chainlink/0x-monorepo.git/contracts/erc721/contracts/test
+project-repos/Chainlink/0x-monorepo.git/contracts/exchange-forwarder/contracts/test
+project-repos/Chainlink/0x-monorepo.git/contracts/exchange-libs/contracts/test
+project-repos/Chainlink/0x-monorepo.git/contracts/exchange/contracts/test
+project-repos/Chainlink/0x-monorepo.git/contracts/integrations/contracts/test
+project-repos/Chainlink/0x-monorepo.git/contracts/multisig/contracts/test
+project-repos/Chainlink/0x-monorepo.git/contracts/staking/contracts/test
+project-repos/Chainlink/0x-monorepo.git/contracts/utils/contracts/test
+project-repos/Chainlink/0x-monorepo.git/packages/abi-gen/test-cli/fixtures/contracts
+project-repos/Chainlink/0x-monorepo.git/packages/sol-compiler/test/fixtures/contracts
+project-repos/Chainlink/0x-monorepo.git/packages/sol-compiler/test/fixtures/contracts/base
+project-repos/Chainlink/0x-monorepo.git/packages/sol-doc/test/inputs
+project-repos/Chainlink/0x-monorepo.git/packages/sol-tracing-utils/test/fixtures/contracts
+project-repos/Chainlink/DEVREL-collaborative-nft-tutorial.git/src/test/mocks
+project-repos/Chainlink/DEVREL-collaborative-nft-tutorial.git/src/test/utils
+project-repos/Chainlink/LinkToken.git/contracts/v0.4/mocks
+project-repos/Chainlink/LinkToken.git/contracts/v0.6/mocks
+project-repos/Chainlink/aave-protocol-v2.git/contracts/mocks/attacks
+project-repos/Chainlink/aave-protocol-v2.git/contracts/mocks/dependencies/weth
+project-repos/Chainlink/aave-protocol-v2.git/contracts/mocks/flashloan
+project-repos/Chainlink/aave-protocol-v2.git/contracts/mocks/oracle
+project-repos/Chainlink/aave-protocol-v2.git/contracts/mocks/oracle/CLAggregators
+project-repos/Chainlink/aave-protocol-v2.git/contracts/mocks/swap
+project-repos/Chainlink/aave-protocol-v2.git/contracts/mocks/tokens
+project-repos/Chainlink/aave-protocol-v2.git/contracts/mocks/upgradeability
+project-repos/Chainlink/bitcoin-token-smart-contracts.git/ethereum/contracts/mock
+project-repos/Chainlink/bitcoin-token-smart-contracts.git/ethereumV2/contracts/mock
+project-repos/Chainlink/bitcoin-token-smart-contracts.git/tron/contracts/mock
+project-repos/Chainlink/buffer.git/test
+project-repos/Chainlink/ccip-liquidation-protector.git/contracts/mocks
+project-repos/Chainlink/ccip-liquidation-protector.git/contracts/test
+project-repos/Chainlink/ccip-owner-contracts.git/mock
+project-repos/Chainlink/ccip-owner-contracts.git/test
+project-repos/Chainlink/ccip.git/contracts/src/v0.4/tests
+project-repos/Chainlink/ccip.git/contracts/src/v0.5/tests
+project-repos/Chainlink/ccip.git/contracts/src/v0.6/tests
+project-repos/Chainlink/ccip.git/contracts/src/v0.7/tests
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/automation/mocks
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/automation/test
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/automation/testhelpers
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/ccip/test
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/ccip/test/attacks/onRamp
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/ccip/test/helpers
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/ccip/test/helpers/receivers
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/ccip/test/mocks
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/ccip/test/mocks/interfaces
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/functions/dev/v1_X/mocks
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/functions/tests/v1_X/testhelpers
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/functions/v1_0_0/mocks
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/l2ep/test/mocks
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/l2ep/test/mocks/optimism
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/l2ep/test/mocks/scroll
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/llo-feeds/test/mocks
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/mocks
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/rebalancer/test/helpers
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/rebalancer/test/mocks
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/shared/mocks
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/shared/test/call
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/shared/test/enumerable
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/shared/test/helpers
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/shared/test/testhelpers
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/tests
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/transmission/dev/testhelpers
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/vendor/openzeppelin-solidity/v4.8.3/contracts/mocks
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/vrf/dev/testhelpers
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/vrf/mocks
+project-repos/Chainlink/ccip.git/contracts/src/v0.8/vrf/testhelpers
+project-repos/Chainlink/ccip.git/contracts/test/v0.8/foundry/dev/special
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/GSN
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/access
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/access/roles
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/introspection
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/lifecycle
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/math
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/ownership
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/token/ERC20
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/token/ERC777
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/upgradable
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/upgradable/access/roles
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/upgradable/lifecycle
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/upgradable/ownership
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/upgradable/utils
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/SideToken/zeppelin/utils
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/interfaces
+project-repos/Chainlink/chainlink-RSK.git/test-runner/src/contracts/vendor
+project-repos/Chainlink/chainlink-automation-templates.git/batch-nft-reveal/contracts/mocks
+project-repos/Chainlink/chainlink-automation-templates.git/vault-harvester/contracts/test
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.4/tests
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.5/tests
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.6/tests
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.7/tests
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/automation/mocks
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/automation/testhelpers
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/automation/v2_1/test
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/dev/automation/tests
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/dev/automation/v2_1/mocks
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/dev/automation/v2_1/test
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/dev/transmission/testhelpers
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/dev/vrf/testhelpers
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/functions/dev/v1_0_0/mocks
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/functions/tests/v0_0_0/testhelpers
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/functions/tests/v0_0_0/testhelpers/mocks
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/functions/tests/v1_0_0/testhelpers
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/llo-feeds/test/mocks
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/mocks
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/shared/mocks
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/tests
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/tests/vendor
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/vendor/openzeppelin-solidity/v4.8.0/contracts/mocks
+project-repos/Chainlink/chainlink-brownie-contracts.git/contracts/src/v0.8/vrf/testhelpers
+project-repos/Chainlink/chainlink-fullstack.git/packages/hardhat/contracts/mocks
+project-repos/Chainlink/chainlink-functions-demo-app.git/contracts/test
+project-repos/Chainlink/chainlink-mix.git/contracts/test
+project-repos/Chainlink/chainlink-starknet.git/contracts/solidity/mocks
+project-repos/Chainlink/chainlink.git/contracts/src/v0.4/tests
+project-repos/Chainlink/chainlink.git/contracts/src/v0.5/tests
+project-repos/Chainlink/chainlink.git/contracts/src/v0.6/tests
+project-repos/Chainlink/chainlink.git/contracts/src/v0.7/tests
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/automation/mocks
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/automation/test
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/automation/testhelpers
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/functions/dev/v1_X/mocks
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/functions/tests/v1_X/testhelpers
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/functions/v1_0_0/mocks
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/l2ep/test/mocks
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/l2ep/test/mocks/optimism
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/l2ep/test/mocks/scroll
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/llo-feeds/test/mocks
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/mocks
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/shared/mocks
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/shared/test/call
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/shared/test/helpers
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/shared/test/testhelpers
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/tests
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/transmission/dev/testhelpers
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/vendor/openzeppelin-solidity/v4.8.3/contracts/mocks
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/vrf/dev/testhelpers
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/vrf/mocks
+project-repos/Chainlink/chainlink.git/contracts/src/v0.8/vrf/testhelpers
+project-repos/Chainlink/compound-protocol.git/tests/Contracts
+project-repos/Chainlink/dapptools-starter-kit.git/src/test/mocks
+project-repos/Chainlink/dapptools-starter-kit.git/src/test/utils
+project-repos/Chainlink/datastreams-demo.git/contracts/contracts/mocks
+project-repos/Chainlink/defi-minimal.git/contracts/test
+project-repos/Chainlink/devrel-testing-with-hardhat.git/contracts
+project-repos/Chainlink/documentation.git/public/samples/VRF/mock
+project-repos/Chainlink/ens-resolver.git/test/mocks
+project-repos/Chainlink/feed-registry.git/contracts/test
+project-repos/Chainlink/foundry-chainlink-toolkit.git/src/interfaces/test
+project-repos/Chainlink/foundry-chainlink-toolkit.git/src/mocks
+project-repos/Chainlink/foundry-starter-kit-old.git/src/test/mocks
+project-repos/Chainlink/foundry-starter-kit-old.git/src/test/utils
+project-repos/Chainlink/foundry-starter-kit.git/src/test/mocks
+project-repos/Chainlink/foundry-starter-kit.git/src/test/utils
+project-repos/Chainlink/functions-aws-currency-data.git/contracts/test
+project-repos/Chainlink/functions-chainalysis.git/contracts/test
+project-repos/Chainlink/functions-google-bigquery.git/contracts/test
+project-repos/Chainlink/functions-hardhat-starter-kit.git/contracts/test
+project-repos/Chainlink/functions-insurance.git/contracts/test
+project-repos/Chainlink/functions-lens-eventbrite.git/contracts/lib/forge-std/lib/ds-test/demo
+project-repos/Chainlink/functions-lens-eventbrite.git/contracts/lib/forge-std/lib/ds-test/src
+project-repos/Chainlink/functions-lens-eventbrite.git/contracts/lib/forge-std/test/compilation
+project-repos/Chainlink/functions-lens-eventbrite.git/contracts/src/vendor/chainlink/v0.8/mocks
+project-repos/Chainlink/functions-lens-eventbrite.git/contracts/test
+project-repos/Chainlink/functions-meta-giveaway.git/contracts/test
+project-repos/Chainlink/functions-the-graph-uniswap.git/contracts/test
+project-repos/Chainlink/functions-toolkit.git/test/utils/contracts
+project-repos/Chainlink/functions-twilio-spotify.git/contracts/test
+project-repos/Chainlink/go-ethereum.git/tests/solidity/contracts
+project-repos/Chainlink/hardhat-chainlink.git/test/fixture-projects/hardhat-chainlink/contracts
+project-repos/Chainlink/hardhat-starter-kit.git/contracts/test
+project-repos/Chainlink/hardhat-starter-kit.git/contracts/test/fuzzing
+project-repos/Chainlink/huff-starter-kit.git/test/mocks
+project-repos/Chainlink/keeper.git/contracts/test
+project-repos/Chainlink/open-oracle.git/contracts/test
+project-repos/Chainlink/prediction-game.git/contracts/contracts/test
+project-repos/Chainlink/quickstarts-giveaway.git/contracts/src/mock
+project-repos/Chainlink/quickstarts-giveaway.git/contracts/test/handlers
+project-repos/Chainlink/quickstarts-giveaway.git/contracts/test/helpers
+project-repos/Chainlink/quickstarts-lootbox.git/contracts/test
+project-repos/Chainlink/quickstarts-mysterybox.git/contracts/test
+project-repos/Chainlink/run-functions-dapp.git/contracts/contracts/test
+project-repos/Chainlink/smart-contract-examples.git/lottery/contracts/test
+project-repos/Chainlink/smart-contract-examples.git/random-svg-nft/contracts/test
+project-repos/Chainlink/smart-contract-examples.git/ultimate-nft-repo/contracts/test
+project-repos/Chainlink/solidity-cborutils.git/test
+project-repos/Chainlink/staking-v0.1.git/contracts/tests
+project-repos/Chainlink/staking-v0.1.git/test/fuzzing/echidna
+project-repos/Chainlink/truffle-starter-kit.git/contracts/test
+project-repos/Chainlink/trusttoken-smart-contracts.git/contracts/governance/mocks
+project-repos/Chainlink/trusttoken-smart-contracts.git/contracts/proxy/mocks
+project-repos/Chainlink/trusttoken-smart-contracts.git/contracts/registry/mocks
+project-repos/Chainlink/trusttoken-smart-contracts.git/contracts/true-currencies/mocks
+project-repos/Chainlink/trusttoken-smart-contracts.git/contracts/true-gold/mocks
+project-repos/Chainlink/trusttoken-smart-contracts.git/contracts/truefi/mocks
+project-repos/Chainlink/trusttoken-smart-contracts.git/contracts/truefi2/mocks
+project-repos/Chainlink/trusttoken-smart-contracts.git/contracts/trusttoken/mocks
+project-repos/Chainlink/upkeep-contracts.git/contracts/test
+project-repos/Chainlink/vrf-experiences.git/bigmac/contracts/test
+project-repos/Chainlink/vrf-experiences.git/booth-raffle/contracts/test
+project-repos/Chiliz/v2-genesis-config.git/contracts/tests
+project-repos/Chiliz/v2.git/tests/solidity/contracts
+project-repos/Cronos/cronos-blockscout.git/apps/explorer/test/support/fixture/smart_contract
+project-repos/Cronos/cronos.git/integration_tests/contracts/contracts
+project-repos/Cronos/cronos.git/integration_tests/contracts/contracts/src
+project-repos/Cronos/ethermint.git/tests/integration_tests/hardhat/contracts
+project-repos/Cronos/ethermint.git/tests/solidity/suites/basic/contracts
+project-repos/Cronos/ethermint.git/tests/solidity/suites/basic/contracts/test
+project-repos/Cronos/ethermint.git/tests/solidity/suites/exception/contracts
+project-repos/Cronos/ethermint.git/tests/solidity/suites/exception/contracts/test
+project-repos/Cronos/ethermint.git/tests/solidity/suites/initializable-buidler/contracts
+project-repos/Cronos/ethermint.git/tests/solidity/suites/initializable-buidler/contracts/test
+project-repos/Cronos/ethermint.git/tests/solidity/suites/initializable/contracts
+project-repos/Cronos/ethermint.git/tests/solidity/suites/initializable/contracts/test
+project-repos/Cronos/ethermint.git/tests/solidity/suites/opcode/contracts
+project-repos/Cronos/ethermint.git/tests/solidity/suites/proxy/contracts
+project-repos/Cronos/ethermint.git/tests/solidity/suites/proxy/contracts/test
+project-repos/Cronos/ethermint.git/tests/solidity/suites/staking/contracts
+project-repos/Cronos/ethermint.git/tests/solidity/suites/staking/contracts/lib
+project-repos/Cronos/ethermint.git/tests/solidity/suites/staking/contracts/lib/os
+project-repos/Cronos/ethermint.git/tests/solidity/suites/staking/contracts/locking
+project-repos/Cronos/ethermint.git/tests/solidity/suites/staking/contracts/proxies
+project-repos/Cronos/ethermint.git/tests/solidity/suites/staking/contracts/standards
+project-repos/Cronos/ethermint.git/tests/solidity/suites/staking/contracts/test
+project-repos/Cronos/ethermint.git/tests/solidity/suites/staking/contracts/test/lib
+project-repos/Cronos/ethermint.git/tests/solidity/suites/staking/contracts/test/mocks
+project-repos/Cronos/ethermint.git/tests/solidity/suites/storage/contracts
+project-repos/Cronos/go-ethereum.git/tests/solidity/contracts
+project-repos/Cronos/gravity-bridge.git/integration_tests/ethereum/contracts
+project-repos/Curve DAO Token/brownie-tutorial.git/lesson-22-unit-testing-i/margarita/contracts
+project-repos/Curve DAO Token/curve-aragon-voting.git/contracts/test
+project-repos/Curve DAO Token/curve-contract.git/contracts/testing
+project-repos/Curve DAO Token/curve-dao-contracts.git/contracts/testing
+project-repos/Curve DAO Token/curve-factory.git/contracts/testing
+project-repos/Curve DAO Token/curve-xchain-factory.git/contracts/mocks
+project-repos/Curve DAO Token/tricrypto-ng.git/contracts/mocks
+project-repos/Dai/MIP21-RWA-Example.git/src/test
+project-repos/Dai/arbitrum-dai-bridge.git/contracts/test
+project-repos/Dai/dss-allocator.git/test/funnels
+project-repos/Dai/dss-allocator.git/test/mocks
+project-repos/Dai/dss-charter.git/src/test
+project-repos/Dai/dss-conduits.git/test/arranger-conduit
+project-repos/Dai/dss-conduits.git/test/arranger-conduit/invariants/handlers
+project-repos/Dai/dss-conduits.git/test/arranger-conduit/invariants/interfaces
+project-repos/Dai/dss-cron.git/src/tests/mocks
+project-repos/Dai/dss-crop-join.git/src/test
+project-repos/Dai/dss-direct-deposit.git/src/tests/mocks
+project-repos/Dai/dss-exec-lib.git/src/test
+project-repos/Dai/dss-flappers.git/test/helpers
+project-repos/Dai/dss-gate.git/src/test
+project-repos/Dai/dss-teleport.git/src/test/mocks
+project-repos/Dai/dss-test.git/src
+project-repos/Dai/dss-test.git/src/domains
+project-repos/Dai/go-ethereum.git/tests/solidity/contracts
+project-repos/Dai/ilk-registry.git/src/test/fixtures
+project-repos/Dai/mkr-mcd-spec.git/tests/solidity-test
+project-repos/Dai/nft-adapter.git/src/test/openzeppelin-solidity/access
+project-repos/Dai/nft-adapter.git/src/test/openzeppelin-solidity/access/roles
+project-repos/Dai/nft-adapter.git/src/test/openzeppelin-solidity/introspection
+project-repos/Dai/nft-adapter.git/src/test/openzeppelin-solidity/lifecycle
+project-repos/Dai/nft-adapter.git/src/test/openzeppelin-solidity/math
+project-repos/Dai/nft-adapter.git/src/test/openzeppelin-solidity/token/ERC721
+project-repos/Dai/nft-adapter.git/src/test/openzeppelin-solidity/utils
+project-repos/Dai/optimism-dai-bridge.git/contracts/test
+project-repos/Dai/protego.git/src/test
+project-repos/Dai/pymaker.git/tests/abi
+project-repos/Dai/sdai.git/src/test/mocks
+project-repos/Dai/spells-goerli.git/archive/2022-01-14-catch-up-december-update-jan-dusts/test
+project-repos/Dai/spells-goerli.git/archive/2022-01-20-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-01-27-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-02-02-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-02-17-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-03-03-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-03-04-Charter-Sneak/test
+project-repos/Dai/spells-goerli.git/archive/2022-03-09-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-03-11-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-04-01-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-04-07-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-04-14-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-04-28-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-05-08-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-05-16-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-05-20-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-06-06-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-06-27-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-07-11-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-07-25-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-08-01-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-08-05-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-08-30-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-09-05-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-09-12-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-09-26-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-10-04-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-10-12-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-10-19-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-10-26-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-11-07-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-11-12-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-11-14-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-11-28-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-11-29-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2022-12-07-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-01-24-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-02-02-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-02-07-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-02-20-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-03-03-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-03-16-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-03-17-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-03-28-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-04-07-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-04-26-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-04-28-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-05-10-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-05-17-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-05-24-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-06-07-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-06-28-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-07-12-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-08-02-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-08-18-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-08-30-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-09-13-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-09-27-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-10-11-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-11-01-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-11-15-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2023-11-29-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2024-01-12-DssSpell/test
+project-repos/Dai/spells-goerli.git/archive/2024-01-24-DssSpell/test
+project-repos/Dai/spells-goerli.git/src/test
+project-repos/Dai/spells-kovan.git/src/test
+project-repos/Dai/spells-mainnet.git/archive/2022-01-14-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-01-21-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-01-24-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-01-28-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-02-04-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-02-25-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-03-04-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-03-09-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-03-11-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-03-25-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-04-01-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-04-08-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-04-15-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-04-22-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-04-29-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-05-11-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-05-18-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-05-24-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-06-08-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-06-15-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-06-22-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-06-29-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-07-06-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-07-13-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-07-29-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-08-03-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-08-12-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-08-24-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-08-31-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-09-07-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-09-14-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-09-28-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-10-05-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-10-12-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-10-19-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-10-26-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-11-02-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-11-09-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-11-12-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-11-16-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-12-02-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2022-12-09-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-01-11-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-01-27-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-02-03-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-02-08-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-02-22-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-03-08-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-03-11-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-03-14-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-03-24-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-03-29-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-04-05-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-04-26-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-04-28-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-05-10-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-05-17-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-05-24-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-06-14-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-06-16-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-06-28-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-07-14-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-08-02-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-08-18-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-08-30-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-09-13-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-09-27-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-10-11-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-11-01-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-11-15-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2023-11-29-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2024-01-12-DssSpell/test
+project-repos/Dai/spells-mainnet.git/archive/2024-01-24-DssSpell/test
+project-repos/Dai/spells-mainnet.git/src/test
+project-repos/Dai/starknet-dss-bridge-tests.git/contracts
+project-repos/Dai/starknet-dss-bridge-tests.git/contracts/dss
+project-repos/Dai/starknet-dss-bridge-tests.git/contracts/dss-bridge
+project-repos/Dai/starknet-dss-bridge-tests.git/contracts/dss-bridge/domains/starknet
+project-repos/Dai/starknet-dss-bridge-tests.git/contracts/dss-teleport
+project-repos/Dai/starknet-dss-bridge-tests.git/contracts/dss-teleport/utils
+project-repos/Dai/starknet-dss-bridge-tests.git/test
+project-repos/Dai/testchain-medians.git/src
+project-repos/Dai/token-tests.git/src
+project-repos/Dai/token-tests.git/src/tests
+project-repos/Dai/univ2-lp-oracle.git/src/test
+project-repos/Dai/wormhole-integration-tests.git/contracts/deploy/common
+project-repos/Dai/wormhole-integration-tests.git/contracts/deploy/kovan
+project-repos/Dai/wormhole-integration-tests.git/contracts/deploy/rinkeby
+project-repos/Dai/wormhole-integration-tests.git/contracts/test
+project-repos/Dai/wormhole-integration-tests.git/contracts/test/kovan
+project-repos/Dai/wormhole-integration-tests.git/contracts/test/rinkeby
+project-repos/Dai/xdomain-dss.git/src/test/mocks
+project-repos/Dai/xdomain.git/packages/arbitrum-dai-bridge/contracts/test
+project-repos/Dai/xdomain.git/packages/optimism-dai-bridge/contracts/test
+project-repos/Dai/xdomain.git/packages/teleport-integration-tests/contracts/deploy/common
+project-repos/Dai/xdomain.git/packages/teleport-integration-tests/contracts/deploy/goerli-light
+project-repos/Dai/xdomain.git/packages/teleport-integration-tests/contracts/deploy/kovan
+project-repos/Dai/xdomain.git/packages/teleport-integration-tests/contracts/deploy/rinkeby
+project-repos/Dai/xdomain.git/packages/teleport-integration-tests/contracts/test
+project-repos/Dai/xdomain.git/packages/teleport-integration-tests/contracts/test/kovan
+project-repos/Dai/xdomain.git/packages/teleport-integration-tests/contracts/test/rinkeby
+project-repos/Dai/xdomain.git/packages/zksync-dai-bridge/contracts/l1/test
+project-repos/Dai/xdomain.git/packages/zksync-dai-bridge/contracts/l2/test
+project-repos/Decentraland/avatars-contract.git/contracts/mocks
+project-repos/Decentraland/bid-contract.git/contracts/mocks
+project-repos/Decentraland/common-contracts.git/contracts/mocks
+project-repos/Decentraland/dappeteer.git/test/src
+project-repos/Decentraland/decentraland-claim-app.git/contracts/contracts/mocks
+project-repos/Decentraland/erc721.git/test
+project-repos/Decentraland/graph-node.git/tests/integration-tests/common
+project-repos/Decentraland/graph-node.git/tests/integration-tests/ganache-reverts/contracts
+project-repos/Decentraland/graph-node.git/tests/integration-tests/overloaded-contract-functions/contracts
+project-repos/Decentraland/graph-node.git/tests/integration-tests/value-roundtrip/contracts
+project-repos/Decentraland/land-auction.git/test/contracts
+project-repos/Decentraland/land.git/test
+project-repos/Decentraland/mana.git/test/helpers
+project-repos/Decentraland/marketplace-adapter.git/contracts/mocks
+project-repos/Decentraland/marketplace-contracts.git/contracts/mocks
+project-repos/Decentraland/pass-through.git/test/contracts
+project-repos/Decentraland/rentals-contract.git/contracts/mocks
+project-repos/Decentraland/vestings-builder.git/contracts/mocks
+project-repos/Decentraland/wearables-contracts.git/contracts/mocks
+project-repos/Ethereum Name Service/buffer.git/test
+project-repos/Ethereum Name Service/dnsregistrar.git/contracts/mocks
+project-repos/Ethereum Name Service/dnssec-oracle.git/test
+project-repos/Ethereum Name Service/ens-archived-contracts.git/contracts/ethregistrar-202/mocks
+project-repos/Ethereum Name Service/ens-archived-contracts.git/contracts/ethregistrar/mocks
+project-repos/Ethereum Name Service/ens-contracts.git/contracts/dnsregistrar/mocks
+project-repos/Ethereum Name Service/ens-contracts.git/contracts/ethregistrar/mocks
+project-repos/Ethereum Name Service/ens-contracts.git/contracts/resolvers/mocks
+project-repos/Ethereum Name Service/ens-contracts.git/contracts/wrapper/mocks
+project-repos/Ethereum Name Service/ens-contracts.git/contracts/wrapper/test
+project-repos/Ethereum Name Service/ens-contracts.git/test/dnssec-oracle
+project-repos/Ethereum Name Service/ens-contracts.git/test/registry/mocks
+project-repos/Ethereum Name Service/ens-contracts.git/test/reverseRegistrar/mocks
+project-repos/Ethereum Name Service/ens-contracts.git/test/utils/mocks
+project-repos/Ethereum Name Service/ens.git/test/mocks
+project-repos/Ethereum Name Service/ethregistrar.git/contracts/mocks
+project-repos/Ethereum Name Service/ethregistrar.git/test/mocks
+project-repos/Ethereum Name Service/evmgateway.git/arb-verifier/contracts/test
+project-repos/Ethereum Name Service/evmgateway.git/l1-verifier/contracts/test
+project-repos/Ethereum Name Service/evmgateway.git/op-verifier/contracts/test
+project-repos/Ethereum Name Service/graph-node.git/tests/integration-tests/common
+project-repos/Ethereum Name Service/graph-node.git/tests/integration-tests/ganache-reverts/contracts
+project-repos/Ethereum Name Service/graph-node.git/tests/integration-tests/overloaded-contract-functions/contracts
+project-repos/Ethereum Name Service/name-wrapper.git/contracts/mocks
+project-repos/Ethereum Name Service/name-wrapper.git/contracts/test
+project-repos/Ethereum Name Service/resolvers.git/test/mocks
+project-repos/Ethereum Name Service/solsha1.git/test/mocks
+project-repos/Ethereum Name Service/subdomain-registrar.git/test
+project-repos/Fantom/Artion-Contracts.git/contracts/mock
+project-repos/Fantom/FNS-SCs.git/contracts/dnsregistrar/mocks
+project-repos/Fantom/FNS-SCs.git/contracts/ethregistrar/mocks
+project-repos/Fantom/FNS-SCs.git/contracts/resolvers/mocks
+project-repos/Fantom/FNS-SCs.git/test/dnssec-oracle
+project-repos/Fantom/FNS-SCs.git/test/registry/mocks
+project-repos/Fantom/Fantom-FLend-AAVE-v2.git/contracts/mocks/attacks
+project-repos/Fantom/Fantom-FLend-AAVE-v2.git/contracts/mocks/dependencies/weth
+project-repos/Fantom/Fantom-FLend-AAVE-v2.git/contracts/mocks/flashloan
+project-repos/Fantom/Fantom-FLend-AAVE-v2.git/contracts/mocks/oracle
+project-repos/Fantom/Fantom-FLend-AAVE-v2.git/contracts/mocks/oracle/CLAggregators
+project-repos/Fantom/Fantom-FLend-AAVE-v2.git/contracts/mocks/swap
+project-repos/Fantom/Fantom-FLend-AAVE-v2.git/contracts/mocks/tokens
+project-repos/Fantom/Fantom-FLend-AAVE-v2.git/contracts/mocks/upgradeability
+project-repos/Fantom/Fantom-FMint.git/contracts/mocks
+project-repos/Fantom/Fantom-Fusd.git/test
+project-repos/Fantom/Fantom-Statheros.git/test
+project-repos/Fantom/Fantom-Uniswap.git/contracts/Uniswap-V2-Periphery/contracts/test
+project-repos/Fantom/FtmStableCoin.git/contracts/mocks
+project-repos/Fantom/fantom-govern.git/contracts/proposal/test
+project-repos/Fantom/fantom-govern.git/contracts/test
+project-repos/Fantom/fantom-sfc.git/contracts/test
+project-repos/Fantom/fns-contracts.git/contracts/dnsregistrar/mocks
+project-repos/Fantom/fns-contracts.git/contracts/ethregistrar/mocks
+project-repos/Fantom/fns-contracts.git/contracts/resolvers/mocks
+project-repos/Fantom/fns-contracts.git/test/dnssec-oracle
+project-repos/Fantom/fns-contracts.git/test/registry/mocks
+project-repos/Fantom/gnosis_front.git/src/test/contracts
+project-repos/Fantom/go-ethereum-substate.git/tests/solidity/contracts
+project-repos/Fantom/go-ethereum.git/tests/solidity/contracts
+project-repos/Fantom/graph-node.git/tests/integration-tests/common
+project-repos/Fantom/graph-node.git/tests/integration-tests/ganache-reverts/contracts
+project-repos/Fantom/graph-node.git/tests/integration-tests/overloaded-contract-functions/contracts
+project-repos/Fantom/graph-node.git/tests/integration-tests/value-roundtrip/contracts
+project-repos/Fantom/keep3r.network.git/test
+project-repos/Fantom/opera-sfc.git/contracts/test
+project-repos/Fantom/unittestexample-hardhat.git/contracts
+project-repos/Fantom/unittestexample-truffle.git/contracts
+project-repos/Fetch.ai/agents-aea.git/tests/data/dummy_aea/vendor/fetchai/contracts/erc1155/contracts
+project-repos/Fetch.ai/safe-contracts.git/contracts/test
+project-repos/Flow/go-ethereum.git/tests/solidity/contracts
+project-repos/Frax Share/ERC4626.git/src/test/mocks
+project-repos/Frax Share/ERC4626.git/src/test/utils
+project-repos/Frax Share/Foundry-Vyper.git/lib/ds-test
+project-repos/Frax Share/YieldSpaceAMO.git/test/mocks
+project-repos/Frax Share/compound-protocol.git/tests/Contracts
+project-repos/Frax Share/frax-bonds.git/src/test
+project-repos/Frax Share/frax-bonds.git/src/test/utils
+project-repos/Frax Share/frax-ether-redemption-queue.git/src/test
+project-repos/Frax Share/frax-ether-redemption-queue.git/src/test/utils
+project-repos/Frax Share/frax-governance.git/script/test
+project-repos/Frax Share/frax-governance.git/test/fork
+project-repos/Frax Share/frax-governance.git/test/mock
+project-repos/Frax Share/frax-governance.git/test/utils
+project-repos/Frax Share/frax-oracles.git/test/e2e
+project-repos/Frax Share/frax-oracles.git/test/e2e/abstracts
+project-repos/Frax Share/frax-oracles.git/test/e2e/frax-oracle
+project-repos/Frax Share/frax-oracles.git/test/helpers
+project-repos/Frax Share/frax-solidity.git/src/hardhat/contracts/Fraxswap/core/test
+project-repos/Frax Share/frax-solidity.git/src/hardhat/contracts/Fraxswap/periphery/test
+project-repos/Frax Share/frax-solidity.git/src/hardhat/contracts/Misc_AMOs/testing
+project-repos/Frax Share/frax-solidity.git/src/hardhat/contracts/mocks
+project-repos/Frax Share/frax-template.git/src/test
+project-repos/Frax Share/fraxlend-audit.git/src/test/e2e
+project-repos/Frax Share/fraxlend-audit.git/src/test/interfaces
+project-repos/Frax Share/merkle-airdrop-starter.git/contracts/src/test/utils
+project-repos/Frax Share/protocol-v2.git/contracts/mocks/attacks
+project-repos/Frax Share/protocol-v2.git/contracts/mocks/dependencies/weth
+project-repos/Frax Share/protocol-v2.git/contracts/mocks/flashloan
+project-repos/Frax Share/protocol-v2.git/contracts/mocks/oracle
+project-repos/Frax Share/protocol-v2.git/contracts/mocks/oracle/CLAggregators
+project-repos/Frax Share/protocol-v2.git/contracts/mocks/swap
+project-repos/Frax Share/protocol-v2.git/contracts/mocks/tokens
+project-repos/Frax Share/protocol-v2.git/contracts/mocks/upgradeability
+project-repos/Frax Share/staked-frax-erc4626.git/src/test
+project-repos/Frax Share/staked-frax-erc4626.git/src/test/helpers
+project-repos/Immutable/contracts.git/contracts/mocks
+project-repos/Immutable/contracts.git/contracts/test/allowlist
+project-repos/Immutable/contracts.git/contracts/trading/seaport/test
+project-repos/Immutable/contracts.git/test/allowlist
+project-repos/Immutable/contracts.git/test/utils
+project-repos/Immutable/seaport.git/contracts/test
+project-repos/Immutable/seaport.git/test/foundry
+project-repos/Immutable/seaport.git/test/foundry/conduit
+project-repos/Immutable/seaport.git/test/foundry/interfaces
+project-repos/Immutable/seaport.git/test/foundry/new
+project-repos/Immutable/seaport.git/test/foundry/new/helpers
+project-repos/Immutable/seaport.git/test/foundry/new/helpers/event-utils
+project-repos/Immutable/seaport.git/test/foundry/new/zones
+project-repos/Immutable/seaport.git/test/foundry/offerers/impl
+project-repos/Immutable/seaport.git/test/foundry/token
+project-repos/Immutable/seaport.git/test/foundry/utils
+project-repos/Immutable/seaport.git/test/foundry/utils/reentrancy
+project-repos/Immutable/seaport.git/test/foundry/zone/impl
+project-repos/Immutable/ts-immutable-sdk.git/tests/func-tests/zkevm/contracts
+project-repos/Immutable/wallet-contracts.git/src/contracts/mocks
+project-repos/Kava/blockscout.git/apps/explorer/test/support/fixture/smart_contract
+project-repos/Kava/ethermint.git/tests/solidity/suites/basic/contracts
+project-repos/Kava/ethermint.git/tests/solidity/suites/basic/contracts/test
+project-repos/Kava/ethermint.git/tests/solidity/suites/exception/contracts
+project-repos/Kava/ethermint.git/tests/solidity/suites/exception/contracts/test
+project-repos/Kava/ethermint.git/tests/solidity/suites/initializable-buidler/contracts
+project-repos/Kava/ethermint.git/tests/solidity/suites/initializable-buidler/contracts/test
+project-repos/Kava/ethermint.git/tests/solidity/suites/initializable/contracts
+project-repos/Kava/ethermint.git/tests/solidity/suites/initializable/contracts/test
+project-repos/Kava/ethermint.git/tests/solidity/suites/opcode/contracts
+project-repos/Kava/ethermint.git/tests/solidity/suites/proxy/contracts
+project-repos/Kava/ethermint.git/tests/solidity/suites/proxy/contracts/test
+project-repos/Kava/ethermint.git/tests/solidity/suites/staking/contracts
+project-repos/Kava/ethermint.git/tests/solidity/suites/staking/contracts/lib
+project-repos/Kava/ethermint.git/tests/solidity/suites/staking/contracts/lib/os
+project-repos/Kava/ethermint.git/tests/solidity/suites/staking/contracts/locking
+project-repos/Kava/ethermint.git/tests/solidity/suites/staking/contracts/proxies
+project-repos/Kava/ethermint.git/tests/solidity/suites/staking/contracts/standards
+project-repos/Kava/ethermint.git/tests/solidity/suites/staking/contracts/test
+project-repos/Kava/ethermint.git/tests/solidity/suites/staking/contracts/test/lib
+project-repos/Kava/ethermint.git/tests/solidity/suites/staking/contracts/test/mocks
+project-repos/Kava/ethermint.git/tests/solidity/suites/storage/contracts
+project-repos/Kava/go-ethereum.git/tests/solidity/contracts
+project-repos/Kava/kava-bridge.git/contract/contracts/mocks
+project-repos/Kava/kava.git/tests/e2e/contracts/greeter
+project-repos/Lido DAO/aave-asteth-incentives-controller.git/contracts/mocks
+project-repos/Lido DAO/aave-protocol-v2.git/contracts/mocks/attacks
+project-repos/Lido DAO/aave-protocol-v2.git/contracts/mocks/dependencies/weth
+project-repos/Lido DAO/aave-protocol-v2.git/contracts/mocks/flashloan
+project-repos/Lido DAO/aave-protocol-v2.git/contracts/mocks/oracle
+project-repos/Lido DAO/aave-protocol-v2.git/contracts/mocks/oracle/CLAggregators
+project-repos/Lido DAO/aave-protocol-v2.git/contracts/mocks/swap
+project-repos/Lido DAO/aave-protocol-v2.git/contracts/mocks/tokens
+project-repos/Lido DAO/aave-protocol-v2.git/contracts/mocks/upgradeability
+project-repos/Lido DAO/aave-v3-core.git/contracts/mocks/flashloan
+project-repos/Lido DAO/aave-v3-core.git/contracts/mocks/helpers
+project-repos/Lido DAO/aave-v3-core.git/contracts/mocks/oracle
+project-repos/Lido DAO/aave-v3-core.git/contracts/mocks/oracle/CLAggregators
+project-repos/Lido DAO/aave-v3-core.git/contracts/mocks/tests
+project-repos/Lido DAO/aave-v3-core.git/contracts/mocks/tokens
+project-repos/Lido DAO/aave-v3-core.git/contracts/mocks/upgradeability
+project-repos/Lido DAO/anchor-collateral-steth.git/contracts/test_helpers
+project-repos/Lido DAO/aragon-apps.git/apps/agent/contracts/test
+project-repos/Lido DAO/aragon-apps.git/apps/agent/contracts/test/mocks
+project-repos/Lido DAO/aragon-apps.git/apps/agreement/contracts/test
+project-repos/Lido DAO/aragon-apps.git/apps/agreement/contracts/test/mocks
+project-repos/Lido DAO/aragon-apps.git/apps/agreement/contracts/test/mocks/disputable
+project-repos/Lido DAO/aragon-apps.git/apps/agreement/contracts/test/mocks/helpers
+project-repos/Lido DAO/aragon-apps.git/apps/agreement/mocks/staking
+project-repos/Lido DAO/aragon-apps.git/apps/finance/contracts/test
+project-repos/Lido DAO/aragon-apps.git/apps/finance/contracts/test/mocks
+project-repos/Lido DAO/aragon-apps.git/apps/token-manager/contracts/test
+project-repos/Lido DAO/aragon-apps.git/apps/token-manager/contracts/test/mocks
+project-repos/Lido DAO/aragon-apps.git/apps/vault/contracts/test
+project-repos/Lido DAO/aragon-apps.git/apps/vault/contracts/test/mocks
+project-repos/Lido DAO/aragon-apps.git/apps/voting-disputable/contracts/test
+project-repos/Lido DAO/aragon-apps.git/apps/voting-disputable/contracts/test/mocks
+project-repos/Lido DAO/aragon-apps.git/apps/voting-disputable/mocks/staking
+project-repos/Lido DAO/aragon-apps.git/apps/voting/contracts/test
+project-repos/Lido DAO/aragon-apps.git/apps/voting/contracts/test/mocks
+project-repos/Lido DAO/avalanche-contracts.git/src/test
+project-repos/Lido DAO/comet.git/contracts/bridges/test
+project-repos/Lido DAO/comet.git/contracts/test
+project-repos/Lido DAO/contract-helpers.git/packages/test-helpers/contracts/0.4/aragonOS
+project-repos/Lido DAO/contract-helpers.git/packages/test-helpers/contracts/0.4/internal
+project-repos/Lido DAO/contract-helpers.git/packages/test-helpers/contracts/0.4/misc
+project-repos/Lido DAO/contract-helpers.git/packages/test-helpers/contracts/0.4/token
+project-repos/Lido DAO/cross-chain-token-relay.git/contracts/test_helpers
+project-repos/Lido DAO/dual-governance.git/test/scenario
+project-repos/Lido DAO/dual-governance.git/test/utils
+project-repos/Lido DAO/easy-track.git/contracts/test
+project-repos/Lido DAO/governance-crosschain-bridges.git/contracts/mocks
+project-repos/Lido DAO/insurance-fund.git/contracts/test_helpers
+project-repos/Lido DAO/jumpgates.git/contracts/test_helpers
+project-repos/Lido DAO/lido-dao.git/contracts/0.4.24/test_helpers
+project-repos/Lido DAO/lido-dao.git/contracts/0.6.12/mocks
+project-repos/Lido DAO/lido-dao.git/contracts/0.8.9/test_helpers
+project-repos/Lido DAO/lido-dao.git/contracts/0.8.9/test_helpers/oracle
+project-repos/Lido DAO/lido-dao.git/contracts/common/test_helpers
+project-repos/Lido DAO/lido-dao.git/gasprofile/test-contracts
+project-repos/Lido DAO/lido-dao.git/test/0.8.9
+project-repos/Lido DAO/lido-dao.git/test/common/lib
+project-repos/Lido DAO/linea-contracts-fix.git/contracts/test-contracts
+project-repos/Lido DAO/linea-contracts-fix.git/contracts/tokenBridge/mocks
+project-repos/Lido DAO/linea-contracts-fix.git/contracts/tokenBridge/mocks/MessageBridgeV2
+project-repos/Lido DAO/linea-contracts-fix.git/contracts/tokenBridge/mocks/Reentrancy
+project-repos/Lido DAO/linea-contracts-fix.git/contracts/verifiers/test
+project-repos/Lido DAO/linea-contracts.git/contracts/mock
+project-repos/Lido DAO/linea-contracts.git/contracts/test-contracts
+project-repos/Lido DAO/linea-contracts.git/contracts/tokenBridge/mocks
+project-repos/Lido DAO/linea-contracts.git/contracts/tokenBridge/mocks/MessageBridgeV2
+project-repos/Lido DAO/linea-contracts.git/contracts/tokenBridge/mocks/Reentrancy
+project-repos/Lido DAO/linea-contracts.git/contracts/verifiers/test
+project-repos/Lido DAO/polygon-contracts.git/contracts/tests/helpers
+project-repos/Lido DAO/polygon-contracts.git/contracts/tests/interfaces
+project-repos/Lido DAO/polygon-contracts.git/contracts/tests/mocks
+project-repos/Lido DAO/polygon-contracts.git/contracts/tests/upgrades
+project-repos/Lido DAO/protocol-mock.git/contracts
+project-repos/Lido DAO/protocol-mock.git/contracts/interfaces
+project-repos/Lido DAO/protocol-mock.git/contracts/lib
+project-repos/Lido DAO/protocol-mock.git/contracts_flattened
+project-repos/Lido DAO/rewards-managers.git/projects/arcx/contracts/arcx_contracts/test
+project-repos/Lido DAO/rewards-managers.git/projects/sushi/contracts/test
+project-repos/Lido DAO/staking-rewards-sushi.git/contracts/test
+project-repos/Lido DAO/stonks.git/contracts/test
+project-repos/Lido DAO/uni-v3-liquidity-provider.git/contracts/test_helpers
+project-repos/Lido DAO/withdrawals-manager-stub.git/contracts/test_helpers
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/ERC677
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/contract_from_factory
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/contract_with_lib
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/home_bridge
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/issue_3082
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/issue_4758
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/issue_5114
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/issue_5127
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/issue_5430_5434
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/issue_5431
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/issue_5636
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/issue_with_constructor_args
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/library
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/simple_storage
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/solidity_0.4.10
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/solidity_0.5.14
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/solidity_0.5.9_smart_contract
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/solidity_5.11_new_whisper_metadata
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/storage
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-http/tests/contracts/with_immutable_assignment
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/ERC677
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/contract_from_factory
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/contract_with_lib
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/home_bridge
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/issue_3082
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/issue_4758
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/issue_5114
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/issue_5127
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/issue_5430_5434
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/issue_5431
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/issue_5636
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/issue_with_constructor_args
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/library
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/simple_storage
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/solidity_0.4.10
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/solidity_0.5.14
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/solidity_0.5.9_smart_contract
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/solidity_5.11_new_whisper_metadata
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/storage
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier-server/tests/contracts/with_immutable_assignment
+project-repos/Mantle/blockscout-rs.git/smart-contract-verifier/smart-contract-verifier/src/compiler/test_data
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts/large_project_many_methods
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts/large_project_many_methods/openzeppelin_contracts
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts/library_syntax_error
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts/many_libraries
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts/many_libraries/openzeppelin_contracts
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts/many_libraries/useless_libraries
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts/openzeppelin_lib/@openzeppelin
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts/openzeppelin_lib/_openzeppelin
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts/same_contract_names
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts/same_filenames/dir
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts/same_filenames/main_dir
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts/same_filenames_different_contracts/dir
+project-repos/Mantle/blockscout-rs.git/visualizer/visualizer-server/tests/contracts/same_filenames_different_contracts/main_dir
+project-repos/Mantle/blockscout.git/apps/explorer/test/support/fixture/smart_contract
+project-repos/Mantle/erigon.git/tests/contracts
+project-repos/Mantle/erigon.git/tests/solidity/contracts
+project-repos/Mantle/mantle.git/integration-tests/contracts
+project-repos/Mantle/mantle.git/l2geth/tests/solidity/contracts
+project-repos/Mantle/mantle.git/packages/contracts/contracts/L1/fraud-proof/verifier/test-driver
+project-repos/Mantle/mantle.git/packages/contracts/contracts/test-helpers
+project-repos/Mantle/mantle.git/packages/contracts/contracts/test-libraries/bridge
+project-repos/Mantle/mantle.git/packages/contracts/contracts/test-libraries/codec
+project-repos/Mantle/mantle.git/packages/contracts/contracts/test-libraries/rlp
+project-repos/Mantle/mantle.git/packages/contracts/contracts/test-libraries/standards
+project-repos/Mantle/mantle.git/packages/contracts/contracts/test-libraries/trie
+project-repos/Mantle/mantle.git/packages/contracts/contracts/test-libraries/utils
+project-repos/Mantle/mantle.git/packages/sdk/test/contracts
+project-repos/Mantle/specular.git/contracts/test/utils
+project-repos/Oasis Network/demo-authzn.git/backend/contracts/test
+project-repos/Oasis Network/emerald-blockscout.git/apps/explorer/test/support/fixture/smart_contract
+project-repos/Oasis Network/nexus.git/analyzer/runtime/abiparse/test_contracts
+project-repos/Oasis Network/oasis-sdk.git/tests/e2e/contracts
+project-repos/Oasis Network/oasis-sdk.git/tests/e2e/contracts/delegation
+project-repos/Oasis Network/oasis-sdk.git/tests/e2e/contracts/query
+project-repos/Oasis Network/oasis-sdk.git/tests/e2e/contracts/retval
+project-repos/Oasis Network/oasis-sdk.git/tests/e2e/contracts/rng
+project-repos/Oasis Network/oasis-sdk.git/tests/e2e/contracts/subcall
+project-repos/Oasis Network/oasis-sdk.git/tests/e2e/contracts/use_gas
+project-repos/Oasis Network/opengsn.git/packages/contracts/src/forwarder/test
+project-repos/Oasis Network/opengsn.git/packages/contracts/src/test
+project-repos/Oasis Network/sapphire-paratime.git/clients/py/sapphirepy/tests/testdata
+project-repos/Oasis Network/sapphire-paratime.git/contracts/contracts/tests
+project-repos/Oasis Network/web3-tests.git/test/ganache-core/test/local
+project-repos/Oasis Network/web3-tests.git/test/sources
+project-repos/Osmosis/wormhole.git/ethereum/contracts/bridge/mock
+project-repos/Osmosis/wormhole.git/ethereum/contracts/mock
+project-repos/PancakeSwap/pancake-smart-contracts.git/projects/cake-vault/contracts/test
+project-repos/PancakeSwap/pancake-smart-contracts.git/projects/farm-auctions/contracts/test
+project-repos/PancakeSwap/pancake-smart-contracts.git/projects/nft-markets/contracts/test
+project-repos/PancakeSwap/pancake-smart-contracts.git/projects/pancake-squad/contracts/test
+project-repos/PancakeSwap/pancake-smart-contracts.git/projects/predictions/v1/contracts/test
+project-repos/PancakeSwap/pancake-smart-contracts.git/projects/predictions/v2/contracts/test
+project-repos/PancakeSwap/pancake-smart-contracts.git/projects/predictions/v3/contracts/test
+project-repos/PancakeSwap/pancake-smart-contracts.git/projects/profile-nft-gamification/contracts/test
+project-repos/PancakeSwap/pancake-smart-contracts.git/projects/smartchef/v2/contracts/test
+project-repos/PancakeSwap/pancake-swap-core.git/contracts/test
+project-repos/PancakeSwap/pancake-swap-lib.git/contracts/test
+project-repos/PancakeSwap/pancake-swap-periphery.git/contracts/test
+project-repos/PancakeSwap/pancake-v3-contracts.git/projects/masterchef-v3/test
+project-repos/PancakeSwap/pancake-v3-contracts.git/projects/v3-core/contracts/test
+project-repos/PancakeSwap/pancake-v3-contracts.git/projects/v3-periphery/contracts/test
+project-repos/PancakeSwap/permit2.git/test
+project-repos/PancakeSwap/permit2.git/test/actors
+project-repos/PancakeSwap/permit2.git/test/mocks
+project-repos/PancakeSwap/permit2.git/test/utils
+project-repos/Polygon/augur.git/packages/augur-core/tests/mock_templates/contracts
+project-repos/Polygon/augur.git/packages/augur-core/tests/solidity_test_helpers
+project-repos/Polygon/bor.git/tests/solidity/contracts
+project-repos/Polygon/contracts.git/contracts/test
+project-repos/Polygon/contracts.git/contracts/test/Proxy
+project-repos/Polygon/erigon.git/tests/contracts
+project-repos/Polygon/erigon.git/tests/solidity/contracts
+project-repos/Polygon/genesis-contracts.git/contracts/test
+project-repos/Polygon/go-ethereum.git/tests/solidity/contracts
+project-repos/Polygon/polygon-cli.git/contracts/src/tester
+project-repos/Polygon/pos-portal.git/contracts/test
+project-repos/Polygon/pos-portal.git/contracts/test/PotatoMigration
+project-repos/Polygon/testnet-token-contracts.git/contracts
+project-repos/Polygon/tokenized-pos.git/contracts/mock
+project-repos/Polygon/v3-monorepo.git/packages/core/contracts/test
+project-repos/Rocket Pool/compound-comet.git/contracts/bridges/test
+project-repos/Rocket Pool/compound-comet.git/contracts/test
+project-repos/Rocket Pool/eth2.0-specs.git/solidity_deposit_contract/tests
+project-repos/Rocket Pool/rocketpool-arbitrum-oracle.git/src/mock
+project-repos/Rocket Pool/rocketpool-ovm-oracle.git/src/mock
+project-repos/Rocket Pool/rocketpool-polygon-oracle.git/src/mock
+project-repos/Rocket Pool/rocketpool-router.git/contracts/test
+project-repos/Rocket Pool/rocketpool-scroll-oracle.git/src/mock
+project-repos/Rocket Pool/rocketpool-zksync-oracle.git/src/mock
+project-repos/Shiba Inu/bor.git/tests/solidity/contracts
+project-repos/Shiba Inu/contracts.git/contracts/test
+project-repos/Shiba Inu/contracts.git/contracts/test/Proxy
+project-repos/Shiba Inu/fx-portal.git/test/handlers
+project-repos/Shiba Inu/fx-portal.git/test/mock
+project-repos/Shiba Inu/fx-portal.git/test/utils
+project-repos/Shiba Inu/genesis-contracts.git/contracts/test
+project-repos/Shiba Inu/pos-portal.git/contracts/test
+project-repos/Shiba Inu/pos-portal.git/contracts/test/PotatoMigration
+project-repos/Synthetix/Unipool.git/test/mock
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/contracts-nameclash-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/contracts-nameclash-project/contracts/folder
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/contracts-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/cyclic-dependencies-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/nested-node-project/node_modules/clashed/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/nested-node-project/node_modules/outer/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/nested-node-project/project/node_modules/clashed/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/nested-node-project/project/node_modules/inner/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/project-with-scripts/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/scoped-dependency-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/scoped-dependency-project/node_modules/@scope/package/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/scoped-dependency-project/node_modules/@scope/package/contracts/nested
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/scoped-dependency-project/node_modules/@scope/package/contracts/nested/dir
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/solidity-stack-traces-integration/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/top-level-node-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/top-level-node-project/contracts/subdir
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/top-level-node-project/node_modules/lib/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/fixture-projects/top-level-node-project/node_modules/lib/contracts/subdir
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/forward-contract-failure
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/forward-contract-failure-multiple-times
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/ignored-library-call-reverts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/incorrect-returndata-size
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/library-call-missing-function
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/library-call-reverts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/library-call-with-internal-calls-reverts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/non-contract-account-called
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/not-forward-contract-failure
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/proxy
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/send-fails
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/send-without-funds
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/transfer-fails
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/transfer-without-funds
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/unrecognized-contracts/recognized-failure
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/external-calls/unrecognized-contracts/unrecognized-failure
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/inheritance/inherited-fallback
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/inheritance/inherited-function-with-modifier
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/inheritance/inherited-modifier
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/inheritance/inherited-nonpayable-fallback
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/inheritance/inherited-nonpayable-function
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/inheritance/super-call
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/inheritance/super-call-skiping-parent
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/inheritance/super-call-with-modifier-failure
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/internal-calls/call-from-modifier-fails
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/internal-calls/call-to-function-with-failing-modifier-after
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/internal-calls/call-to-function-with-failing-modifier-before
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/internal-calls/call-to-function-with-modifier
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/internal-calls/call-to-internal-function
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/internal-calls/call-to-private-function
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/internal-calls/call-to-public-function
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/internal-calls/modifier-fails-after-call
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/internal-calls/recursive-call
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/address-payable-as-argument
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/assert
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/contract-as-argument
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/direct-library-call-existing-function
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/direct-library-call-internal-function
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/direct-library-call-non-existing-function
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/division-by-zero
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/enum-as-argument
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/fail-after-modifier
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/fallback-non-payable-with-selector
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/fallback-non-payable-without-selector
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/function-non-payable
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/funds-to-public-array-access
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/funds-to-public-mapping-access
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/funds-to-public-multiple-mapping-access
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/invalid-internal-array-access
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/invalid-public-array-access
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/modifier-fails-after
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/modifier-fails-before
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/modifier-multiple-underscores
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/multiple-modifiers
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/no-fallback-nor-selector
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/public-array-access-with-invalid-args
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/public-mapping-access-with-invalid-args
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/public-multiple-mapping-access-with-invalid-args
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/require-with-message
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/require-without-message
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/revert-in-assembly
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/revert-with-message
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/revert-with-message-after-send-fails
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/revert-without-message
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/call-message/no-calls/revert-without-message-in-fallback
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/address/address
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/address/bool
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/address/string
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/address/uint
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/bool/address
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/bool/bool
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/bool/string
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/bool/uint
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/contract-creation/not-reverting
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/contract-creation/reverting
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/error/assert
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/error/revert
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/multiple-messages/multiple-creates
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/multiple-messages/not-reverting
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/multiple-messages/reverting
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/single-log/bytes10-bytes21
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/single-log/bytes22-bytes32
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/single-log/uint-bytes9
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/string/address
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/string/bool
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/string/string
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/string/uint
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/uint/address
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/uint/bool
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/uint/string
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/console-logs/uint/uint
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/forward-contract-failure
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/forward-contract-failure-multiple-times
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/ignored-library-call-reverts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/incorrect-returndata-size
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/library-call-missing-function
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/library-call-reverts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/library-call-with-internal-calls-reverts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/non-contract-account-called
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/not-forward-contract-failure
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/send-fails
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/send-without-funds
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/transfer-fails
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/transfer-without-funds
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/unrecognized-deployments/unrecognized-contract-calls-recognized-one-failure
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/external-calls/unrecognized-deployments/unrecognized-contract-creates-recognized-one-failure
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/inheritance/multiple-constructor-one-fails
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/inheritance/multiple-constructor-one-fails-in-call
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/inheritance/only-inherited-constructor-reverts
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/inheritance/only-inherited-constructor-with-failing-call-from-modifier
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/inheritance/only-inherited-constructor-with-failing-modifier
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/internal-calls/call-from-modifier-fails
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/internal-calls/call-to-function-with-failing-modifier-after
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/internal-calls/call-to-function-with-failing-modifier-before
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/internal-calls/call-to-internal-function
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/internal-calls/call-to-private-function
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/internal-calls/call-to-public-function
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/internal-calls/modifier-fails-after-call
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/assert
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/division-by-zero
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/fail-after-modifier
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/invalid-array-access
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/modifier-fails-after
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/modifier-fails-before
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/modifier-multiple-underscores
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/multiple-modifiers
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/require-with-message
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/require-without-message
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/revert-in-assembly
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/revert-with-message
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/revert-with-message-after-send-fails
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/revert-without-message
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/send-value-to-nonpayable
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/send-value-to-nonpayable-with-wrong-args
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/solc-after-0.5.9/nonpayable-with-wrong-args
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/solc-after-0.5.9/payable-with-wrong-args
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/solc-after-0.5.9/payable-with-wrong-args-and-value
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/solc-before-0.5.9/nonpayable-with-wrong-args
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/solc-before-0.5.9/payable-with-wrong-args
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/solc-before-0.5.9/payable-with-wrong-args-and-value
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/create-message/no-calls/unrecognized-failure
+project-repos/Synthetix/buidler.git/packages/buidler-core/test/internal/buidler-evm/stack-traces/test-files/special-cases/different-contracts-same-deployment-bytecode
+project-repos/Synthetix/buidler.git/packages/buidler-ethers/test/buidler-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-etherscan/test/buidler-project-circular-dep/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-etherscan/test/buidler-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-etherscan/test/buidler-project/contracts/imported
+project-repos/Synthetix/buidler.git/packages/buidler-etherscan/test/buidler-project/contracts/libraries
+project-repos/Synthetix/buidler.git/packages/buidler-solhint/test/buidler-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-solhint/test/invalid-config-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-solhint/test/no-config-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-solpp/test/buidler-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-solpp/test/fail-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-solpp/test/js-config-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-solpp/test/json-config-project/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-truffle4/test/buidler-project-solc-0.4/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-truffle4/test/buidler-project-solc-0.5/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-truffle4/test/buidler-project-solc-0.6/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-truffle4/test/buidler-project-with-test-contracts/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-truffle4/test/buidler-project-with-test-contracts/test
+project-repos/Synthetix/buidler.git/packages/buidler-truffle5/test/buidler-project-solc-0.4/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-truffle5/test/buidler-project-solc-0.5/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-truffle5/test/buidler-project-solc-0.6/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-truffle5/test/buidler-project-with-test-contracts/contracts
+project-repos/Synthetix/buidler.git/packages/buidler-truffle5/test/buidler-project-with-test-contracts/test
+project-repos/Synthetix/futures-keepers.git/test-contracts
+project-repos/Synthetix/hardhat-interact.git/test/fixture-projects/basic/contracts
+project-repos/Synthetix/safe-synthetix-module.git/test
+project-repos/Synthetix/snx-grants-dao-v2.git/contracts/mocks
+project-repos/Synthetix/synthetix-v3.git/auxiliary/TrustedMulticallForwarder/test/mocks
+project-repos/Synthetix/synthetix-v3.git/markets/perps-market/contracts/mocks
+project-repos/Synthetix/synthetix-v3.git/markets/spot-market/contracts/mocks
+project-repos/Synthetix/synthetix-v3.git/protocol/governance/contracts/mocks
+project-repos/Synthetix/synthetix-v3.git/protocol/oracle-manager/contracts/mocks
+project-repos/Synthetix/synthetix-v3.git/protocol/oracle-manager/contracts/mocks/pyth
+project-repos/Synthetix/synthetix-v3.git/protocol/synthetix/contracts/mocks
+project-repos/Synthetix/synthetix-v3.git/utils/core-contracts/contracts/mocks/initializable
+project-repos/Synthetix/synthetix-v3.git/utils/core-contracts/contracts/mocks/proxy
+project-repos/Synthetix/synthetix-v3.git/utils/core-contracts/contracts/mocks/token
+project-repos/Synthetix/synthetix-v3.git/utils/core-contracts/contracts/mocks/utils
+project-repos/Synthetix/synthetix-v3.git/utils/core-modules/contracts/modules/mocks
+project-repos/Synthetix/synthetix-v3.git/utils/core-utils/test/fixtures/sample-project/contracts
+project-repos/Synthetix/synthetix-v3.git/utils/hardhat-storage/test/fixtures
+project-repos/Synthetix/synthetix-v3.git/utils/sample-project/contracts/test
+project-repos/Synthetix/synthetix.git/contracts/test-helpers
+project-repos/Synthetix/tokenvest.git/contracts/test-helpers
+project-repos/Synthetix/uniswap-v3-spot-twap-oracle.git/contracts/test
+project-repos/Synthetix/utility-contracts.git/tests/contracts
+project-repos/Terra Classic/incentives-controller.git/contracts/mocks
+project-repos/Terra Classic/protocol-v2.git/contracts/mocks/attacks
+project-repos/Terra Classic/protocol-v2.git/contracts/mocks/dependencies/weth
+project-repos/Terra Classic/protocol-v2.git/contracts/mocks/flashloan
+project-repos/Terra Classic/protocol-v2.git/contracts/mocks/oracle
+project-repos/Terra Classic/protocol-v2.git/contracts/mocks/oracle/CLAggregators
+project-repos/Terra Classic/protocol-v2.git/contracts/mocks/swap
+project-repos/Terra Classic/protocol-v2.git/contracts/mocks/tokens
+project-repos/Terra Classic/protocol-v2.git/contracts/mocks/upgradeability
+project-repos/Terra Classic/wormhole.git/ethereum/contracts/bridge/mock
+project-repos/Terra Classic/wormhole.git/ethereum/contracts/mock
+project-repos/Terra Classic/wormhole.git/ethereum/contracts/nft/mock
+project-repos/Tether USDt/Acala.git/ts-tests/contracts
+project-repos/Tether USDt/GUH.git/mocks
+project-repos/Tether USDt/USM.git/contracts/mocks
+project-repos/Tether USDt/alpaca-stablecoin.git/contracts/6.12/mocks
+project-repos/Tether USDt/augur_foundry.git/contracts/test
+project-repos/Tether USDt/bitcoin-token-smart-contracts.git/ethereum/contracts/mock
+project-repos/Tether USDt/bitcoin-token-smart-contracts.git/ethereumV2/contracts/mock
+project-repos/Tether USDt/bitcoin-token-smart-contracts.git/tron/contracts/mock
+project-repos/Tether USDt/busd-contract.git/test/mocks
+project-repos/Tether USDt/columbianpesogaslesspeg.git/contracts/mocks
+project-repos/Tether USDt/contracts-pre22-truefi.git/contracts/governance/mocks
+project-repos/Tether USDt/contracts-pre22-truefi.git/contracts/proxy/mocks
+project-repos/Tether USDt/contracts-pre22-truefi.git/contracts/registry/mocks
+project-repos/Tether USDt/contracts-pre22-truefi.git/contracts/true-currencies/mocks
+project-repos/Tether USDt/contracts-pre22-truefi.git/contracts/true-gold/mocks
+project-repos/Tether USDt/contracts-pre22-truefi.git/contracts/truefi/mocks
+project-repos/Tether USDt/contracts-pre22-truefi.git/contracts/truefi2/mocks
+project-repos/Tether USDt/contracts-pre22-truefi.git/contracts/trusttoken/mocks
+project-repos/Tether USDt/defidollar-core.git/contracts/common/mocks
+project-repos/Tether USDt/defidollar-core.git/contracts/peaks/curve/mocks
+project-repos/Tether USDt/dex-contracts.git/contracts/test
+project-repos/Tether USDt/digix-dao.git/contracts/mock
+project-repos/Tether USDt/digix-dao.git/contracts/mock/carbonvoting
+project-repos/Tether USDt/digix-dao.git/contracts/mock/interactive
+project-repos/Tether USDt/digix-dao.git/contracts/mock/interface
+project-repos/Tether USDt/digix-dao.git/contracts/mock/multisig
+project-repos/Tether USDt/digix-dao.git/contracts/mock/storage
+project-repos/Tether USDt/digix-dao.git/contracts/mock/tokens
+project-repos/Tether USDt/digix-dao.git/contracts/mock/whitelisting
+project-repos/Tether USDt/foundry-defi-stablecoin-f23.git/test/mocks
+project-repos/Tether USDt/gateway.git/ethereum/contracts/test
+project-repos/Tether USDt/paxos-gold-contract.git/test/mocks
+project-repos/Tether USDt/synthetix.git/contracts/test-helpers
+project-repos/Tether USDt/usdp-contracts.git/test/mocks
+project-repos/The Graph/aragon-apps.git/apps/finance/test
+project-repos/The Graph/aragon-apps.git/apps/finance/test/mocks
+project-repos/The Graph/aragon-apps.git/apps/survey/test/mocks
+project-repos/The Graph/aragon-apps.git/apps/token-manager/test
+project-repos/The Graph/aragon-apps.git/apps/token-manager/test/mocks
+project-repos/The Graph/aragon-apps.git/apps/vault/test
+project-repos/The Graph/aragon-apps.git/apps/vault/test/tokens
+project-repos/The Graph/aragon-apps.git/apps/voting/test
+project-repos/The Graph/aragon-apps.git/apps/voting/test/mocks
+project-repos/The Graph/aragon-apps.git/future-apps/payroll/test
+project-repos/The Graph/aragon-apps.git/future-apps/payroll/test/mocks
+project-repos/The Graph/aragon-apps.git/future-apps/payroll/test/mocks/oracle
+project-repos/The Graph/aragon-apps.git/templates/beta/test
+project-repos/The Graph/aragon-apps.git/templates/beta/test/mocks
+project-repos/The Graph/contracts.git/packages/contracts/contracts/tests
+project-repos/The Graph/contracts.git/packages/contracts/contracts/tests/arbitrum
+project-repos/The Graph/contracts.git/packages/contracts/contracts/tests/ens
+project-repos/The Graph/erigon.git/tests/contracts
+project-repos/The Graph/erigon.git/tests/solidity/contracts
+project-repos/The Graph/graph-node.git/tests/common
+project-repos/The Graph/graph-node.git/tests/contracts/src
+project-repos/The Graph/token-distribution.git/contracts/tests
+project-repos/The Graph/token-distribution.git/contracts/tests/arbitrum
+project-repos/The Sandbox/assetbug.git/src/solc_0.6/test
+project-repos/The Sandbox/assetbug.git/src/solc_0.7/test
+project-repos/The Sandbox/dappeteer.git/test/contract
+project-repos/The Sandbox/sandbox-smart-contracts-old.git/src/test
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/asset/contracts/mock
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/avatar/contracts/mocks
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/avatar/contracts/mocks/avatar
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/avatar/contracts/mocks/proxy
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/core/src/solc_0.6/test
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/core/src/solc_0.8/test
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/dependency-metatx/contracts/test
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/dependency-operator-filter/contracts/mock
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/dependency-royalty-management/contracts/mock
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/deploy/contracts/mocks
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/faucets/contracts/mock
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/giveaway/contracts/test
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/land/contracts/mock
+project-repos/The Sandbox/sandbox-smart-contracts.git/packages/marketplace/contracts/mocks
+project-repos/USDC/evm-cctp-contracts.git/test
+project-repos/USDC/evm-cctp-contracts.git/test/mocks
+project-repos/USDC/perimeter-protocol.git/contracts/mocks
+project-repos/USDC/perimeter-protocol.git/contracts/mocks/upgrades
+project-repos/USDC/recoverable-wrapper.git/test/utils
+project-repos/USDC/stablecoin-evm.git/contracts/test
+project-repos/USDC/stablecoin-evm.git/echidna_tests
+project-repos/Uniswap/UniswapX.git/test/util
+project-repos/Uniswap/UniswapX.git/test/util/lib
+project-repos/Uniswap/UniswapX.git/test/util/mock
+project-repos/Uniswap/UniswapX.git/test/util/mock/users
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-contract/tests/solidity-contracts
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-middleware/tests/solidity-contracts
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/cache-sample
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/dapp-sample/lib/ds-test/demo
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/dapp-sample/lib/ds-test/src
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/dapp-sample/src
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/hardhat-sample/contracts
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/hardhat-sample/node_modules/hardhat
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/model-checker-sample
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/test-contract-libs/lib1/bar/src
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/test-contract-libs/lib2/baz/src
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/test-contract-libs/src
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/test-contract-remappings/lib/bar/src
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/test-contract-remappings/src
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/test-contract-versions
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/test-flatten-duplicates/contracts
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/test-flatten-solang-failure/contracts
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/test-versioned-linkrefs/lib
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/test-versioned-linkrefs/src
+project-repos/Uniswap/ethers-rs-mobile.git/ethers-solc/test-data/yul-sample
+project-repos/Uniswap/liquidity-staker.git/contracts/test
+project-repos/Uniswap/lp-action-contracts.git/src/test/fixtures
+project-repos/Uniswap/lp-action-contracts.git/src/test/utils
+project-repos/Uniswap/merkle-distributor.git/contracts/test
+project-repos/Uniswap/permit2-sdk.git/test/mock
+project-repos/Uniswap/permit2.git/test
+project-repos/Uniswap/permit2.git/test/actors
+project-repos/Uniswap/permit2.git/test/mocks
+project-repos/Uniswap/permit2.git/test/utils
+project-repos/Uniswap/polygon-bridge.git/contracts/test
+project-repos/Uniswap/relayer.git/UniswapX/lib/forge-gas-snapshot/lib/forge-std/lib/ds-test/demo
+project-repos/Uniswap/relayer.git/UniswapX/lib/forge-gas-snapshot/lib/forge-std/lib/ds-test/src
+project-repos/Uniswap/relayer.git/UniswapX/lib/forge-gas-snapshot/lib/forge-std/test/compilation
+project-repos/Uniswap/relayer.git/UniswapX/lib/forge-gas-snapshot/src/test
+project-repos/Uniswap/relayer.git/UniswapX/lib/forge-std/lib/ds-test/demo
+project-repos/Uniswap/relayer.git/UniswapX/lib/forge-std/lib/ds-test/src
+project-repos/Uniswap/relayer.git/UniswapX/lib/forge-std/test/compilation
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/contracts/mocks
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/contracts/mocks/ERC165
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/contracts/mocks/compound
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/contracts/mocks/crosschain
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/contracts/mocks/docs
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/contracts/mocks/docs/governance
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/contracts/mocks/governance
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/contracts/mocks/proxy
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/contracts/mocks/token
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/contracts/mocks/wizard
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/lib/erc4626-tests
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/lib/forge-std/lib/ds-test/demo
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/lib/forge-std/lib/ds-test/src
+project-repos/Uniswap/relayer.git/UniswapX/lib/openzeppelin-contracts/lib/forge-std/test/compilation
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/forge-gas-snapshot/lib/forge-std/lib/ds-test/demo
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/forge-gas-snapshot/lib/forge-std/lib/ds-test/src
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/forge-gas-snapshot/src/test
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/forge-std/lib/ds-test/demo
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/forge-std/lib/ds-test/src
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/forge-std/test/compilation
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/openzeppelin-contracts/contracts/mocks
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/openzeppelin-contracts/contracts/mocks/ERC165
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/openzeppelin-contracts/contracts/mocks/UUPS
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/openzeppelin-contracts/contracts/mocks/compound
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/openzeppelin-contracts/contracts/mocks/crosschain
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/openzeppelin-contracts/contracts/mocks/wizard
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/solmate/lib/ds-test/demo
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/solmate/lib/ds-test/src
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/solmate/src/test/utils
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/solmate/src/test/utils/mocks
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/lib/solmate/src/test/utils/weird-tokens
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/test
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/test/actors
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/test/mocks
+project-repos/Uniswap/relayer.git/UniswapX/lib/permit2/test/utils
+project-repos/Uniswap/relayer.git/UniswapX/lib/solmate/lib/ds-test/demo
+project-repos/Uniswap/relayer.git/UniswapX/lib/solmate/lib/ds-test/src
+project-repos/Uniswap/relayer.git/UniswapX/lib/solmate/src/test/utils
+project-repos/Uniswap/relayer.git/UniswapX/lib/solmate/src/test/utils/mocks
+project-repos/Uniswap/relayer.git/UniswapX/lib/solmate/src/test/utils/weird-tokens
+project-repos/Uniswap/relayer.git/UniswapX/test/util
+project-repos/Uniswap/relayer.git/UniswapX/test/util/lib
+project-repos/Uniswap/relayer.git/UniswapX/test/util/mock
+project-repos/Uniswap/relayer.git/UniswapX/test/util/mock/users
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/contracts/mocks
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/contracts/mocks/ERC165
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/contracts/mocks/compound
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/contracts/mocks/crosschain
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/contracts/mocks/docs
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/contracts/mocks/docs/governance
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/contracts/mocks/governance
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/contracts/mocks/proxy
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/contracts/mocks/token
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/contracts/mocks/wizard
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/lib/erc4626-tests
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/lib/forge-std/lib/ds-test/demo
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/lib/forge-std/lib/ds-test/src
+project-repos/Uniswap/relayer.git/openzeppelin-contracts/lib/forge-std/test/compilation
+project-repos/Uniswap/relayer.git/permit2/lib/forge-gas-snapshot/lib/forge-std/lib/ds-test/demo
+project-repos/Uniswap/relayer.git/permit2/lib/forge-gas-snapshot/lib/forge-std/lib/ds-test/src
+project-repos/Uniswap/relayer.git/permit2/lib/forge-gas-snapshot/src/test
+project-repos/Uniswap/relayer.git/permit2/lib/forge-std/lib/ds-test/demo
+project-repos/Uniswap/relayer.git/permit2/lib/forge-std/lib/ds-test/src
+project-repos/Uniswap/relayer.git/permit2/lib/forge-std/test/compilation
+project-repos/Uniswap/relayer.git/permit2/lib/openzeppelin-contracts/contracts/mocks
+project-repos/Uniswap/relayer.git/permit2/lib/openzeppelin-contracts/contracts/mocks/ERC165
+project-repos/Uniswap/relayer.git/permit2/lib/openzeppelin-contracts/contracts/mocks/UUPS
+project-repos/Uniswap/relayer.git/permit2/lib/openzeppelin-contracts/contracts/mocks/compound
+project-repos/Uniswap/relayer.git/permit2/lib/openzeppelin-contracts/contracts/mocks/crosschain
+project-repos/Uniswap/relayer.git/permit2/lib/openzeppelin-contracts/contracts/mocks/wizard
+project-repos/Uniswap/relayer.git/permit2/lib/solmate/lib/ds-test/demo
+project-repos/Uniswap/relayer.git/permit2/lib/solmate/lib/ds-test/src
+project-repos/Uniswap/relayer.git/permit2/lib/solmate/src/test/utils
+project-repos/Uniswap/relayer.git/permit2/lib/solmate/src/test/utils/mocks
+project-repos/Uniswap/relayer.git/permit2/lib/solmate/src/test/utils/weird-tokens
+project-repos/Uniswap/relayer.git/permit2/test
+project-repos/Uniswap/relayer.git/permit2/test/actors
+project-repos/Uniswap/relayer.git/permit2/test/mocks
+project-repos/Uniswap/relayer.git/permit2/test/utils
+project-repos/Uniswap/relayer.git/solmate/lib/ds-test/demo
+project-repos/Uniswap/relayer.git/solmate/lib/ds-test/src
+project-repos/Uniswap/relayer.git/solmate/src/test/utils
+project-repos/Uniswap/relayer.git/solmate/src/test/utils/mocks
+project-repos/Uniswap/relayer.git/solmate/src/test/utils/weird-tokens
+project-repos/Uniswap/relayer.git/test/foundry-tests/util
+project-repos/Uniswap/relayer.git/test/foundry-tests/util/mock
+project-repos/Uniswap/relayer.git/test/foundry-tests/util/mock/users
+project-repos/Uniswap/solidity-lib.git/contracts/test
+project-repos/Uniswap/swap-router-contracts.git/contracts/test
+project-repos/Uniswap/universal-router-sdk.git/test/forge/utils
+project-repos/Uniswap/universal-router.git/contracts/test
+project-repos/Uniswap/universal-router.git/permit2/lib/forge-gas-snapshot/lib/forge-std/lib/ds-test/demo
+project-repos/Uniswap/universal-router.git/permit2/lib/forge-gas-snapshot/lib/forge-std/lib/ds-test/src
+project-repos/Uniswap/universal-router.git/permit2/lib/forge-gas-snapshot/src/test
+project-repos/Uniswap/universal-router.git/permit2/lib/forge-std/lib/ds-test/demo
+project-repos/Uniswap/universal-router.git/permit2/lib/forge-std/lib/ds-test/src
+project-repos/Uniswap/universal-router.git/permit2/lib/openzeppelin-contracts/contracts/mocks
+project-repos/Uniswap/universal-router.git/permit2/lib/openzeppelin-contracts/contracts/mocks/ERC165
+project-repos/Uniswap/universal-router.git/permit2/lib/openzeppelin-contracts/contracts/mocks/UUPS
+project-repos/Uniswap/universal-router.git/permit2/lib/openzeppelin-contracts/contracts/mocks/compound
+project-repos/Uniswap/universal-router.git/permit2/lib/openzeppelin-contracts/contracts/mocks/crosschain
+project-repos/Uniswap/universal-router.git/permit2/lib/openzeppelin-contracts/contracts/mocks/wizard
+project-repos/Uniswap/universal-router.git/permit2/lib/solmate/lib/ds-test/demo
+project-repos/Uniswap/universal-router.git/permit2/lib/solmate/lib/ds-test/src
+project-repos/Uniswap/universal-router.git/permit2/lib/solmate/src/test/utils
+project-repos/Uniswap/universal-router.git/permit2/lib/solmate/src/test/utils/mocks
+project-repos/Uniswap/universal-router.git/permit2/lib/solmate/src/test/utils/weird-tokens
+project-repos/Uniswap/universal-router.git/permit2/test
+project-repos/Uniswap/universal-router.git/permit2/test/actors
+project-repos/Uniswap/universal-router.git/permit2/test/mocks
+project-repos/Uniswap/universal-router.git/permit2/test/utils
+project-repos/Uniswap/universal-router.git/solmate/lib/ds-test/demo
+project-repos/Uniswap/universal-router.git/solmate/lib/ds-test/src
+project-repos/Uniswap/universal-router.git/solmate/src/test/utils
+project-repos/Uniswap/universal-router.git/solmate/src/test/utils/mocks
+project-repos/Uniswap/universal-router.git/solmate/src/test/utils/weird-tokens
+project-repos/Uniswap/universal-router.git/test/foundry-tests/mock
+project-repos/Uniswap/v2-core.git/contracts/test
+project-repos/Uniswap/v2-periphery.git/contracts/test
+project-repos/Uniswap/v3-core-optimism.git/contracts/test
+project-repos/Uniswap/v3-core.git/contracts/test
+project-repos/Uniswap/v3-periphery-optimism.git/contracts/test
+project-repos/Uniswap/v3-periphery.git/contracts/test
+project-repos/Uniswap/v3-staker.git/contracts/test
+project-repos/Uniswap/v4-core.git/src/test
+project-repos/Uniswap/v4-core.git/test/utils
+project-repos/Uniswap/v4-periphery.git/test/shared
+project-repos/Uniswap/v4-periphery.git/test/shared/implementation
+project-repos/Uniswap/v4-periphery.git/test/utils
+project-repos/WOO/WooPoolV2.git/contracts/test
+project-repos/WOO/WooPoolV2.git/test/foundry
+project-repos/WOO/WooStakingV2.git/contracts/test
+project-repos/WOO/WooStakingV2.git/test/foundry
+project-repos/WOO/woofi_swap_smart_contracts.git/contracts/test
