@@ -17,7 +17,7 @@ from utils import set_appropriate_solc_version
 lg = logging.getLogger('Project')
 lg.setLevel(logging.DEBUG)
 
-exclude_paths = open(EXCLUDE_PATHS_PATH).readlines()
+exclude_paths = open(EXCLUDE_PATHS_PATH).read().split('\n')
 
 
 class Project:
